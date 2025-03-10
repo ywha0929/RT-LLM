@@ -347,7 +347,7 @@ class GenerationMixin:
     """
     
     # ywha edit
-    def talk(self,tokenizer,question,emergency=False,count=50,emergencyCache=None) :
+    def talk(self,tokenizer,question,emergency=False,count=50,Cache=None) :
         # check emergency mode
         if emergency == False : # no emergency mode
             # input = [{"role": "user", "content": question}]
@@ -355,12 +355,21 @@ class GenerationMixin:
             # encode input using tokenizer
             encoded_input = tokenizer.apply_chat_template(input,return_dict=True,return_tensors='pt').to(self.device)
             # generate output
-            output = self._my_generate(**encoded_input,
-                                       max_new_tokens=count,
-                                       emergency=False,
-                                       do_sample=True, top_p=0,
-                                       pad_token_id = tokenizer.eos_token_id
-                                       )
+            if Cache == None:
+                output = self._my_generate(**encoded_input,
+                                        max_new_tokens=count,
+                                        emergency=False,
+                                        do_sample=True, top_p=0,
+                                        pad_token_id = tokenizer.eos_token_id
+                                        )
+            else :
+                output = self._my_generate(**encoded_input,
+                                        max_new_tokens=count,
+                                        emergency=False,
+                                        do_sample=True, top_p=0,
+                                        pad_token_id = tokenizer.eos_token_id,
+                                        past_key_values = Cache
+                                        )
             encoded_input.to('cpu')
             del encoded_input
             import gc
@@ -368,7 +377,7 @@ class GenerationMixin:
             return output
         else : # emergency mode
             # check for emergency KV cache
-            if emergencyCache == None:
+            if Cache == None:
                 input = [{"role": "assistant", "content": "You are a chatbot who answers my question based on text given."},
                     {"role": "user", "content": (question + 'Answer within ten tokens')}]
 
@@ -399,7 +408,7 @@ class GenerationMixin:
                                            emergency=True,
                                            do_sample=True, top_p=0,
                                            pad_token_id = tokenizer.eos_token_id,
-                                           past_key_values=emergencyCache
+                                           past_key_values=Cache
                                            )
                 encoded_input.to('cpu')
                 del encoded_input

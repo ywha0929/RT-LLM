@@ -9,7 +9,7 @@ from multiprocessing  import Queue
 class AnswererController(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
-        self.Answerer = Answerer()
+        self.Answerer = Answerer("meta-llama/Llama-3.2-1B-Instruct","meta-llama/Llama-3.2-1B-Instruct")
         self.Scheduler = SchedulerFIFO.SchedulerFIFO()
         self.END = False
 

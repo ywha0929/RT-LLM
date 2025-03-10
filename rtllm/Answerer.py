@@ -11,15 +11,15 @@ import json
 
 
 class Answerer:
-    def __init__(self):
-        self.model = LlamaForCausalLM.from_pretrained("meta-llama/Llama-3.2-1B-Instruct", torch_dtype=torch.float16,
+    def __init__(self,model_name,tokenizer_name):
+        self.model = LlamaForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16,
                                                       attn_implementation="flash_attention_2")
-        self.tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B-Instruct", torch_dtype=torch.float16)
+        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_name, torch_dtype=torch.float16)
         self.device = 'cuda'
         self.model.to(self.device)
         self.kvCacheDir = '/home/ywha/RT-LLM/kvCaches/'
-        self.emergencyCache = DynamicCache.from_legacy_cache(
-            torch.load('/home/ywha/LLMTest/RTLLM/KVCacheForEmergency.pt')).to(self.device)
+        # self.emergencyCache = DynamicCache.from_legacy_cache(
+        #     torch.load('/home/ywha/LLMTest/RTLLM/KVCacheForEmergency.pt')).to(self.device)
 
     def ask(self, question, emergency=False, count=1000, cacheFileName:str=None,historyFileName:str=None):
         with open( self.kvCacheDir+historyFileName, "r", encoding="utf-8") as f:
