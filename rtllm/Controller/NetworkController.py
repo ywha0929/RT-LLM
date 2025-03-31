@@ -1,16 +1,11 @@
 import threading
 import socket
 from _thread import *
-from multiprocessing  import Queue
 
-from SchedulerFIFO import *
-from AnswererController import AnswererController
-from rtllmMsgMode import *
-from InferenceRequest import *
-import jsonlines
-from transformers.cache_utils import DynamicCache
-import ReplyDTO
-from ReplyDTO import *
+from Scheduler.SchedulerFIFO import *
+from StructClass.rtllmMsgMode import *
+from StructClass.InferenceRequest import *
+from StructClass.ReplyDTO import *
 import os.path
 kvCacheDir = '/home/ywha/RT-LLM/kvCaches/'
 class NetworkController(threading.Thread):
@@ -53,7 +48,7 @@ class NetworkController(threading.Thread):
         while True:
             try:
                 ## send client if data recieved(echo) ##
-                dataRaw = client_socket.recv(1024)
+                dataRaw = client_socket.recv(4096)
                 data = json.loads(dataRaw.decode())
                 print('clientRequestHandler - data received from {} : {}'.format(clientStr, data))
 
@@ -62,7 +57,7 @@ class NetworkController(threading.Thread):
 
                 elif data['mode'] == rtllmMsgMode.createHistoryFile:
 
-                    self.inferenceQueue.insertInferenceRequest(InferenceRequest(True,None,data['filename']))
+                    self.inferenceQueue.insertInferenceRequest(InferenceRequest(True, None, data['filename']))
 
                 elif data['mode'] == rtllmMsgMode.checkHistoryFile:
                     jsonFilename = kvCacheDir+data['filename']+'.json'
@@ -92,7 +87,8 @@ class NetworkController(threading.Thread):
                         cacheFilename=cacheFilename,
                         clientSocket=client_socket,
                         addr = addr,
-                        requestID = data['requestID']
+                        requestID = data['requestID'],
+                        priority = data['priority']
                     ))
                 elif data['mode'] == rtllmMsgMode.disconnect:
                     self.replyQueue.put(replyDTO(client_socket, addr, 'bye',requestID=data['requestID']))

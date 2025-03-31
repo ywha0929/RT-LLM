@@ -27,7 +27,7 @@ class rtllm:
             "requestID":requestID
         }
         self.server.send(json.dumps(msg).encode())
-        reply = self.server.recv(1024).decode()
+        reply = self.server.recv(4096).decode()
         print("data received : ",reply)
         self.server.close()
 
@@ -41,7 +41,7 @@ class rtllm:
 
             }
         self.server.send(json.dumps(msg).encode())
-        reply = self.server.recv(1024).decode()
+        reply = self.server.recv(4096).decode()
         print("data received : ",reply)
 
     def createHistoryFile(self,filename:str,requestID:int=None):
@@ -61,17 +61,19 @@ class rtllm:
             "requestID":requestID
         }
         self.server.send(json.dumps(msg).encode())
-        reply = self.server.recv(1024).decode()
+        reply = self.server.recv(4096).decode()
         return reply
     
-    def requestInference(self,filename,input,requestID:int=None) :
+    def requestInference(self,filename,input,requestID:int=None,priority:int=0) :
         print('sending request to requestInference')
         msg ={
             "mode":rtllmMsgMode.inferenceRequest,
             "historyFilename":filename,
             "input":input,
-            "requestID":requestID
+            "requestID":requestID,
+            "priority":priority
         }
         self.server.send(json.dumps(msg).encode())
-        reply = self.server.recv(1024).decode()
+        replyRaw = self.server.recv(100000)
+        reply = json.loads(replyRaw.decode())
         return reply

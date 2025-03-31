@@ -1,8 +1,8 @@
 import threading
 
-from ReplyDTO import replyDTO
+from StructClass.ReplyDTO import replyDTO
 
-import SchedulerFIFO
+from Scheduler import SchedulerFIFO
 from Answerer import Answerer
 from multiprocessing  import Queue
 
