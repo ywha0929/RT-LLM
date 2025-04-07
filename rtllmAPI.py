@@ -9,6 +9,10 @@ class rtllmMsgMode(int,Enum):
     inferenceRequest=3
     disconnect=4
 
+class rtllmPriorityMode(int,Enum):
+    HIGH=0
+    MID=5
+    LOW=10
 
 class rtllm:
     def __init__(self,ip,port):

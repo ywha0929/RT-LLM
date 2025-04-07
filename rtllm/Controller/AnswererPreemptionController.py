@@ -1,5 +1,6 @@
 import threading
 
+import Scheduler.SchedulerPriorityQ
 from StructClass.ReplyDTO import replyDTO
 
 from Scheduler import SchedulerFIFO
@@ -10,8 +11,12 @@ import threading
 import json
 import torch
 from transformers import AutoTokenizer, DynamicCache
+import threading as _threading
 import copy
 from _thread import *
+
+from StructClass.rtllmPriorityMode import rtllmPriorityMode
+
 
 # preemptionFlag = False
 class AnswererPreemptionController(threading.Thread):
@@ -19,11 +24,16 @@ class AnswererPreemptionController(threading.Thread):
         threading.Thread.__init__(self)
         self.Answerer = Answerer("meta-llama/Llama-3.2-1B-Instruct","meta-llama/Llama-3.2-1B-Instruct")
         self.Tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B-Instruct", torch_dtype=torch.float16)
-        self.Scheduler = SchedulerFIFO.SchedulerFIFO()
+
         self.END = False
         self.preemptionFlag = False
         self.prevPriority = 0
         self.kvCacheDir = '/home/ywha/RT-LLM/kvCaches/'
+        self.mutex = threading.Lock()
+        self.needCheck = _threading.Condition(self.mutex)
+        self.inferenceFinished = False
+        self.Scheduler = Scheduler.SchedulerPriorityQ.SchedulerPriorityQ(3,self.needCheck)
+
 
     def run(self):
         # global preemptionFlag
@@ -57,9 +67,24 @@ class AnswererPreemptionController(threading.Thread):
 
                 # check next inferenceRequest
                 # print('try next step : ',self.Scheduler.inferenceQueue.empty())
+                nextPriority = self.Scheduler.checkHighestPriority()
+
+                while self.prevPriority <= nextPriority: # no need preemption
+                    print('AnswerPremptionContriller wait')
+                    self.needCheck.acquire()
+                    self.needCheck.wait()
+                    self.needCheck.release()
+                    print('AnswerPremptionContriller notified')
+                    # check if higher priority in queue or inferenceThread ended
+                    if self.inferenceFinished == True:
+                        self.inferenceFinished = False
+                        break
+                    else:
+                        nextPriority = self.Scheduler.checkHighestPriority()
+                # self.needCheck.release()
                 nextInferenceRequest = self.Scheduler.getInferenceRequest()
                 # print('nextInferenceRequest : ',nextInferenceRequest.input)
-                if self.prevPriority < nextInferenceRequest.priority: # no preemption
+                if self.prevPriority <= nextInferenceRequest.priority: # no preemption
                     # print('non preemption')
 
                     inferenceThread.join()
@@ -68,7 +93,7 @@ class AnswererPreemptionController(threading.Thread):
                     # del inferenceThread
                     continue
                 else :
-                    # print('preemption')
+                    print('preemption {} -> {}'.format(inferenceRequest.requestID, nextInferenceRequest.requestID))
                     self.preemptionFlag = True
                     self.Answerer.model.preemptionFlag = True
                     # self.Answerer.model.setPreemptionFlag(True)
@@ -98,7 +123,7 @@ class AnswererPreemptionController(threading.Thread):
 
 
     def makeInferenceAndSendReply(self,inferenceRequest:InferenceRequest):
-        # print('makeInferenceAndSendReply : {}'.format(inferenceRequest.input))
+        print('makeInferenceAndSendReply : {}'.format(inferenceRequest.requestID))
         # load history
         with open( self.kvCacheDir+inferenceRequest.historyFileName, "r", encoding="utf-8") as f:
             inputs = json.load(f)
@@ -111,7 +136,18 @@ class AnswererPreemptionController(threading.Thread):
         # append new request to input if input is string
         if type(inferenceRequest.input) == str:
             # print('makeInferenceAndSendReply : {}'.format('new Request'))
-            inputs.append({'role':'user','content':inferenceRequest.input})
+
+            # with length control
+            # if inferenceRequest.priority == rtllmPriorityMode.HIGH:
+            #     inputs.append({'role': 'user', 'content': inferenceRequest.input+' Answer in one word'})
+            # elif inferenceRequest.priority == rtllmPriorityMode.MID:
+            #     inputs.append({'role': 'user', 'content': inferenceRequest.input+' Answer in thirty to fifty words'})
+            # else:
+            #     inputs.append({'role':'user','content':inferenceRequest.input})
+
+            #no Length control
+            inputs.append({'role': 'user', 'content': inferenceRequest.input})
+
             encoded_input = self.Tokenizer.apply_chat_template(inputs, return_dict=True, return_tensors='pt').to('cuda')
         else :
             # print('makeInferenceAndSendReply : {}'.format('Resuming paused request'))
@@ -153,7 +189,7 @@ class AnswererPreemptionController(threading.Thread):
                                                    inferenceRequest.priority,
                                                    prevOutput=reply
                                                    )
-            self.Scheduler.insertInferenceRequest(newInferenceRequest)
+            self.Scheduler.insertPausedInferenceRequest(newInferenceRequest)
 
         else : # normal
             # if resumed from preemption, append reply with prevOutput
@@ -175,5 +211,8 @@ class AnswererPreemptionController(threading.Thread):
             # send reply to client
             self.replyHandlerQueue.put(
                 replyDTO(inferenceRequest.clientSocket, inferenceRequest.addr, output, requestID=inferenceRequest.requestID))
-
+            self.inferenceFinished = True
+            self.needCheck.acquire()
+            self.needCheck.notify()
+            self.needCheck.release()
         # print('makeInferenceAndSendReply finished')

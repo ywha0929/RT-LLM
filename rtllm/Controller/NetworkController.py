@@ -49,7 +49,7 @@ class NetworkController(threading.Thread):
             try:
                 ## send client if data recieved(echo) ##
                 dataRaw = client_socket.recv(1024)
-                # print(dataRaw.decode())
+                # print('clientRequestHandler - data received from {} - {}'.format(clientStr,dataRaw.decode()))
                 data = json.loads(dataRaw.decode())
                 import time
                 print('clientRequestHandler - data received from {} - {} : {}'.format(clientStr, data,time.time_ns()))

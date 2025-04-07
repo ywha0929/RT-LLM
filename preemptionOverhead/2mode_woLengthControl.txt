@@ -1,0 +1,551 @@
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+--------------------start--------------------
+sending request to requestInference
+sending request to requestInference
+requestID : test_0 - Priority : 0 - time : 280.207692
+sending request to requestInference
+requestID : test_1 - Priority : 0 - time : 181.408236
+sending request to requestInference
+requestID : test_2 - Priority : 0 - time : 184.446855
+sending request to requestInference
+requestID : test_3 - Priority : 0 - time : 192.050947
+sending request to requestInference
+requestID : test_4 - Priority : 0 - time : 175.09247
+sending request to requestInference
+requestID : test_5 - Priority : 0 - time : 179.013136
+sending request to requestInference
+requestID : test_6 - Priority : 0 - time : 187.601798
+sending request to requestInference
+requestID : test_7 - Priority : 0 - time : 187.139158
+sending request to requestInference
+requestID : test_8 - Priority : 0 - time : 189.829721
+sending request to requestInference
+requestID : test_9 - Priority : 0 - time : 188.926129
+sending request to requestInference
+requestID : test_10 - Priority : 0 - time : 190.364443
+sending request to requestInference
+sending request to requestInference
+requestID : test_11 - Priority : 0 - time : 198.198687
+sending request to requestInference
+requestID : test_12 - Priority : 0 - time : 205.43336
+requestID : test_100 - Priority : 10 - time : 12595.189767
+sending request to requestInference
+requestID : test_13 - Priority : 0 - time : 176.602579
+sending request to requestInference
+requestID : test_14 - Priority : 0 - time : 178.136249
+sending request to requestInference
+requestID : test_15 - Priority : 0 - time : 173.572289
+sending request to requestInference
+requestID : test_16 - Priority : 0 - time : 183.411759
+sending request to requestInference
+requestID : test_17 - Priority : 0 - time : 185.579845
+sending request to requestInference
+requestID : test_18 - Priority : 0 - time : 183.7313
+sending request to requestInference
+requestID : test_19 - Priority : 0 - time : 185.626273
+sending request to requestInference
+requestID : test_20 - Priority : 0 - time : 187.926527
+sending request to requestInference
+requestID : test_21 - Priority : 0 - time : 185.962258
+sending request to requestInference
+sending request to requestInference
+requestID : test_22 - Priority : 0 - time : 183.128904
+sending request to requestInference
+requestID : test_23 - Priority : 0 - time : 192.204646
+sending request to requestInference
+requestID : test_24 - Priority : 0 - time : 191.283425
+requestID : test_101 - Priority : 10 - time : 13854.07713
+sending request to requestInference
+requestID : test_25 - Priority : 0 - time : 179.825969
+sending request to requestInference
+requestID : test_26 - Priority : 0 - time : 178.970444
+sending request to requestInference
+requestID : test_27 - Priority : 0 - time : 172.545615
+sending request to requestInference
+requestID : test_28 - Priority : 0 - time : 182.024121
+sending request to requestInference
+requestID : test_29 - Priority : 0 - time : 182.983073
+sending request to requestInference
+requestID : test_30 - Priority : 0 - time : 177.677475
+sending request to requestInference
+requestID : test_31 - Priority : 0 - time : 187.123257
+sending request to requestInference
+requestID : test_32 - Priority : 0 - time : 188.609139
+sending request to requestInference
+sending request to requestInference
+requestID : test_33 - Priority : 0 - time : 181.946392
+sending request to requestInference
+requestID : test_34 - Priority : 0 - time : 192.613135
+sending request to requestInference
+requestID : test_35 - Priority : 0 - time : 195.679242
+sending request to requestInference
+requestID : test_36 - Priority : 0 - time : 194.337166
+sending request to requestInference
+requestID : test_37 - Priority : 0 - time : 198.969097
+requestID : test_102 - Priority : 10 - time : 15298.265988
+sending request to requestInference
+requestID : test_38 - Priority : 0 - time : 169.797167
+sending request to requestInference
+requestID : test_39 - Priority : 0 - time : 174.835016
+sending request to requestInference
+requestID : test_40 - Priority : 0 - time : 188.105094
+sending request to requestInference
+requestID : test_41 - Priority : 0 - time : 197.738718
+sending request to requestInference
+requestID : test_42 - Priority : 0 - time : 188.149434
+sending request to requestInference
+requestID : test_43 - Priority : 0 - time : 196.907918
+sending request to requestInference
+sending request to requestInference
+requestID : test_44 - Priority : 0 - time : 195.638004
+sending request to requestInference
+requestID : test_45 - Priority : 0 - time : 191.777037
+sending request to requestInference
+requestID : test_46 - Priority : 0 - time : 203.253762
+sending request to requestInference
+requestID : test_47 - Priority : 0 - time : 198.573802
+sending request to requestInference
+requestID : test_48 - Priority : 0 - time : 194.502979
+sending request to requestInference
+requestID : test_49 - Priority : 0 - time : 203.492905
+requestID : test_103 - Priority : 10 - time : 16666.578487
+sending request to requestInference
+requestID : test_50 - Priority : 0 - time : 180.692804
+sending request to requestInference
+requestID : test_51 - Priority : 0 - time : 172.439717
+sending request to requestInference
+requestID : test_52 - Priority : 0 - time : 186.150973
+sending request to requestInference
+requestID : test_53 - Priority : 0 - time : 175.922063
+sending request to requestInference
+requestID : test_54 - Priority : 0 - time : 183.551433
+sending request to requestInference
+sending request to requestInference
+requestID : test_55 - Priority : 0 - time : 179.313573
+sending request to requestInference
+requestID : test_56 - Priority : 0 - time : 184.606116
+sending request to requestInference
+requestID : test_57 - Priority : 0 - time : 190.986562
+sending request to requestInference
+requestID : test_58 - Priority : 0 - time : 195.55749
+sending request to requestInference
+requestID : test_59 - Priority : 0 - time : 198.450322
+sending request to requestInference
+requestID : test_60 - Priority : 0 - time : 196.981199
+sending request to requestInference
+requestID : test_61 - Priority : 0 - time : 197.096028
+requestID : test_104 - Priority : 10 - time : 17969.173124
+sending request to requestInference
+requestID : test_62 - Priority : 0 - time : 178.904518
+sending request to requestInference
+requestID : test_63 - Priority : 0 - time : 177.274447
+sending request to requestInference
+requestID : test_64 - Priority : 0 - time : 185.597498
+sending request to requestInference
+requestID : test_65 - Priority : 0 - time : 182.844299
+sending request to requestInference
+sending request to requestInference
+requestID : test_66 - Priority : 0 - time : 185.400993
+sending request to requestInference
+requestID : test_67 - Priority : 0 - time : 190.84897
+sending request to requestInference
+requestID : test_68 - Priority : 0 - time : 192.283162
+sending request to requestInference
+requestID : test_69 - Priority : 0 - time : 180.446234
+sending request to requestInference
+requestID : test_70 - Priority : 0 - time : 186.598367
+sending request to requestInference
+requestID : test_71 - Priority : 0 - time : 186.514736
+sending request to requestInference
+requestID : test_72 - Priority : 0 - time : 186.071837
+sending request to requestInference
+requestID : test_73 - Priority : 0 - time : 192.015982
+sending request to requestInference
+requestID : test_74 - Priority : 0 - time : 195.184795
+requestID : test_105 - Priority : 10 - time : 19450.067844
+sending request to requestInference
+requestID : test_75 - Priority : 0 - time : 170.896359
+sending request to requestInference
+requestID : test_76 - Priority : 0 - time : 174.885077
+sending request to requestInference
+sending request to requestInference
+requestID : test_77 - Priority : 0 - time : 182.292011
+sending request to requestInference
+requestID : test_78 - Priority : 0 - time : 180.430497
+sending request to requestInference
+requestID : test_79 - Priority : 0 - time : 181.450683
+sending request to requestInference
+requestID : test_80 - Priority : 0 - time : 180.745647
+sending request to requestInference
+requestID : test_81 - Priority : 0 - time : 180.429518
+sending request to requestInference
+requestID : test_82 - Priority : 0 - time : 199.652033
+sending request to requestInference
+requestID : test_83 - Priority : 0 - time : 184.275079
+sending request to requestInference
+requestID : test_84 - Priority : 0 - time : 195.33044
+sending request to requestInference
+requestID : test_85 - Priority : 0 - time : 194.124356
+sending request to requestInference
+requestID : test_86 - Priority : 0 - time : 193.140151
+requestID : test_106 - Priority : 10 - time : 20749.399761
+sending request to requestInference
+requestID : test_87 - Priority : 0 - time : 178.24737
+sending request to requestInference
+sending request to requestInference
+requestID : test_88 - Priority : 0 - time : 171.882875
+sending request to requestInference
+requestID : test_89 - Priority : 0 - time : 176.854956
+sending request to requestInference
+requestID : test_90 - Priority : 0 - time : 174.296643
+sending request to requestInference
+requestID : test_91 - Priority : 0 - time : 184.564319
+sending request to requestInference
+requestID : test_92 - Priority : 0 - time : 192.365716
+sending request to requestInference
+requestID : test_93 - Priority : 0 - time : 178.313993
+sending request to requestInference
+requestID : test_94 - Priority : 0 - time : 180.995417
+sending request to requestInference
+requestID : test_95 - Priority : 0 - time : 197.771638
+sending request to requestInference
+requestID : test_96 - Priority : 0 - time : 184.343454
+sending request to requestInference
+requestID : test_97 - Priority : 0 - time : 194.859986
+sending request to requestInference
+requestID : test_98 - Priority : 0 - time : 198.943865
+sending request to requestInference
+requestID : test_107 - Priority : 10 - time : 22041.714325
+sending request to requestInference
+requestID : test_99 - Priority : 0 - time : 184.743398
+requestID : test_108 - Priority : 10 - time : 21350.325041
+requestID : test_109 - Priority : 10 - time : 20483.793148
