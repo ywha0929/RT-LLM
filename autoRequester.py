@@ -17,3 +17,9 @@ for i in range(100):
     start = time.time_ns()
     print(Helper.requestInference('autoRequester',request,1)," time : ",(time.time_ns()-start)/1000000)
     time.sleep(0.5)
+
+def requestInference(sessionName,input,requestID,priority):
+    start = time.time_ns()
+    Helper.requestInference(sessionName,input,requestID,priority)
+    end = time.time_ns()
+    print('requestID : {} - Priority : {} - time : {}'.format(sessionName,priority,(end-start)/1000000))
