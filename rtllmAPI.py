@@ -27,6 +27,7 @@ class rtllm:
             "requestID":requestID
         }
         self.server.send(json.dumps(msg).encode())
+        self.server.sendall()
         reply = self.server.recv(4096).decode()
         print("data received : ",reply)
         self.server.close()

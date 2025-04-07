@@ -30,9 +30,11 @@ class AnswererPreemptionController(threading.Thread):
         inferenceRequest = self.Scheduler.getInferenceRequest()
 
         while self.END == False:
-            print('AnswererController.run : {}'.format(inferenceRequest.requestID))
+            # print('AnswererController.run : {}'.format(inferenceRequest.requestID))
             if inferenceRequest.createCacheMode == True:
-                print('AnswererController.run : {}'.format('createCacheMode'))
+
+                # print('AnswererController.run : {}'.format('createCacheMode'))
+
                 history = [{"role": "assistant", "content": "You are a chatbot who answers my question."}]
                 with open(self.kvCacheDir+inferenceRequest.historyFileName+'.json', "w", encoding="utf-8") as f:  # 쓰기 모드(w)나 추가 모드(a)로 열기
                     json.dump(history, f)
@@ -44,7 +46,9 @@ class AnswererPreemptionController(threading.Thread):
                 torch.save(kvCache,self.kvCacheDir+inferenceRequest.historyFileName+'.pt')
                 inferenceRequest = self.Scheduler.getInferenceRequest()
             else :
-                print('AnswererController.run : {}'.format('normalInferenceMode'))
+
+                # print('AnswererController.run : {}'.format('normalInferenceMode'))
+
                 # inferenceThreadID = start_new_thread(self.makeInferenceAndSendReply, (inferenceRequest,))
                 inferenceThread = threading.Thread(target=self.makeInferenceAndSendReply,args=(inferenceRequest.__copy__(),))
                 self.prevPriority = inferenceRequest.priority
@@ -52,19 +56,19 @@ class AnswererPreemptionController(threading.Thread):
                 inferenceThread.start() # inference start
 
                 # check next inferenceRequest
-                print('try next step : ',self.Scheduler.inferenceQueue.empty())
+                # print('try next step : ',self.Scheduler.inferenceQueue.empty())
                 nextInferenceRequest = self.Scheduler.getInferenceRequest()
-                print('nextInferenceRequest : ',nextInferenceRequest.input)
+                # print('nextInferenceRequest : ',nextInferenceRequest.input)
                 if self.prevPriority < nextInferenceRequest.priority: # no preemption
-                    print('non preemption')
+                    # print('non preemption')
 
                     inferenceThread.join()
-                    print('AnswererController.run : join checkpoint')
+                    # print('AnswererController.run : join checkpoint')
                     inferenceRequest = nextInferenceRequest
                     # del inferenceThread
                     continue
                 else :
-                    print('preemption')
+                    # print('preemption')
                     self.preemptionFlag = True
                     self.Answerer.model.preemptionFlag = True
                     # self.Answerer.model.setPreemptionFlag(True)
@@ -74,13 +78,13 @@ class AnswererPreemptionController(threading.Thread):
                     # self.prevPriority = inferenceRequest.priority
                     # join previous request
                     inferenceThread.join()
-                    print('AnswererController.run : join checkpoint')
+                    # print('AnswererController.run : join checkpoint')
                     # del inferenceThread
                     self.preemptionFlag = False
                     # start higher priority request
                     self.Answerer.model.setPreemptionFlag(False)
                     inferenceRequest = nextInferenceRequest
-                    print('pending request : ',inferenceRequest.input)
+                    # print('pending request : ',inferenceRequest.input)
                     # newInferenceThread.start()
 
 
@@ -94,23 +98,23 @@ class AnswererPreemptionController(threading.Thread):
 
 
     def makeInferenceAndSendReply(self,inferenceRequest:InferenceRequest):
-        print('makeInferenceAndSendReply : {}'.format(inferenceRequest.input))
+        # print('makeInferenceAndSendReply : {}'.format(inferenceRequest.input))
         # load history
         with open( self.kvCacheDir+inferenceRequest.historyFileName, "r", encoding="utf-8") as f:
             inputs = json.load(f)
         f.close()
         # del f
-        print('makeInferenceAndSendReply : {}'.format(inferenceRequest.historyFileName))
+        # print('makeInferenceAndSendReply : {}'.format(inferenceRequest.historyFileName))
         # load kvCache
         past_key_values = torch.load(self.kvCacheDir + inferenceRequest.cacheFilename)
-        print('makeInferenceAndSendReply : {}'.format(inferenceRequest.historyFileName))
+        # print('makeInferenceAndSendReply : {}'.format(inferenceRequest.historyFileName))
         # append new request to input if input is string
         if type(inferenceRequest.input) == str:
-            print('makeInferenceAndSendReply : {}'.format('new Request'))
+            # print('makeInferenceAndSendReply : {}'.format('new Request'))
             inputs.append({'role':'user','content':inferenceRequest.input})
             encoded_input = self.Tokenizer.apply_chat_template(inputs, return_dict=True, return_tensors='pt').to('cuda')
         else :
-            print('makeInferenceAndSendReply : {}'.format('Resuming paused request'))
+            # print('makeInferenceAndSendReply : {}'.format('Resuming paused request'))
             encoded_input = inferenceRequest.input
             # encoded_input['input_ids'] = encoded_input['input_ids'][:,:-1]
 
@@ -130,8 +134,8 @@ class AnswererPreemptionController(threading.Thread):
         # encoded_input.input_ids.cat(reply, 2)
         # print(encoded_input)
         if self.preemptionFlag == True: # paused reply
-            print('putting previous request to inference request queue')
-            print('reply : ',reply)
+            # print('putting previous request to inference request queue')
+            # print('reply : ',reply)
             # reply = reply[:-1]
             # print('reply : ', reply)
             # append generated tokens to encoded_input
@@ -172,4 +176,4 @@ class AnswererPreemptionController(threading.Thread):
             self.replyHandlerQueue.put(
                 replyDTO(inferenceRequest.clientSocket, inferenceRequest.addr, output, requestID=inferenceRequest.requestID))
 
-        print('makeInferenceAndSendReply finished')
+        # print('makeInferenceAndSendReply finished')

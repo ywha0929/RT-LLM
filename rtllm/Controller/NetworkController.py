@@ -29,12 +29,12 @@ class NetworkController(threading.Thread):
         sock.listen()
         try:
             while True:
-                print('NetworkController/run - Wait')
+                # print('NetworkController/run - Wait')
 
                 client_socket, addr = sock.accept()
                 self.clients.append(client_socket)
                 start_new_thread(self.clientRequestHandler, (client_socket, addr))
-                print("NetworkController/run - client count ", len(self.clients))
+                # print("NetworkController/run - client count ", len(self.clients))
         except Exception as e:
             print('에러 : ', e)
 
@@ -42,15 +42,17 @@ class NetworkController(threading.Thread):
             sock.close()
 
     def clientRequestHandler(self, client_socket, addr):
-        print('clientRequestHandler - Connected by :', addr[0], ':', addr[1])
+        # print('clientRequestHandler - Connected by :', addr[0], ':', addr[1])
         clientStr = '{}/{}'.format(addr[0],addr[1])
         ## process until client disconnect ##
         while True:
             try:
                 ## send client if data recieved(echo) ##
-                dataRaw = client_socket.recv(4096)
+                dataRaw = client_socket.recv(1024)
+                # print(dataRaw.decode())
                 data = json.loads(dataRaw.decode())
-                print('clientRequestHandler - data received from {} : {}'.format(clientStr, data))
+                import time
+                print('clientRequestHandler - data received from {} - {} : {}'.format(clientStr, data,time.time_ns()))
 
                 if data['mode'] == rtllmMsgMode.test:
                     self.replyQueue.put(replyDTO(client_socket, addr,"check",data['requestID']))
@@ -79,7 +81,7 @@ class NetworkController(threading.Thread):
                     jsonFilename = history+'.json'
                     cacheFilename = history+'.pt'
                     input = data['input']
-                    print(cacheFilename)
+                    # print(cacheFilename)
                     self.inferenceQueue.insertInferenceRequest(InferenceRequest(
                         False,
                         input=input,
@@ -95,19 +97,21 @@ class NetworkController(threading.Thread):
 
 
             except ConnectionResetError as e:
-                print('clientRequestHandler -  Disconnected by ' + addr[0], ':', addr[1])
+                # print('clientRequestHandler -  Disconnected by ' + addr[0], ':', addr[1])
                 break
 
     def replyHandler(self,queue: Queue):
         while(self.END == False):
             targetReply = queue.get()
+            import time
+            print('reply {} : {}'.format(targetReply.requestID, time.time_ns()))
             if isinstance(targetReply, replyDTO) == False:
                 print('replyHandler - error : wrong ReplyFormat')
 
 
             msg = targetReply.toJson()
-            print('replyHandler - ',targetReply.getClientAddr(), '->', msg)
+            # print('replyHandler - ',targetReply.getClientAddr(), '->', msg)
             targetReply.getClientSocket().send( msg.encode() )
             if targetReply.reply_msg == 'bye':
-                print('replyHandler - ending session')
+                # print('replyHandler - ending session')
                 targetReply.getClientSocket().close()

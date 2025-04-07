@@ -22,6 +22,8 @@ class Answerer:
         #     torch.load('/home/ywha/LLMTest/RTLLM/KVCacheForEmergency.pt')).to(self.device)
 
     def ask(self, input_ids, kvCache=None,emergency=False, count=1000):
+        import time
+        print('start of inference : {}'.format(time.time_ns()))
         # with open( self.kvCacheDir+historyFileName, "r", encoding="utf-8") as f:
         #     input = json.load(f)
         # f.close()
@@ -50,7 +52,7 @@ class Answerer:
                 #                  )
 
             # print(generated_ids)
-            return generated_ids
+            # return generated_ids
             # print(output)
             # return ''.join(output), len(output)
         else :
@@ -71,8 +73,9 @@ class Answerer:
                 #                  history=input,
                 #                  kvCache=past_key_values
                 #                  )
-
-            return generated_ids
+        import time
+        print('end of inference : {}'.format(time.time_ns()))
+        return generated_ids
             # print(output)
             # return ''.join(output), len(output)
 

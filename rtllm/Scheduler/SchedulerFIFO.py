@@ -7,13 +7,13 @@ class SchedulerFIFO:
         self.inferenceQueue = Queue()
 
     def insertInferenceRequest(self, request: InferenceRequest):
-
-        print('SchedulerFIFO - insertInferenceRequest : ',request.input)
+        import time
+        print('SchedulerFIFO - insertInferenceRequest : ',time.time_ns())
         self.inferenceQueue.put(request,block=True)
 
     def getInferenceRequest(self) -> InferenceRequest:
         # print('SchedulerFIFO - getInferenceRequest')
         nextRequest = self.inferenceQueue.get(block=True)
-        print('SchedulerFIFO - getInferenceRequest : ', nextRequest.input)
+        # print('SchedulerFIFO - getInferenceRequest : ', nextRequest.input)
         # print(nextRequest.requestID)
         return nextRequest

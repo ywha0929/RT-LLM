@@ -16,7 +16,9 @@ class AnswererController(threading.Thread):
     def run(self):
         while self.END == False:
             inferenceRequest = self.Scheduler.getInferenceRequest()
-            print('AnswererController.run : {}'.format(inferenceRequest))
+
+            # print('AnswererController.run : {}'.format(inferenceRequest))
+
             if inferenceRequest.createCacheMode == True:
                 self.Answerer.createKVCache(inferenceRequest.historyFileName)
             else :
