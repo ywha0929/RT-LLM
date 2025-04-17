@@ -99,6 +99,3 @@ class Answerer:
         # output = self.model(**encoded_input,past_key_values=kvCache)
         # cacheFileName = jsonFilename[:-5] + '.pt'
         # torch.save(kvCache, cacheFileName)
-
-    def setPreemptionFlag(self,flag:bool):
-        self.model.preemptionFlag = flag

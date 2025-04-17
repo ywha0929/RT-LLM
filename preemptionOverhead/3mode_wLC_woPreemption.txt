@@ -1,0 +1,1171 @@
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_0
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_1
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_2
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_3
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_4
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_5
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_6
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_7
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_8
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_9
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_10
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_11
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_12
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_13
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_14
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_15
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_16
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_17
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_18
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_19
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_20
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_21
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_22
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_23
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_24
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_25
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_26
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_27
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_28
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_29
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_30
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_31
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_32
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_33
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_34
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_35
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_36
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_37
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_38
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_39
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_40
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_41
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_42
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_43
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_44
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_45
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_46
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_47
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_48
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_49
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_50
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_51
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_52
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_53
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_54
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_55
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_56
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_57
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_58
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_59
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_60
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_61
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_62
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_63
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_64
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_65
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_66
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_67
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_68
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_69
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_70
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_71
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_72
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_73
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_74
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_75
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_76
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_77
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_78
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_79
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_80
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_81
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_82
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_83
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_84
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_85
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_86
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_87
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_88
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_89
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_90
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_91
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_92
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_93
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_94
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_95
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_96
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_97
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_98
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_99
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_100
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_101
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_102
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_103
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_104
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_105
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_106
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_107
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_108
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_109
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_110
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_111
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_112
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_113
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_114
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_115
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_116
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_117
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_118
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_119
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_120
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_121
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_122
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_123
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_124
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_125
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_126
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_127
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_128
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_129
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+--------------------start--------------------
+sending request to requestInference
+write data to server : 0 - 1744878757329984302
+read data from server : 0 - 1744878757503148584
+requestID : test_0 - Priority : 0 - time : 173.202501
+sending request to requestInference
+write data to server : 1 - 1744878757503203451
+read data from server : 1 - 1744878757595337535
+requestID : test_1 - Priority : 0 - time : 92.159121
+sending request to requestInference
+write data to server : 2 - 1744878757595374680
+read data from server : 2 - 1744878757683496095
+requestID : test_2 - Priority : 0 - time : 88.147342
+sending request to requestInference
+write data to server : 3 - 1744878757683543549
+read data from server : 3 - 1744878757768885019
+requestID : test_3 - Priority : 0 - time : 85.365255
+sending request to requestInference
+write data to server : 4 - 1744878757768921424
+read data from server : 4 - 1744878757854727173
+requestID : test_4 - Priority : 0 - time : 85.833506
+sending request to requestInference
+write data to server : 5 - 1744878757854769894
+read data from server : 5 - 1744878757940009217
+requestID : test_5 - Priority : 0 - time : 85.265062
+sending request to requestInference
+write data to server : 6 - 1744878757940048071
+read data from server : 6 - 1744878758025337371
+requestID : test_6 - Priority : 0 - time : 85.3163
+sending request to requestInference
+write data to server : 7 - 1744878758025378568
+read data from server : 7 - 1744878758110967039
+requestID : test_7 - Priority : 0 - time : 85.612008
+sending request to requestInference
+write data to server : 8 - 1744878758111003269
+read data from server : 8 - 1744878758195913653
+requestID : test_8 - Priority : 0 - time : 84.936738
+sending request to requestInference
+write data to server : 9 - 1744878758195954114
+read data from server : 9 - 1744878758280914528
+requestID : test_9 - Priority : 0 - time : 84.984974
+sending request to requestInference
+write data to server : 10 - 1744878758280950757
+read data from server : 10 - 1744878758366132755
+requestID : test_10 - Priority : 0 - time : 85.208203
+sending request to requestInference
+write data to server : 11 - 1744878758366173350
+read data from server : 11 - 1744878758453323320
+requestID : test_11 - Priority : 0 - time : 87.171475
+sending request to requestInference
+write data to server : 12 - 1744878758453505354
+read data from server : 12 - 1744878758538698419
+requestID : test_12 - Priority : 0 - time : 85.36573
+sending request to requestInference
+write data to server : 13 - 1744878758538730214
+read data from server : 13 - 1744878758623718832
+requestID : test_13 - Priority : 0 - time : 85.001121
+sending request to requestInference
+write data to server : 14 - 1744878758623736407
+read data from server : 14 - 1744878758708863968
+requestID : test_14 - Priority : 0 - time : 85.146191
+sending request to requestInference
+write data to server : 15 - 1744878758708892071
+read data from server : 15 - 1744878758793929430
+requestID : test_15 - Priority : 0 - time : 85.049105
+sending request to requestInference
+write data to server : 16 - 1744878758793946163
+read data from server : 16 - 1744878758879523540
+requestID : test_16 - Priority : 0 - time : 85.603202
+sending request to requestInference
+write data to server : 17 - 1744878758879564294
+read data from server : 17 - 1744878758964953497
+requestID : test_17 - Priority : 0 - time : 85.409265
+sending request to requestInference
+write data to server : 18 - 1744878758964980530
+read data from server : 18 - 1744878759050258358
+requestID : test_18 - Priority : 0 - time : 85.305303
+sending request to requestInference
+write data to server : 19 - 1744878759050300440
+read data from server : 19 - 1744878759136103280
+requestID : test_19 - Priority : 0 - time : 85.819355
+sending request to requestInference
+write data to server : 20 - 1744878759136125460
+read data from server : 20 - 1744878759221962154
+requestID : test_20 - Priority : 0 - time : 85.859106
+sending request to requestInference
+write data to server : 21 - 1744878759221994729
+read data from server : 21 - 1744878759307293827
+requestID : test_21 - Priority : 0 - time : 85.310945
+sending request to requestInference
+write data to server : 22 - 1744878759307310974
+read data from server : 22 - 1744878759394325628
+requestID : test_22 - Priority : 0 - time : 87.035183
+sending request to requestInference
+write data to server : 23 - 1744878759394356020
+read data from server : 23 - 1744878759484212204
+requestID : test_23 - Priority : 0 - time : 89.87027
+sending request to requestInference
+write data to server : 24 - 1744878759484232603
+read data from server : 24 - 1744878759572748058
+requestID : test_24 - Priority : 0 - time : 88.536273
+sending request to requestInference
+write data to server : 25 - 1744878759572778849
+read data from server : 25 - 1744878759661469121
+requestID : test_25 - Priority : 0 - time : 88.711813
+sending request to requestInference
+write data to server : 26 - 1744878759661502164
+read data from server : 26 - 1744878759746903873
+requestID : test_26 - Priority : 0 - time : 85.426736
+sending request to requestInference
+write data to server : 27 - 1744878759746938915
+read data from server : 27 - 1744878759831773048
+requestID : test_27 - Priority : 0 - time : 84.851416
+sending request to requestInference
+write data to server : 28 - 1744878759831804504
+read data from server : 28 - 1744878759917163684
+requestID : test_28 - Priority : 0 - time : 85.380669
+sending request to requestInference
+write data to server : 29 - 1744878759917195193
+read data from server : 29 - 1744878760004962028
+requestID : test_29 - Priority : 0 - time : 87.785248
+sending request to requestInference
+write data to server : 30 - 1744878760004989061
+read data from server : 30 - 1744878760090145196
+requestID : test_30 - Priority : 0 - time : 85.177443
+sending request to requestInference
+write data to server : 31 - 1744878760090178688
+read data from server : 31 - 1744878760186234779
+requestID : test_31 - Priority : 0 - time : 96.091858
+sending request to requestInference
+write data to server : 32 - 1744878760186282396
+read data from server : 32 - 1744878760273210537
+requestID : test_32 - Priority : 0 - time : 86.948543
+sending request to requestInference
+write data to server : 33 - 1744878760273236468
+read data from server : 33 - 1744878760360029669
+requestID : test_33 - Priority : 0 - time : 86.820476
+sending request to requestInference
+write data to server : 34 - 1744878760360071974
+read data from server : 34 - 1744878760445260923
+requestID : test_34 - Priority : 0 - time : 85.209225
+sending request to requestInference
+write data to server : 35 - 1744878760445288223
+read data from server : 35 - 1744878760532133510
+requestID : test_35 - Priority : 0 - time : 86.864629
+sending request to requestInference
+write data to server : 36 - 1744878760532174574
+read data from server : 36 - 1744878760620096333
+requestID : test_36 - Priority : 0 - time : 87.960141
+sending request to requestInference
+write data to server : 37 - 1744878760620150484
+read data from server : 37 - 1744878760711304943
+requestID : test_37 - Priority : 0 - time : 91.185811
+sending request to requestInference
+write data to server : 38 - 1744878760711349879
+read data from server : 38 - 1744878760803472682
+requestID : test_38 - Priority : 0 - time : 92.149767
+sending request to requestInference
+write data to server : 39 - 1744878760803511735
+read data from server : 39 - 1744878760889200194
+requestID : test_39 - Priority : 0 - time : 85.710142
+sending request to requestInference
+write data to server : 40 - 1744878760889232543
+read data from server : 40 - 1744878760975769188
+requestID : test_40 - Priority : 0 - time : 86.551568
+sending request to requestInference
+write data to server : 41 - 1744878760975791324
+read data from server : 41 - 1744878761060935642
+requestID : test_41 - Priority : 0 - time : 85.16301
+sending request to requestInference
+write data to server : 42 - 1744878761060963396
+read data from server : 42 - 1744878761145774973
+requestID : test_42 - Priority : 0 - time : 84.827929
+sending request to requestInference
+write data to server : 43 - 1744878761145798514
+read data from server : 43 - 1744878761231243052
+requestID : test_43 - Priority : 0 - time : 85.460595
+sending request to requestInference
+write data to server : 44 - 1744878761231267311
+read data from server : 44 - 1744878761325553940
+requestID : test_44 - Priority : 0 - time : 94.303323
+sending request to requestInference
+write data to server : 45 - 1744878761325579521
+read data from server : 45 - 1744878761411097604
+requestID : test_45 - Priority : 0 - time : 85.543666
+sending request to requestInference
+write data to server : 46 - 1744878761411137173
+read data from server : 46 - 1744878761501817217
+requestID : test_46 - Priority : 0 - time : 90.700385
+sending request to requestInference
+write data to server : 47 - 1744878761501847875
+read data from server : 47 - 1744878761587036783
+requestID : test_47 - Priority : 0 - time : 85.216142
+sending request to requestInference
+write data to server : 48 - 1744878761587078187
+read data from server : 48 - 1744878761676056132
+requestID : test_48 - Priority : 0 - time : 89.000403
+sending request to requestInference
+write data to server : 49 - 1744878761676086703
+read data from server : 49 - 1744878761761222471
+requestID : test_49 - Priority : 0 - time : 85.158628
+sending request to requestInference
+write data to server : 50 - 1744878761761262073
+read data from server : 50 - 1744878761847394730
+requestID : test_50 - Priority : 0 - time : 86.157121
+sending request to requestInference
+write data to server : 51 - 1744878761847431488
+read data from server : 51 - 1744878761933125711
+requestID : test_51 - Priority : 0 - time : 85.720091
+sending request to requestInference
+write data to server : 52 - 1744878761933164686
+read data from server : 52 - 1744878762018860456
+requestID : test_52 - Priority : 0 - time : 85.716152
+sending request to requestInference
+write data to server : 53 - 1744878762018888673
+read data from server : 53 - 1744878762104012172
+requestID : test_53 - Priority : 0 - time : 85.142283
+sending request to requestInference
+write data to server : 54 - 1744878762104040096
+read data from server : 54 - 1744878762189258379
+requestID : test_54 - Priority : 0 - time : 85.232133
+sending request to requestInference
+write data to server : 55 - 1744878762189279932
+read data from server : 55 - 1744878762276702998
+requestID : test_55 - Priority : 0 - time : 87.445069
+sending request to requestInference
+write data to server : 56 - 1744878762276757652
+read data from server : 56 - 1744878762362095866
+requestID : test_56 - Priority : 0 - time : 85.35795
+sending request to requestInference
+write data to server : 57 - 1744878762362125478
+read data from server : 57 - 1744878762451185238
+requestID : test_57 - Priority : 0 - time : 89.087082
+sending request to requestInference
+write data to server : 58 - 1744878762451226646
+read data from server : 58 - 1744878762538356045
+requestID : test_58 - Priority : 0 - time : 87.15391
+sending request to requestInference
+write data to server : 59 - 1744878762538505534
+read data from server : 59 - 1744878762624199695
+requestID : test_59 - Priority : 0 - time : 85.721607
+sending request to requestInference
+write data to server : 60 - 1744878762624240106
+read data from server : 60 - 1744878762709341788
+requestID : test_60 - Priority : 0 - time : 85.125251
+sending request to requestInference
+write data to server : 61 - 1744878762709377393
+read data from server : 61 - 1744878762795196172
+requestID : test_61 - Priority : 0 - time : 85.844465
+sending request to requestInference
+write data to server : 62 - 1744878762795235386
+read data from server : 62 - 1744878762881084572
+requestID : test_62 - Priority : 0 - time : 85.877144
+sending request to requestInference
+write data to server : 63 - 1744878762881126921
+read data from server : 63 - 1744878762966918510
+requestID : test_63 - Priority : 0 - time : 85.817622
+sending request to requestInference
+write data to server : 64 - 1744878762966956098
+read data from server : 64 - 1744878763052063116
+requestID : test_64 - Priority : 0 - time : 85.125142
+sending request to requestInference
+write data to server : 65 - 1744878763052089008
+read data from server : 65 - 1744878763144573661
+requestID : test_65 - Priority : 0 - time : 92.506246
+sending request to requestInference
+write data to server : 66 - 1744878763144605510
+read data from server : 66 - 1744878763240192543
+requestID : test_66 - Priority : 0 - time : 95.603142
+sending request to requestInference
+write data to server : 67 - 1744878763240215899
+read data from server : 67 - 1744878763327266915
+requestID : test_67 - Priority : 0 - time : 87.084684
+sending request to requestInference
+write data to server : 68 - 1744878763327312750
+read data from server : 68 - 1744878763422775457
+requestID : test_68 - Priority : 0 - time : 95.484656
+sending request to requestInference
+write data to server : 69 - 1744878763422807201
+read data from server : 69 - 1744878763508259047
+requestID : test_69 - Priority : 0 - time : 85.472873
+sending request to requestInference
+write data to server : 70 - 1744878763508290448
+read data from server : 70 - 1744878763602545666
+requestID : test_70 - Priority : 0 - time : 94.275412
+sending request to requestInference
+write data to server : 71 - 1744878763602574761
+read data from server : 71 - 1744878763689104509
+requestID : test_71 - Priority : 0 - time : 86.552238
+sending request to requestInference
+write data to server : 72 - 1744878763689138634
+read data from server : 72 - 1744878763775146752
+requestID : test_72 - Priority : 0 - time : 86.029691
+sending request to requestInference
+write data to server : 73 - 1744878763775177807
+read data from server : 73 - 1744878763863211794
+requestID : test_73 - Priority : 0 - time : 88.063107
+sending request to requestInference
+write data to server : 74 - 1744878763863250335
+read data from server : 74 - 1744878763948331315
+requestID : test_74 - Priority : 0 - time : 85.106758
+sending request to requestInference
+write data to server : 75 - 1744878763948369265
+read data from server : 75 - 1744878764037177392
+requestID : test_75 - Priority : 0 - time : 88.8286
+sending request to requestInference
+write data to server : 76 - 1744878764037206777
+read data from server : 76 - 1744878764129947013
+requestID : test_76 - Priority : 0 - time : 92.760629
+sending request to requestInference
+write data to server : 77 - 1744878764129977860
+read data from server : 77 - 1744878764215500975
+requestID : test_77 - Priority : 0 - time : 85.537743
+sending request to requestInference
+write data to server : 78 - 1744878764215523008
+read data from server : 78 - 1744878764301197970
+requestID : test_78 - Priority : 0 - time : 85.692519
+sending request to requestInference
+write data to server : 79 - 1744878764301224741
+read data from server : 79 - 1744878764390780099
+requestID : test_79 - Priority : 0 - time : 89.569483
+sending request to requestInference
+write data to server : 80 - 1744878764390801016
+read data from server : 80 - 1744878764476134566
+requestID : test_80 - Priority : 0 - time : 85.351438
+sending request to requestInference
+write data to server : 81 - 1744878764476162636
+read data from server : 81 - 1744878764561023690
+requestID : test_81 - Priority : 0 - time : 84.878515
+sending request to requestInference
+write data to server : 82 - 1744878764561050522
+read data from server : 82 - 1744878764645986172
+requestID : test_82 - Priority : 0 - time : 84.95333
+sending request to requestInference
+write data to server : 83 - 1744878764646012156
+read data from server : 83 - 1744878764730913507
+requestID : test_83 - Priority : 0 - time : 84.918888
+sending request to requestInference
+write data to server : 84 - 1744878764730940626
+read data from server : 84 - 1744878764815935412
+requestID : test_84 - Priority : 0 - time : 85.015228
+sending request to requestInference
+write data to server : 85 - 1744878764815966387
+read data from server : 85 - 1744878764900829639
+requestID : test_85 - Priority : 0 - time : 84.881729
+sending request to requestInference
+write data to server : 86 - 1744878764900858332
+read data from server : 86 - 1744878764985882328
+requestID : test_86 - Priority : 0 - time : 85.043179
+sending request to requestInference
+write data to server : 87 - 1744878764985910555
+read data from server : 87 - 1744878765070856127
+requestID : test_87 - Priority : 0 - time : 84.961021
+sending request to requestInference
+write data to server : 88 - 1744878765070878230
+read data from server : 88 - 1744878765156304132
+requestID : test_88 - Priority : 0 - time : 85.462563
+sending request to requestInference
+write data to server : 89 - 1744878765156354327
+read data from server : 89 - 1744878765241657786
+requestID : test_89 - Priority : 0 - time : 85.323259
+sending request to requestInference
+write data to server : 90 - 1744878765241690446
+read data from server : 90 - 1744878765327273042
+requestID : test_90 - Priority : 0 - time : 85.614126
+sending request to requestInference
+write data to server : 91 - 1744878765327314075
+read data from server : 91 - 1744878765414608346
+requestID : test_91 - Priority : 0 - time : 87.313409
+sending request to requestInference
+write data to server : 92 - 1744878765414650850
+read data from server : 92 - 1744878765500165815
+requestID : test_92 - Priority : 0 - time : 85.535536
+sending request to requestInference
+write data to server : 93 - 1744878765500196547
+read data from server : 93 - 1744878765587200640
+requestID : test_93 - Priority : 0 - time : 87.019011
+sending request to requestInference
+write data to server : 94 - 1744878765587222390
+read data from server : 94 - 1744878765676455197
+requestID : test_94 - Priority : 0 - time : 89.260863
+sending request to requestInference
+write data to server : 95 - 1744878765676498632
+read data from server : 95 - 1744878765764302477
+requestID : test_95 - Priority : 0 - time : 87.822651
+sending request to requestInference
+write data to server : 96 - 1744878765764328973
+read data from server : 96 - 1744878765849536811
+requestID : test_96 - Priority : 0 - time : 85.230934
+sending request to requestInference
+write data to server : 97 - 1744878765849572117
+read data from server : 97 - 1744878765935736652
+requestID : test_97 - Priority : 0 - time : 86.189377
+sending request to requestInference
+write data to server : 98 - 1744878765935773887
+read data from server : 98 - 1744878766021181248
+requestID : test_98 - Priority : 0 - time : 85.432761
+sending request to requestInference
+write data to server : 99 - 1744878766021219021
+read data from server : 99 - 1744878766107237970
+requestID : test_99 - Priority : 0 - time : 86.082565
+sending request to requestInference
+write data to server : 100 - 1744878766107317317
+read data from server : 100 - 1744878777321153035
+requestID : test_100 - Priority : 10 - time : 11213.870902
+sending request to requestInference
+write data to server : 101 - 1744878777321215583
+read data from server : 101 - 1744878788532152058
+requestID : test_101 - Priority : 10 - time : 11210.986415
+sending request to requestInference
+write data to server : 102 - 1744878788532203558
+read data from server : 102 - 1744878799724855857
+requestID : test_102 - Priority : 10 - time : 11192.688478
+sending request to requestInference
+write data to server : 103 - 1744878799724905675
+read data from server : 103 - 1744878810955425660
+requestID : test_103 - Priority : 10 - time : 11230.555344
+sending request to requestInference
+write data to server : 104 - 1744878810955475001
+read data from server : 104 - 1744878822200620044
+requestID : test_104 - Priority : 10 - time : 11245.182685
+sending request to requestInference
+write data to server : 105 - 1744878822200671413
+read data from server : 105 - 1744878833410284706
+requestID : test_105 - Priority : 10 - time : 11209.647762
+sending request to requestInference
+write data to server : 106 - 1744878833410334156
+read data from server : 106 - 1744878844600116794
+requestID : test_106 - Priority : 10 - time : 11189.830943
+sending request to requestInference
+write data to server : 107 - 1744878844600178188
+read data from server : 107 - 1744878855790063559
+requestID : test_107 - Priority : 10 - time : 11189.920492
+sending request to requestInference
+write data to server : 108 - 1744878855790113242
+read data from server : 108 - 1744878867000678862
+requestID : test_108 - Priority : 10 - time : 11210.600781
+sending request to requestInference
+write data to server : 109 - 1744878867000729407
+read data from server : 109 - 1744878878218523710
+requestID : test_109 - Priority : 10 - time : 11217.828825
+sending request to requestInference
+write data to server : 110 - 1744878878218575937
+read data from server : 110 - 1744878882469455692
+requestID : test_110 - Priority : 5 - time : 4250.911381
+sending request to requestInference
+write data to server : 111 - 1744878882469500764
+read data from server : 111 - 1744878886731869744
+requestID : test_111 - Priority : 5 - time : 4262.408705
+sending request to requestInference
+write data to server : 112 - 1744878886731923404
+read data from server : 112 - 1744878891002520616
+requestID : test_112 - Priority : 5 - time : 4270.63251
+sending request to requestInference
+write data to server : 113 - 1744878891002572301
+read data from server : 113 - 1744878895270456063
+requestID : test_113 - Priority : 5 - time : 4267.930287
+sending request to requestInference
+write data to server : 114 - 1744878895270516354
+read data from server : 114 - 1744878899524051938
+requestID : test_114 - Priority : 5 - time : 4253.569755
+sending request to requestInference
+write data to server : 115 - 1744878899524100845
+read data from server : 115 - 1744878903783760764
+requestID : test_115 - Priority : 5 - time : 4259.695564
+sending request to requestInference
+write data to server : 116 - 1744878903783811080
+read data from server : 116 - 1744878908081812367
+requestID : test_116 - Priority : 5 - time : 4298.035877
+sending request to requestInference
+write data to server : 117 - 1744878908081862336
+read data from server : 117 - 1744878912339218715
+requestID : test_117 - Priority : 5 - time : 4257.390435
+sending request to requestInference
+write data to server : 118 - 1744878912339267647
+read data from server : 118 - 1744878916595975253
+requestID : test_118 - Priority : 5 - time : 4256.759856
+sending request to requestInference
+write data to server : 119 - 1744878916596042409
+read data from server : 119 - 1744878920854460103
+requestID : test_119 - Priority : 5 - time : 4258.446263
+sending request to requestInference
+write data to server : 120 - 1744878920854497795
+read data from server : 120 - 1744878925154845064
+requestID : test_120 - Priority : 5 - time : 4300.379543
+sending request to requestInference
+write data to server : 121 - 1744878925154891564
+read data from server : 121 - 1744878929414950265
+requestID : test_121 - Priority : 5 - time : 4260.092814
+sending request to requestInference
+write data to server : 122 - 1744878929414999080
+read data from server : 122 - 1744878933684530076
+requestID : test_122 - Priority : 5 - time : 4269.563192
+sending request to requestInference
+write data to server : 123 - 1744878933684575942
+read data from server : 123 - 1744878937965670025
+requestID : test_123 - Priority : 5 - time : 4281.12701
+sending request to requestInference
+write data to server : 124 - 1744878937965721342
+read data from server : 124 - 1744878942233106389
+requestID : test_124 - Priority : 5 - time : 4267.411118
+sending request to requestInference
+write data to server : 125 - 1744878942233142573
+read data from server : 125 - 1744878946484837961
+requestID : test_125 - Priority : 5 - time : 4251.727353
+sending request to requestInference
+write data to server : 126 - 1744878946484885336
+read data from server : 126 - 1744878950770938496
+requestID : test_126 - Priority : 5 - time : 4286.084421
+sending request to requestInference
+write data to server : 127 - 1744878950770981585
+read data from server : 127 - 1744878955021528661
+requestID : test_127 - Priority : 5 - time : 4250.577894
+sending request to requestInference
+write data to server : 128 - 1744878955021573805
+read data from server : 128 - 1744878959274308107
+requestID : test_128 - Priority : 5 - time : 4252.769827
+sending request to requestInference
+write data to server : 129 - 1744878959274356394
+read data from server : 129 - 1744878963525982445
+requestID : test_129 - Priority : 5 - time : 4251.658819

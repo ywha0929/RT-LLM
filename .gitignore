@@ -1,4 +1,7 @@
+*.json
+
 kvCaches/*
+named_pipes/*
 viewBranch.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/

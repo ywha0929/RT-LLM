@@ -1,9 +1,9 @@
-from Controller.AnswererPreemptionController import AnswererPreemptionController
-from Controller.NamedPipeRequestController import NamedPipeRequestController
-from Controller.NetworkController import NetworkController
-from Controller.AnswererController import AnswererController
-# Press the green button in the gutter to run the script.
+import multiprocessing
 
+from ClientController.AnswererPreemptionController import AnswererPreemptionController
+from InferenceController.NamedPipeRequestController import NamedPipeRequestController
+# Press the green button in the gutter to run the script.
+import torch
 if __name__ == '__main__':
     # normal mode
     # AnswererController = AnswererController()
@@ -12,14 +12,19 @@ if __name__ == '__main__':
     # AnswererController.setReplyHandlerQueue(NetworkControllerInstance.replyQueue)
     # AnswererController.start()
     # NetworkControllerInstance.start()
-
     # preemption mode
-    AnswererPreemptionController = AnswererPreemptionController()
-    NetworkControllerInstance = NamedPipeRequestController()
-    NetworkControllerInstance.setAnswererControllerScheduler(AnswererPreemptionController.Scheduler)
-    AnswererPreemptionController.setReplyHandlerQueue(NetworkControllerInstance.replyQueue)
-    AnswererPreemptionController.start()
-    NetworkControllerInstance.start()
+    torch.multiprocessing.set_start_method('spawn')
+
+    insertSchedulerQueue = multiprocessing.Queue()
+    # answererPreemptionController = AnswererPreemptionController(insertSchedulerQueue)
+    networkControllerInstance = NamedPipeRequestController()
+
+    networkControllerInstance.clientRequestHandler.setAnswererControllerScheduler(insertSchedulerQueue)
+
+    # answererPreemptionController.setReplyHandlerQueue(networkControllerInstance.replyQueue)
+    #
+    # answererPreemptionController.start()
+    networkControllerInstance.start()
 
     # for profiling
     # from torch.profiler import profile, record_function, ProfilerActivity
