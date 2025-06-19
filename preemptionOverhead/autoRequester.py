@@ -18,17 +18,17 @@ def HighInference() :
                             (i),rtllmPriorityMode.HIGH)).start()
         time.sleep(1.6)
 def MidInference() :
-    for i in range (110,114):
+    for i in range (110,120):
         threading.Thread(target=inference,args=(i,'test_{}'.format(i),
                             midPriorityInput,
                             i,rtllmPriorityMode.MID)).start()
-        time.sleep(46)
+        time.sleep(4.6)
 def LowInference() :
-    for i in range(100,102):
+    for i in range(100,110):
         threading.Thread(target=inference,args=(i,'test_{}'.format(i),
                             lowPriorityInput,
                             i,rtllmPriorityMode.LOW)).start()
-        time.sleep(112)
+        time.sleep(11)
 
 for i in range(130) :
     Helper = rtllm("127.0.1.1",10000)
@@ -46,7 +46,7 @@ lowPriorityInput = 'Explain History of Korea'
 
 print('--------------------start--------------------')
 threading.Thread(target=LowInference,args=()).start()
-threading.Thread(target=MidInference,args=()).start()
+# threading.Thread(target=MidInference,args=()).start()
 threading.Thread(target=HighInference,args=()).start()
 # for i in range(110):
 #     if i % 10 == 9: 

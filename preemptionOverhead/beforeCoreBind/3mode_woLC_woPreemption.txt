@@ -650,522 +650,522 @@ data received :  {"msg": "check", "requestID": 0}
 sending request to createHistoryFile
 --------------------start--------------------
 sending request to requestInference
-write data to server : 0 - 1744876938352500981
-read data from server : 0 - 1744876938585321053
-requestID : test_0 - Priority : 0 - time : 232.858639
-sending request to requestInference
-write data to server : 1 - 1744876938585375229
-read data from server : 1 - 1744876938744794115
-requestID : test_1 - Priority : 0 - time : 159.447871
-sending request to requestInference
-write data to server : 2 - 1744876938744838159
-read data from server : 2 - 1744876938900352555
-requestID : test_2 - Priority : 0 - time : 155.566042
-sending request to requestInference
-write data to server : 3 - 1744876938900415759
-read data from server : 3 - 1744876939059082488
-requestID : test_3 - Priority : 0 - time : 158.693308
-sending request to requestInference
-write data to server : 4 - 1744876939059121575
-read data from server : 4 - 1744876939218173177
-requestID : test_4 - Priority : 0 - time : 159.080718
-sending request to requestInference
-write data to server : 5 - 1744876939218217912
-read data from server : 5 - 1744876939377995291
-requestID : test_5 - Priority : 0 - time : 159.804282
-sending request to requestInference
-write data to server : 6 - 1744876939378035764
-read data from server : 6 - 1744876939534808229
-requestID : test_6 - Priority : 0 - time : 156.800053
-sending request to requestInference
-write data to server : 7 - 1744876939534848519
-read data from server : 7 - 1744876939689627836
-requestID : test_7 - Priority : 0 - time : 154.807342
-sending request to requestInference
-write data to server : 8 - 1744876939689669500
-read data from server : 8 - 1744876939844598083
-requestID : test_8 - Priority : 0 - time : 154.956614
-sending request to requestInference
-write data to server : 9 - 1744876939844640103
-read data from server : 9 - 1744876939999409798
-requestID : test_9 - Priority : 0 - time : 154.797529
-sending request to requestInference
-write data to server : 10 - 1744876939999467681
-read data from server : 10 - 1744876940163872633
-requestID : test_10 - Priority : 0 - time : 164.434583
-sending request to requestInference
-write data to server : 11 - 1744876940163915973
-read data from server : 11 - 1744876940319016358
-requestID : test_11 - Priority : 0 - time : 155.129727
-sending request to requestInference
-write data to server : 12 - 1744876940319093532
-read data from server : 12 - 1744876940473762055
-requestID : test_12 - Priority : 0 - time : 154.731155
-sending request to requestInference
-write data to server : 13 - 1744876940473804900
-read data from server : 13 - 1744876940628738777
-requestID : test_13 - Priority : 0 - time : 154.96447
-sending request to requestInference
-write data to server : 14 - 1744876940628783947
-read data from server : 14 - 1744876940783969626
-requestID : test_14 - Priority : 0 - time : 155.213644
-sending request to requestInference
-write data to server : 15 - 1744876940784011865
-read data from server : 15 - 1744876940938833045
-requestID : test_15 - Priority : 0 - time : 154.866585
-sending request to requestInference
-write data to server : 16 - 1744876940938892897
-read data from server : 16 - 1744876941093944406
-requestID : test_16 - Priority : 0 - time : 155.079663
-sending request to requestInference
-write data to server : 17 - 1744876941093986046
-read data from server : 17 - 1744876941248761684
-requestID : test_17 - Priority : 0 - time : 154.801639
-sending request to requestInference
-write data to server : 18 - 1744876941248799803
-read data from server : 18 - 1744876941403764471
-requestID : test_18 - Priority : 0 - time : 154.996029
-sending request to requestInference
-write data to server : 19 - 1744876941403808525
-read data from server : 19 - 1744876941558639802
-requestID : test_19 - Priority : 0 - time : 154.869661
-sending request to requestInference
-write data to server : 20 - 1744876941558692457
-read data from server : 20 - 1744876941714585923
-requestID : test_20 - Priority : 0 - time : 155.920377
-sending request to requestInference
-write data to server : 21 - 1744876941714625252
-read data from server : 21 - 1744876941869641971
-requestID : test_21 - Priority : 0 - time : 155.056641
-sending request to requestInference
-write data to server : 22 - 1744876941869699403
-read data from server : 22 - 1744876942024753478
-requestID : test_22 - Priority : 0 - time : 155.081045
-sending request to requestInference
-write data to server : 23 - 1744876942024793372
-read data from server : 23 - 1744876942179781528
-requestID : test_23 - Priority : 0 - time : 155.014536
-sending request to requestInference
-write data to server : 24 - 1744876942179822158
-read data from server : 24 - 1744876942343000717
-requestID : test_24 - Priority : 0 - time : 163.222646
-sending request to requestInference
-write data to server : 25 - 1744876942343058173
-read data from server : 25 - 1744876942497521370
-requestID : test_25 - Priority : 0 - time : 154.490969
-sending request to requestInference
-write data to server : 26 - 1744876942497563112
-read data from server : 26 - 1744876942652892676
-requestID : test_26 - Priority : 0 - time : 155.354149
-sending request to requestInference
-write data to server : 27 - 1744876942652928777
-read data from server : 27 - 1744876942807566454
-requestID : test_27 - Priority : 0 - time : 154.66442
-sending request to requestInference
-write data to server : 28 - 1744876942807607157
-read data from server : 28 - 1744876942967871292
-requestID : test_28 - Priority : 0 - time : 160.296537
-sending request to requestInference
-write data to server : 29 - 1744876942967918611
-read data from server : 29 - 1744876943123947620
-requestID : test_29 - Priority : 0 - time : 156.054772
-sending request to requestInference
-write data to server : 30 - 1744876943123986011
-read data from server : 30 - 1744876943282542838
-requestID : test_30 - Priority : 0 - time : 158.582112
-sending request to requestInference
-write data to server : 31 - 1744876943282580792
-read data from server : 31 - 1744876943438299337
-requestID : test_31 - Priority : 0 - time : 155.750765
-sending request to requestInference
-write data to server : 32 - 1744876943438345322
-read data from server : 32 - 1744876943594022714
-requestID : test_32 - Priority : 0 - time : 155.703773
-sending request to requestInference
-write data to server : 33 - 1744876943594062330
-read data from server : 33 - 1744876943756408520
-requestID : test_33 - Priority : 0 - time : 162.367922
-sending request to requestInference
-write data to server : 34 - 1744876943756438625
-read data from server : 34 - 1744876943913529396
-requestID : test_34 - Priority : 0 - time : 157.118476
-sending request to requestInference
-write data to server : 35 - 1744876943913572429
-read data from server : 35 - 1744876944068766500
-requestID : test_35 - Priority : 0 - time : 155.21475
-sending request to requestInference
-write data to server : 36 - 1744876944068794955
-read data from server : 36 - 1744876944223374822
-requestID : test_36 - Priority : 0 - time : 154.601963
-sending request to requestInference
-write data to server : 37 - 1744876944223405897
-read data from server : 37 - 1744876944378560710
-requestID : test_37 - Priority : 0 - time : 155.176087
-sending request to requestInference
-write data to server : 38 - 1744876944378591941
-read data from server : 38 - 1744876944533652863
-requestID : test_38 - Priority : 0 - time : 155.079929
-sending request to requestInference
-write data to server : 39 - 1744876944533680851
-read data from server : 39 - 1744876944688534124
-requestID : test_39 - Priority : 0 - time : 154.873578
-sending request to requestInference
-write data to server : 40 - 1744876944688564141
-read data from server : 40 - 1744876944843960612
-requestID : test_40 - Priority : 0 - time : 155.415457
-sending request to requestInference
-write data to server : 41 - 1744876944843989501
-read data from server : 41 - 1744876944998971485
-requestID : test_41 - Priority : 0 - time : 155.00552
-sending request to requestInference
-write data to server : 42 - 1744876944999007331
-read data from server : 42 - 1744876945154386682
-requestID : test_42 - Priority : 0 - time : 155.397433
-sending request to requestInference
-write data to server : 43 - 1744876945154412768
-read data from server : 43 - 1744876945309880288
-requestID : test_43 - Priority : 0 - time : 155.492292
-sending request to requestInference
-write data to server : 44 - 1744876945309919313
-read data from server : 44 - 1744876945464798539
-requestID : test_44 - Priority : 0 - time : 154.905529
-sending request to requestInference
-write data to server : 45 - 1744876945464838518
-read data from server : 45 - 1744876945619626696
-requestID : test_45 - Priority : 0 - time : 154.814972
-sending request to requestInference
-write data to server : 46 - 1744876945619682934
-read data from server : 46 - 1744876945775102067
-requestID : test_46 - Priority : 0 - time : 155.45596
-sending request to requestInference
-write data to server : 47 - 1744876945775130466
-read data from server : 47 - 1744876945934158398
-requestID : test_47 - Priority : 0 - time : 159.051755
-sending request to requestInference
-write data to server : 48 - 1744876945934195726
-read data from server : 48 - 1744876946090251172
-requestID : test_48 - Priority : 0 - time : 156.076215
-sending request to requestInference
-write data to server : 49 - 1744876946090279894
-read data from server : 49 - 1744876946247201541
-requestID : test_49 - Priority : 0 - time : 156.952337
-sending request to requestInference
-write data to server : 50 - 1744876946247246387
-read data from server : 50 - 1744876946406855448
-requestID : test_50 - Priority : 0 - time : 159.63061
-sending request to requestInference
-write data to server : 51 - 1744876946406885175
-read data from server : 51 - 1744876946561425917
-requestID : test_51 - Priority : 0 - time : 154.559842
-sending request to requestInference
-write data to server : 52 - 1744876946561453852
-read data from server : 52 - 1744876946716583670
-requestID : test_52 - Priority : 0 - time : 155.151311
-sending request to requestInference
-write data to server : 53 - 1744876946716615273
-read data from server : 53 - 1744876946871262386
-requestID : test_53 - Priority : 0 - time : 154.664256
-sending request to requestInference
-write data to server : 54 - 1744876946871287123
-read data from server : 54 - 1744876947028777009
-requestID : test_54 - Priority : 0 - time : 157.508916
-sending request to requestInference
-write data to server : 55 - 1744876947028805824
-read data from server : 55 - 1744876947185902010
-requestID : test_55 - Priority : 0 - time : 157.160573
-sending request to requestInference
-write data to server : 56 - 1744876947185978612
-read data from server : 56 - 1744876947340737673
-requestID : test_56 - Priority : 0 - time : 154.788353
-sending request to requestInference
-write data to server : 57 - 1744876947340780071
-read data from server : 57 - 1744876947495672834
-requestID : test_57 - Priority : 0 - time : 154.919347
-sending request to requestInference
-write data to server : 58 - 1744876947495725478
-read data from server : 58 - 1744876947650619828
-requestID : test_58 - Priority : 0 - time : 154.943834
-sending request to requestInference
-write data to server : 59 - 1744876947650666816
-read data from server : 59 - 1744876947805964398
-requestID : test_59 - Priority : 0 - time : 155.316084
-sending request to requestInference
-write data to server : 60 - 1744876947805991272
-read data from server : 60 - 1744876947960887664
-requestID : test_60 - Priority : 0 - time : 154.917783
-sending request to requestInference
-write data to server : 61 - 1744876947960919019
-read data from server : 61 - 1744876948116015273
-requestID : test_61 - Priority : 0 - time : 155.117349
-sending request to requestInference
-write data to server : 62 - 1744876948116046401
-read data from server : 62 - 1744876948270755517
-requestID : test_62 - Priority : 0 - time : 154.729063
-sending request to requestInference
-write data to server : 63 - 1744876948270785407
-read data from server : 63 - 1744876948425433717
-requestID : test_63 - Priority : 0 - time : 154.669684
-sending request to requestInference
-write data to server : 64 - 1744876948425466064
-read data from server : 64 - 1744876948580447771
-requestID : test_64 - Priority : 0 - time : 155.002671
-sending request to requestInference
-write data to server : 65 - 1744876948580479306
-read data from server : 65 - 1744876948736526668
-requestID : test_65 - Priority : 0 - time : 156.068957
-sending request to requestInference
-write data to server : 66 - 1744876948736569968
-read data from server : 66 - 1744876948905573161
-requestID : test_66 - Priority : 0 - time : 169.037174
-sending request to requestInference
-write data to server : 67 - 1744876948905617872
-read data from server : 67 - 1744876949062829564
-requestID : test_67 - Priority : 0 - time : 157.232101
-sending request to requestInference
-write data to server : 68 - 1744876949062857423
-read data from server : 68 - 1744876949217777905
-requestID : test_68 - Priority : 0 - time : 154.938023
-sending request to requestInference
-write data to server : 69 - 1744876949217821626
-read data from server : 69 - 1744876949372533265
-requestID : test_69 - Priority : 0 - time : 154.749833
-sending request to requestInference
-write data to server : 70 - 1744876949372564265
-read data from server : 70 - 1744876949527838367
-requestID : test_70 - Priority : 0 - time : 155.299923
-sending request to requestInference
-write data to server : 71 - 1744876949527877675
-read data from server : 71 - 1744876949683216929
-requestID : test_71 - Priority : 0 - time : 155.366
-sending request to requestInference
-write data to server : 72 - 1744876949683255806
-read data from server : 72 - 1744876949838330907
-requestID : test_72 - Priority : 0 - time : 155.096702
-sending request to requestInference
-write data to server : 73 - 1744876949838362883
-read data from server : 73 - 1744876949992977725
-requestID : test_73 - Priority : 0 - time : 154.64017
-sending request to requestInference
-write data to server : 74 - 1744876949993016019
-read data from server : 74 - 1744876950149084094
-requestID : test_74 - Priority : 0 - time : 156.091987
-sending request to requestInference
-write data to server : 75 - 1744876950149132531
-read data from server : 75 - 1744876950304660075
-requestID : test_75 - Priority : 0 - time : 155.548574
-sending request to requestInference
-write data to server : 76 - 1744876950304689027
-read data from server : 76 - 1744876950459141638
-requestID : test_76 - Priority : 0 - time : 154.469637
-sending request to requestInference
-write data to server : 77 - 1744876950459167067
-read data from server : 77 - 1744876950614099950
-requestID : test_77 - Priority : 0 - time : 154.951736
-sending request to requestInference
-write data to server : 78 - 1744876950614128680
-read data from server : 78 - 1744876950773511632
-requestID : test_78 - Priority : 0 - time : 159.412192
-sending request to requestInference
-write data to server : 79 - 1744876950773552685
-read data from server : 79 - 1744876950940806408
-requestID : test_79 - Priority : 0 - time : 167.275897
-sending request to requestInference
-write data to server : 80 - 1744876950940837979
-read data from server : 80 - 1744876951095920567
-requestID : test_80 - Priority : 0 - time : 155.109203
-sending request to requestInference
-write data to server : 81 - 1744876951095959639
-read data from server : 81 - 1744876951280366723
-requestID : test_81 - Priority : 0 - time : 184.452918
-sending request to requestInference
-write data to server : 82 - 1744876951280435475
-read data from server : 82 - 1744876951441782419
-requestID : test_82 - Priority : 0 - time : 161.368541
-sending request to requestInference
-write data to server : 83 - 1744876951441814547
-read data from server : 83 - 1744876951596403846
-requestID : test_83 - Priority : 0 - time : 154.607768
-sending request to requestInference
-write data to server : 84 - 1744876951596430348
-read data from server : 84 - 1744876951784479128
-requestID : test_84 - Priority : 0 - time : 188.070534
-sending request to requestInference
-write data to server : 85 - 1744876951784512157
-read data from server : 85 - 1744876951940688672
-requestID : test_85 - Priority : 0 - time : 156.196406
-sending request to requestInference
-write data to server : 86 - 1744876951940717319
-read data from server : 86 - 1744876952123008749
-requestID : test_86 - Priority : 0 - time : 182.323585
-sending request to requestInference
-write data to server : 87 - 1744876952123050997
-read data from server : 87 - 1744876952277401379
-requestID : test_87 - Priority : 0 - time : 154.377044
-sending request to requestInference
-write data to server : 88 - 1744876952277468161
-read data from server : 88 - 1744876952435325925
-requestID : test_88 - Priority : 0 - time : 157.88036
-sending request to requestInference
-write data to server : 89 - 1744876952435358668
-read data from server : 89 - 1744876952590263003
-requestID : test_89 - Priority : 0 - time : 154.928287
-sending request to requestInference
-write data to server : 90 - 1744876952590298620
-read data from server : 90 - 1744876952755878066
-requestID : test_90 - Priority : 0 - time : 165.601243
-sending request to requestInference
-write data to server : 91 - 1744876952755909265
-read data from server : 91 - 1744876952910902709
-requestID : test_91 - Priority : 0 - time : 155.018595
-sending request to requestInference
-write data to server : 92 - 1744876952910941949
-read data from server : 92 - 1744876953066277100
-requestID : test_92 - Priority : 0 - time : 155.360476
-sending request to requestInference
-write data to server : 93 - 1744876953066314959
-read data from server : 93 - 1744876953225917645
-requestID : test_93 - Priority : 0 - time : 159.636758
-sending request to requestInference
-write data to server : 94 - 1744876953225961463
-read data from server : 94 - 1744876953380676245
-requestID : test_94 - Priority : 0 - time : 154.740673
-sending request to requestInference
-write data to server : 95 - 1744876953380711134
-read data from server : 95 - 1744876953535640863
-requestID : test_95 - Priority : 0 - time : 154.952114
-sending request to requestInference
-write data to server : 96 - 1744876953535675941
-read data from server : 96 - 1744876953691092484
-requestID : test_96 - Priority : 0 - time : 155.437722
-sending request to requestInference
-write data to server : 97 - 1744876953691121786
-read data from server : 97 - 1744876953848210558
-requestID : test_97 - Priority : 0 - time : 157.112179
-sending request to requestInference
-write data to server : 98 - 1744876953848247323
-read data from server : 98 - 1744876954007212821
-requestID : test_98 - Priority : 0 - time : 158.992629
-sending request to requestInference
-write data to server : 99 - 1744876954007290696
-read data from server : 99 - 1744876954161748569
-requestID : test_99 - Priority : 0 - time : 154.522178
-sending request to requestInference
-write data to server : 100 - 1744876954161793527
-read data from server : 100 - 1744876965470072731
-requestID : test_100 - Priority : 10 - time : 11308.314641
-sending request to requestInference
-write data to server : 101 - 1744876965470122811
-read data from server : 101 - 1744876976685898733
-requestID : test_101 - Priority : 10 - time : 11215.802442
-sending request to requestInference
-write data to server : 102 - 1744876976685934374
-read data from server : 102 - 1744876987881240731
-requestID : test_102 - Priority : 10 - time : 11195.340367
-sending request to requestInference
-write data to server : 103 - 1744876987881287646
-read data from server : 103 - 1744876999082406889
-requestID : test_103 - Priority : 10 - time : 11201.150822
-sending request to requestInference
-write data to server : 104 - 1744876999082448654
-read data from server : 104 - 1744877010314033081
-requestID : test_104 - Priority : 10 - time : 11231.619044
-sending request to requestInference
-write data to server : 105 - 1744877010314078952
-read data from server : 105 - 1744877021541373838
-requestID : test_105 - Priority : 10 - time : 11227.334
-sending request to requestInference
-write data to server : 106 - 1744877021541426009
-read data from server : 106 - 1744877032741675695
-requestID : test_106 - Priority : 10 - time : 11200.279905
-sending request to requestInference
-write data to server : 107 - 1744877032741717643
-read data from server : 107 - 1744877043954236930
-requestID : test_107 - Priority : 10 - time : 11212.543589
-sending request to requestInference
-write data to server : 108 - 1744877043954269798
-read data from server : 108 - 1744877055158114274
-requestID : test_108 - Priority : 10 - time : 11203.869345
-sending request to requestInference
-write data to server : 109 - 1744877055158148822
-read data from server : 109 - 1744877066407189008
-requestID : test_109 - Priority : 10 - time : 11249.064725
-sending request to requestInference
-write data to server : 110 - 1744877066407224590
-read data from server : 110 - 1744877070980232301
-requestID : test_110 - Priority : 5 - time : 4573.034814
-sending request to requestInference
-write data to server : 111 - 1744877070980271039
-read data from server : 111 - 1744877075546357353
-requestID : test_111 - Priority : 5 - time : 4566.152137
-sending request to requestInference
-write data to server : 112 - 1744877075546439334
-read data from server : 112 - 1744877080115128250
-requestID : test_112 - Priority : 5 - time : 4568.713264
-sending request to requestInference
-write data to server : 113 - 1744877080115187970
-read data from server : 113 - 1744877084684671966
-requestID : test_113 - Priority : 5 - time : 4569.510525
-sending request to requestInference
-write data to server : 114 - 1744877084684724302
-read data from server : 114 - 1744877089294876098
-requestID : test_114 - Priority : 5 - time : 4610.181608
-sending request to requestInference
-write data to server : 115 - 1744877089294919680
-read data from server : 115 - 1744877093907590412
-requestID : test_115 - Priority : 5 - time : 4612.695556
-sending request to requestInference
-write data to server : 116 - 1744877093907622873
-read data from server : 116 - 1744877098507290146
-requestID : test_116 - Priority : 5 - time : 4599.690591
-sending request to requestInference
-write data to server : 117 - 1744877098507323681
-read data from server : 117 - 1744877103095089418
-requestID : test_117 - Priority : 5 - time : 4587.789162
-sending request to requestInference
-write data to server : 118 - 1744877103095121918
-read data from server : 118 - 1744877107677860205
-requestID : test_118 - Priority : 5 - time : 4582.761903
-sending request to requestInference
-write data to server : 119 - 1744877107677894210
-read data from server : 119 - 1744877112246848870
-requestID : test_119 - Priority : 5 - time : 4568.979666
-sending request to requestInference
-write data to server : 120 - 1744877112246883248
-read data from server : 120 - 1744877116817901109
-requestID : test_120 - Priority : 5 - time : 4571.047536
-sending request to requestInference
-write data to server : 121 - 1744877116817943820
-read data from server : 121 - 1744877121418250963
-requestID : test_121 - Priority : 5 - time : 4600.343683
-sending request to requestInference
-write data to server : 122 - 1744877121418299955
-read data from server : 122 - 1744877125990089895
-requestID : test_122 - Priority : 5 - time : 4571.82147
-sending request to requestInference
-write data to server : 123 - 1744877125990129820
-read data from server : 123 - 1744877130588833458
-requestID : test_123 - Priority : 5 - time : 4598.729552
-sending request to requestInference
-write data to server : 124 - 1744877130588872157
-read data from server : 124 - 1744877135194684145
-requestID : test_124 - Priority : 5 - time : 4605.843166
-sending request to requestInference
-write data to server : 125 - 1744877135194729763
-read data from server : 125 - 1744877139764226559
-requestID : test_125 - Priority : 5 - time : 4569.52392
-sending request to requestInference
-write data to server : 126 - 1744877139764261063
-read data from server : 126 - 1744877144360655664
-requestID : test_126 - Priority : 5 - time : 4596.422674
-sending request to requestInference
-write data to server : 127 - 1744877144360697570
-read data from server : 127 - 1744877148947711556
-requestID : test_127 - Priority : 5 - time : 4587.043011
-sending request to requestInference
-write data to server : 128 - 1744877148947753781
-read data from server : 128 - 1744877153535605091
-requestID : test_128 - Priority : 5 - time : 4587.876377
-sending request to requestInference
-write data to server : 129 - 1744877153535639409
-read data from server : 129 - 1744877158130222309
-requestID : test_129 - Priority : 5 - time : 4594.613477
+write data to server : 0 - 1744880698079527271
+read data from server : 0 - 1744880698317023238
+requestID : test_0 - Priority : 0 - time : 237.535462
+sending request to requestInference
+write data to server : 1 - 1744880698317090730
+read data from server : 1 - 1744880698479758062
+requestID : test_1 - Priority : 0 - time : 162.6939
+sending request to requestInference
+write data to server : 2 - 1744880698479798738
+read data from server : 2 - 1744880698683524565
+requestID : test_2 - Priority : 0 - time : 203.766328
+sending request to requestInference
+write data to server : 3 - 1744880698683582995
+read data from server : 3 - 1744880698882185022
+requestID : test_3 - Priority : 0 - time : 198.630451
+sending request to requestInference
+write data to server : 4 - 1744880698882227396
+read data from server : 4 - 1744880699037973248
+requestID : test_4 - Priority : 0 - time : 155.775993
+sending request to requestInference
+write data to server : 5 - 1744880699038018990
+read data from server : 5 - 1744880699192411174
+requestID : test_5 - Priority : 0 - time : 154.419478
+sending request to requestInference
+write data to server : 6 - 1744880699192452010
+read data from server : 6 - 1744880699356429628
+requestID : test_6 - Priority : 0 - time : 164.005183
+sending request to requestInference
+write data to server : 7 - 1744880699356470821
+read data from server : 7 - 1744880699515373042
+requestID : test_7 - Priority : 0 - time : 158.935945
+sending request to requestInference
+write data to server : 8 - 1744880699515419458
+read data from server : 8 - 1744880699679355943
+requestID : test_8 - Priority : 0 - time : 163.979751
+sending request to requestInference
+write data to server : 9 - 1744880699679409228
+read data from server : 9 - 1744880699834654078
+requestID : test_9 - Priority : 0 - time : 155.27141
+sending request to requestInference
+write data to server : 10 - 1744880699834698056
+read data from server : 10 - 1744880699991318616
+requestID : test_10 - Priority : 0 - time : 156.651659
+sending request to requestInference
+write data to server : 11 - 1744880699991360026
+read data from server : 11 - 1744880700149961782
+requestID : test_11 - Priority : 0 - time : 158.634212
+sending request to requestInference
+write data to server : 12 - 1744880700150044265
+read data from server : 12 - 1744880700306280457
+requestID : test_12 - Priority : 0 - time : 156.300114
+sending request to requestInference
+write data to server : 13 - 1744880700306321450
+read data from server : 13 - 1744880700461990277
+requestID : test_13 - Priority : 0 - time : 155.696074
+sending request to requestInference
+write data to server : 14 - 1744880700462031565
+read data from server : 14 - 1744880700616555314
+requestID : test_14 - Priority : 0 - time : 154.552187
+sending request to requestInference
+write data to server : 15 - 1744880700616598118
+read data from server : 15 - 1744880700772991715
+requestID : test_15 - Priority : 0 - time : 156.420578
+sending request to requestInference
+write data to server : 16 - 1744880700773032102
+read data from server : 16 - 1744880700930705082
+requestID : test_16 - Priority : 0 - time : 157.698813
+sending request to requestInference
+write data to server : 17 - 1744880700930745153
+read data from server : 17 - 1744880701085658505
+requestID : test_17 - Priority : 0 - time : 154.940161
+sending request to requestInference
+write data to server : 18 - 1744880701085697449
+read data from server : 18 - 1744880701241129178
+requestID : test_18 - Priority : 0 - time : 155.454978
+sending request to requestInference
+write data to server : 19 - 1744880701241162316
+read data from server : 19 - 1744880701398123421
+requestID : test_19 - Priority : 0 - time : 156.980228
+sending request to requestInference
+write data to server : 20 - 1744880701398150563
+read data from server : 20 - 1744880701556050064
+requestID : test_20 - Priority : 0 - time : 157.922232
+sending request to requestInference
+write data to server : 21 - 1744880701556085794
+read data from server : 21 - 1744880701711203540
+requestID : test_21 - Priority : 0 - time : 155.168015
+sending request to requestInference
+write data to server : 22 - 1744880701711264001
+read data from server : 22 - 1744880701869211072
+requestID : test_22 - Priority : 0 - time : 157.970117
+sending request to requestInference
+write data to server : 23 - 1744880701869246267
+read data from server : 23 - 1744880702028346682
+requestID : test_23 - Priority : 0 - time : 159.124181
+sending request to requestInference
+write data to server : 24 - 1744880702028386956
+read data from server : 24 - 1744880702184605753
+requestID : test_24 - Priority : 0 - time : 156.260511
+sending request to requestInference
+write data to server : 25 - 1744880702184651594
+read data from server : 25 - 1744880702339495841
+requestID : test_25 - Priority : 0 - time : 154.865495
+sending request to requestInference
+write data to server : 26 - 1744880702339527448
+read data from server : 26 - 1744880702494605201
+requestID : test_26 - Priority : 0 - time : 155.099271
+sending request to requestInference
+write data to server : 27 - 1744880702494636427
+read data from server : 27 - 1744880702651974482
+requestID : test_27 - Priority : 0 - time : 157.366869
+sending request to requestInference
+write data to server : 28 - 1744880702652019256
+read data from server : 28 - 1744880702807050549
+requestID : test_28 - Priority : 0 - time : 155.085518
+sending request to requestInference
+write data to server : 29 - 1744880702807117052
+read data from server : 29 - 1744880702962002865
+requestID : test_29 - Priority : 0 - time : 154.906509
+sending request to requestInference
+write data to server : 30 - 1744880702962032345
+read data from server : 30 - 1744880703116997087
+requestID : test_30 - Priority : 0 - time : 154.990945
+sending request to requestInference
+write data to server : 31 - 1744880703117037326
+read data from server : 31 - 1744880703272039355
+requestID : test_31 - Priority : 0 - time : 155.058754
+sending request to requestInference
+write data to server : 32 - 1744880703272109663
+read data from server : 32 - 1744880703427089644
+requestID : test_32 - Priority : 0 - time : 155.0011
+sending request to requestInference
+write data to server : 33 - 1744880703427120442
+read data from server : 33 - 1744880703581798650
+requestID : test_33 - Priority : 0 - time : 154.730985
+sending request to requestInference
+write data to server : 34 - 1744880703581865997
+read data from server : 34 - 1744880703737178733
+requestID : test_34 - Priority : 0 - time : 155.339223
+sending request to requestInference
+write data to server : 35 - 1744880703737218064
+read data from server : 35 - 1744880703895957126
+requestID : test_35 - Priority : 0 - time : 158.761064
+sending request to requestInference
+write data to server : 36 - 1744880703895989212
+read data from server : 36 - 1744880704051203045
+requestID : test_36 - Priority : 0 - time : 155.235506
+sending request to requestInference
+write data to server : 37 - 1744880704051234969
+read data from server : 37 - 1744880704209565135
+requestID : test_37 - Priority : 0 - time : 158.354579
+sending request to requestInference
+write data to server : 38 - 1744880704209602317
+read data from server : 38 - 1744880704366483264
+requestID : test_38 - Priority : 0 - time : 156.908136
+sending request to requestInference
+write data to server : 39 - 1744880704366523851
+read data from server : 39 - 1744880704523329330
+requestID : test_39 - Priority : 0 - time : 156.826838
+sending request to requestInference
+write data to server : 40 - 1744880704523372659
+read data from server : 40 - 1744880704678964351
+requestID : test_40 - Priority : 0 - time : 155.60799
+sending request to requestInference
+write data to server : 41 - 1744880704678987711
+read data from server : 41 - 1744880704833765618
+requestID : test_41 - Priority : 0 - time : 154.795736
+sending request to requestInference
+write data to server : 42 - 1744880704833790662
+read data from server : 42 - 1744880704988974836
+requestID : test_42 - Priority : 0 - time : 155.199587
+sending request to requestInference
+write data to server : 43 - 1744880704988997479
+read data from server : 43 - 1744880705143764595
+requestID : test_43 - Priority : 0 - time : 154.783317
+sending request to requestInference
+write data to server : 44 - 1744880705143788565
+read data from server : 44 - 1744880705298892586
+requestID : test_44 - Priority : 0 - time : 155.137418
+sending request to requestInference
+write data to server : 45 - 1744880705298937506
+read data from server : 45 - 1744880705453706535
+requestID : test_45 - Priority : 0 - time : 154.790617
+sending request to requestInference
+write data to server : 46 - 1744880705453737743
+read data from server : 46 - 1744880705609135918
+requestID : test_46 - Priority : 0 - time : 155.431646
+sending request to requestInference
+write data to server : 47 - 1744880705609179512
+read data from server : 47 - 1744880705765968934
+requestID : test_47 - Priority : 0 - time : 156.816911
+sending request to requestInference
+write data to server : 48 - 1744880705766012195
+read data from server : 48 - 1744880705920506695
+requestID : test_48 - Priority : 0 - time : 154.526789
+sending request to requestInference
+write data to server : 49 - 1744880705920552508
+read data from server : 49 - 1744880706075530397
+requestID : test_49 - Priority : 0 - time : 155.01111
+sending request to requestInference
+write data to server : 50 - 1744880706075578689
+read data from server : 50 - 1744880706234117196
+requestID : test_50 - Priority : 0 - time : 158.5701
+sending request to requestInference
+write data to server : 51 - 1744880706234162279
+read data from server : 51 - 1744880706391290325
+requestID : test_51 - Priority : 0 - time : 157.15048
+sending request to requestInference
+write data to server : 52 - 1744880706391324096
+read data from server : 52 - 1744880706548879582
+requestID : test_52 - Priority : 0 - time : 157.581375
+sending request to requestInference
+write data to server : 53 - 1744880706548920044
+read data from server : 53 - 1744880706704183170
+requestID : test_53 - Priority : 0 - time : 155.289657
+sending request to requestInference
+write data to server : 54 - 1744880706704223507
+read data from server : 54 - 1744880706859825563
+requestID : test_54 - Priority : 0 - time : 155.628941
+sending request to requestInference
+write data to server : 55 - 1744880706859878751
+read data from server : 55 - 1744880707014618832
+requestID : test_55 - Priority : 0 - time : 154.795229
+sending request to requestInference
+write data to server : 56 - 1744880707014700834
+read data from server : 56 - 1744880707169740151
+requestID : test_56 - Priority : 0 - time : 155.079049
+sending request to requestInference
+write data to server : 57 - 1744880707169779781
+read data from server : 57 - 1744880707324534083
+requestID : test_57 - Priority : 0 - time : 154.781047
+sending request to requestInference
+write data to server : 58 - 1744880707324574353
+read data from server : 58 - 1744880707479699738
+requestID : test_58 - Priority : 0 - time : 155.152957
+sending request to requestInference
+write data to server : 59 - 1744880707479740852
+read data from server : 59 - 1744880707634508585
+requestID : test_59 - Priority : 0 - time : 154.794455
+sending request to requestInference
+write data to server : 60 - 1744880707634548525
+read data from server : 60 - 1744880707791972500
+requestID : test_60 - Priority : 0 - time : 157.451618
+sending request to requestInference
+write data to server : 61 - 1744880707792013488
+read data from server : 61 - 1744880707946657310
+requestID : test_61 - Priority : 0 - time : 154.668064
+sending request to requestInference
+write data to server : 62 - 1744880707946691726
+read data from server : 62 - 1744880708101730993
+requestID : test_62 - Priority : 0 - time : 155.068832
+sending request to requestInference
+write data to server : 63 - 1744880708101773155
+read data from server : 63 - 1744880708256298695
+requestID : test_63 - Priority : 0 - time : 154.559626
+sending request to requestInference
+write data to server : 64 - 1744880708256341127
+read data from server : 64 - 1744880708417779246
+requestID : test_64 - Priority : 0 - time : 161.45732
+sending request to requestInference
+write data to server : 65 - 1744880708417807758
+read data from server : 65 - 1744880708572902962
+requestID : test_65 - Priority : 0 - time : 155.115137
+sending request to requestInference
+write data to server : 66 - 1744880708572932276
+read data from server : 66 - 1744880708728861302
+requestID : test_66 - Priority : 0 - time : 155.949391
+sending request to requestInference
+write data to server : 67 - 1744880708728891491
+read data from server : 67 - 1744880708883462083
+requestID : test_67 - Priority : 0 - time : 154.599426
+sending request to requestInference
+write data to server : 68 - 1744880708883502415
+read data from server : 68 - 1744880709038787707
+requestID : test_68 - Priority : 0 - time : 155.306063
+sending request to requestInference
+write data to server : 69 - 1744880709038818617
+read data from server : 69 - 1744880709193331227
+requestID : test_69 - Priority : 0 - time : 154.533012
+sending request to requestInference
+write data to server : 70 - 1744880709193366157
+read data from server : 70 - 1744880709356731122
+requestID : test_70 - Priority : 0 - time : 163.385251
+sending request to requestInference
+write data to server : 71 - 1744880709356760567
+read data from server : 71 - 1744880709511763087
+requestID : test_71 - Priority : 0 - time : 155.02241
+sending request to requestInference
+write data to server : 72 - 1744880709511793680
+read data from server : 72 - 1744880709666832668
+requestID : test_72 - Priority : 0 - time : 155.063465
+sending request to requestInference
+write data to server : 73 - 1744880709666870085
+read data from server : 73 - 1744880709822200663
+requestID : test_73 - Priority : 0 - time : 155.353675
+sending request to requestInference
+write data to server : 74 - 1744880709822235322
+read data from server : 74 - 1744880709980418500
+requestID : test_74 - Priority : 0 - time : 158.210324
+sending request to requestInference
+write data to server : 75 - 1744880709980457955
+read data from server : 75 - 1744880710139344006
+requestID : test_75 - Priority : 0 - time : 158.909251
+sending request to requestInference
+write data to server : 76 - 1744880710139378725
+read data from server : 76 - 1744880710313758495
+requestID : test_76 - Priority : 0 - time : 174.406388
+sending request to requestInference
+write data to server : 77 - 1744880710313799890
+read data from server : 77 - 1744880710468647432
+requestID : test_77 - Priority : 0 - time : 154.870694
+sending request to requestInference
+write data to server : 78 - 1744880710468680691
+read data from server : 78 - 1744880710648181516
+requestID : test_78 - Priority : 0 - time : 179.524304
+sending request to requestInference
+write data to server : 79 - 1744880710648215454
+read data from server : 79 - 1744880710806340145
+requestID : test_79 - Priority : 0 - time : 158.145501
+sending request to requestInference
+write data to server : 80 - 1744880710806370800
+read data from server : 80 - 1744880710963943488
+requestID : test_80 - Priority : 0 - time : 157.621767
+sending request to requestInference
+write data to server : 81 - 1744880710964002926
+read data from server : 81 - 1744880711118613851
+requestID : test_81 - Priority : 0 - time : 154.635301
+sending request to requestInference
+write data to server : 82 - 1744880711118651206
+read data from server : 82 - 1744880711273736339
+requestID : test_82 - Priority : 0 - time : 155.11044
+sending request to requestInference
+write data to server : 83 - 1744880711273774503
+read data from server : 83 - 1744880711428951945
+requestID : test_83 - Priority : 0 - time : 155.205031
+sending request to requestInference
+write data to server : 84 - 1744880711428992853
+read data from server : 84 - 1744880711583529528
+requestID : test_84 - Priority : 0 - time : 154.566011
+sending request to requestInference
+write data to server : 85 - 1744880711583574009
+read data from server : 85 - 1744880711743139109
+requestID : test_85 - Priority : 0 - time : 159.586637
+sending request to requestInference
+write data to server : 86 - 1744880711743169604
+read data from server : 86 - 1744880711906788773
+requestID : test_86 - Priority : 0 - time : 163.638813
+sending request to requestInference
+write data to server : 87 - 1744880711906845291
+read data from server : 87 - 1744880712061812119
+requestID : test_87 - Priority : 0 - time : 155.020097
+sending request to requestInference
+write data to server : 88 - 1744880712061851944
+read data from server : 88 - 1744880712216624989
+requestID : test_88 - Priority : 0 - time : 154.795702
+sending request to requestInference
+write data to server : 89 - 1744880712216657407
+read data from server : 89 - 1744880712375248232
+requestID : test_89 - Priority : 0 - time : 158.611059
+sending request to requestInference
+write data to server : 90 - 1744880712375278660
+read data from server : 90 - 1744880712531831900
+requestID : test_90 - Priority : 0 - time : 156.577943
+sending request to requestInference
+write data to server : 91 - 1744880712531868663
+read data from server : 91 - 1744880712692898443
+requestID : test_91 - Priority : 0 - time : 161.058511
+sending request to requestInference
+write data to server : 92 - 1744880712692941806
+read data from server : 92 - 1744880712852788496
+requestID : test_92 - Priority : 0 - time : 159.875418
+sending request to requestInference
+write data to server : 93 - 1744880712852830272
+read data from server : 93 - 1744880713007886136
+requestID : test_93 - Priority : 0 - time : 155.081079
+sending request to requestInference
+write data to server : 94 - 1744880713007924448
+read data from server : 94 - 1744880713162804319
+requestID : test_94 - Priority : 0 - time : 154.905587
+sending request to requestInference
+write data to server : 95 - 1744880713162843310
+read data from server : 95 - 1744880713317826740
+requestID : test_95 - Priority : 0 - time : 155.010691
+sending request to requestInference
+write data to server : 96 - 1744880713317867459
+read data from server : 96 - 1744880713472742014
+requestID : test_96 - Priority : 0 - time : 154.900024
+sending request to requestInference
+write data to server : 97 - 1744880713472781047
+read data from server : 97 - 1744880713628259315
+requestID : test_97 - Priority : 0 - time : 155.505432
+sending request to requestInference
+write data to server : 98 - 1744880713628300028
+read data from server : 98 - 1744880713786984225
+requestID : test_98 - Priority : 0 - time : 158.712013
+sending request to requestInference
+write data to server : 99 - 1744880713787055837
+read data from server : 99 - 1744880713942548837
+requestID : test_99 - Priority : 0 - time : 155.549434
+sending request to requestInference
+write data to server : 100 - 1744880713942591034
+read data from server : 100 - 1744880725173949607
+requestID : test_100 - Priority : 10 - time : 11231.393393
+sending request to requestInference
+write data to server : 101 - 1744880725173998299
+read data from server : 101 - 1744880736377078201
+requestID : test_101 - Priority : 10 - time : 11203.115262
+sending request to requestInference
+write data to server : 102 - 1744880736377139186
+read data from server : 102 - 1744880747566309788
+requestID : test_102 - Priority : 10 - time : 11189.211998
+sending request to requestInference
+write data to server : 103 - 1744880747566365684
+read data from server : 103 - 1744880758757789950
+requestID : test_103 - Priority : 10 - time : 11191.46402
+sending request to requestInference
+write data to server : 104 - 1744880758757846506
+read data from server : 104 - 1744880769986816965
+requestID : test_104 - Priority : 10 - time : 11229.011639
+sending request to requestInference
+write data to server : 105 - 1744880769986870350
+read data from server : 105 - 1744880781217473302
+requestID : test_105 - Priority : 10 - time : 11230.632866
+sending request to requestInference
+write data to server : 106 - 1744880781217512312
+read data from server : 106 - 1744880792409857878
+requestID : test_106 - Priority : 10 - time : 11192.378529
+sending request to requestInference
+write data to server : 107 - 1744880792409905050
+read data from server : 107 - 1744880803592888411
+requestID : test_107 - Priority : 10 - time : 11183.01588
+sending request to requestInference
+write data to server : 108 - 1744880803592934749
+read data from server : 108 - 1744880814832426993
+requestID : test_108 - Priority : 10 - time : 11239.525079
+sending request to requestInference
+write data to server : 109 - 1744880814832472765
+read data from server : 109 - 1744880826073035769
+requestID : test_109 - Priority : 10 - time : 11240.620834
+sending request to requestInference
+write data to server : 110 - 1744880826073108318
+read data from server : 110 - 1744880830639497060
+requestID : test_110 - Priority : 5 - time : 4566.415081
+sending request to requestInference
+write data to server : 111 - 1744880830639533538
+read data from server : 111 - 1744880835205833073
+requestID : test_111 - Priority : 5 - time : 4566.324858
+sending request to requestInference
+write data to server : 112 - 1744880835205868872
+read data from server : 112 - 1744880839782320725
+requestID : test_112 - Priority : 5 - time : 4576.475949
+sending request to requestInference
+write data to server : 113 - 1744880839782354835
+read data from server : 113 - 1744880844350221808
+requestID : test_113 - Priority : 5 - time : 4567.897966
+sending request to requestInference
+write data to server : 114 - 1744880844350267763
+read data from server : 114 - 1744880848929285535
+requestID : test_114 - Priority : 5 - time : 4579.077011
+sending request to requestInference
+write data to server : 115 - 1744880848929359446
+read data from server : 115 - 1744880853497995255
+requestID : test_115 - Priority : 5 - time : 4568.669464
+sending request to requestInference
+write data to server : 116 - 1744880853498042529
+read data from server : 116 - 1744880858066201238
+requestID : test_116 - Priority : 5 - time : 4568.192108
+sending request to requestInference
+write data to server : 117 - 1744880858066249315
+read data from server : 117 - 1744880862650116686
+requestID : test_117 - Priority : 5 - time : 4583.904571
+sending request to requestInference
+write data to server : 118 - 1744880862650166755
+read data from server : 118 - 1744880867242102705
+requestID : test_118 - Priority : 5 - time : 4591.96777
+sending request to requestInference
+write data to server : 119 - 1744880867242146619
+read data from server : 119 - 1744880871823409681
+requestID : test_119 - Priority : 5 - time : 4581.321054
+sending request to requestInference
+write data to server : 120 - 1744880871823480905
+read data from server : 120 - 1744880876418503332
+requestID : test_120 - Priority : 5 - time : 4595.054503
+sending request to requestInference
+write data to server : 121 - 1744880876418549703
+read data from server : 121 - 1744880881017964622
+requestID : test_121 - Priority : 5 - time : 4599.441929
+sending request to requestInference
+write data to server : 122 - 1744880881018002688
+read data from server : 122 - 1744880885589372516
+requestID : test_122 - Priority : 5 - time : 4571.402108
+sending request to requestInference
+write data to server : 123 - 1744880885589417267
+read data from server : 123 - 1744880890159475220
+requestID : test_123 - Priority : 5 - time : 4570.08833
+sending request to requestInference
+write data to server : 124 - 1744880890159519292
+read data from server : 124 - 1744880894737084522
+requestID : test_124 - Priority : 5 - time : 4577.601183
+sending request to requestInference
+write data to server : 125 - 1744880894737130729
+read data from server : 125 - 1744880899322130498
+requestID : test_125 - Priority : 5 - time : 4585.031419
+sending request to requestInference
+write data to server : 126 - 1744880899322176692
+read data from server : 126 - 1744880903926055595
+requestID : test_126 - Priority : 5 - time : 4603.926947
+sending request to requestInference
+write data to server : 127 - 1744880903926117795
+read data from server : 127 - 1744880908530058058
+requestID : test_127 - Priority : 5 - time : 4603.972801
+sending request to requestInference
+write data to server : 128 - 1744880908530105122
+read data from server : 128 - 1744880913127997513
+requestID : test_128 - Priority : 5 - time : 4597.925594
+sending request to requestInference
+write data to server : 129 - 1744880913128043391
+read data from server : 129 - 1744880917716309498
+requestID : test_129 - Priority : 5 - time : 4588.301434

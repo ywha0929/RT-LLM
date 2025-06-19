@@ -1,7 +1,7 @@
 import gc
 import threading
 
-import Scheduler.SchedulerPriorityQ
+import Scheduler.SchedulerPriorityQNoLock
 from StructClass.ReplyDTO import replyDTO
 
 from Scheduler import SchedulerFIFO
@@ -21,7 +21,7 @@ from StructClass.rtllmPriorityMode import rtllmPriorityMode
 
 
 # preemptionFlag = False
-class AnswererPreemptionController(threading.Thread):
+class AnswererPreemptionControllerNoLock(threading.Thread):
     def __init__(self):
         threading.Thread.__init__(self)
         self.Answerer = Answerer("meta-llama/Llama-3.2-1B-Instruct","meta-llama/Llama-3.2-1B-Instruct")
@@ -32,10 +32,8 @@ class AnswererPreemptionController(threading.Thread):
         self.preemptionFlag = False
         self.prevPriority = 0
         self.kvCacheDir = '/home/ywha/RT-LLM/kvCaches/'
-        self.mutex = threading.Lock()
-        self.needCheck = _threading.Condition(self.mutex)
         self.inferenceFinished = False
-        self.Scheduler = Scheduler.SchedulerPriorityQ.SchedulerPriorityQ(3,self.needCheck)
+        self.Scheduler = Scheduler.SchedulerPriorityQNoLock.SchedulerPriorityQNoLock(3)
 
 
     def run(self):
@@ -88,11 +86,7 @@ class AnswererPreemptionController(threading.Thread):
                 nextPriority = self.Scheduler.checkHighestPriority()
 
                 while self.prevPriority <= nextPriority: # no need preemption
-                    print('AnswerPremptionController wait')
-                    self.needCheck.acquire()
-                    self.needCheck.wait()
-                    self.needCheck.release()
-                    print('AnswerPremptionController notified')
+                    print('priority check : {} - {}'.format(self.prevPriority, nextPriority))
                     # check if higher priority in queue or inferenceThread ended
                     if self.inferenceFinished == True:
                         self.inferenceFinished = False
@@ -269,9 +263,6 @@ class AnswererPreemptionController(threading.Thread):
             self.replyHandlerQueue.put(
                 replyDTO(inferenceRequest.clientSocket, inferenceRequest.addr, output, requestID=inferenceRequest.requestID))
             self.inferenceFinished = True
-            self.needCheck.acquire()
-            self.needCheck.notify()
-            self.needCheck.release()
             check6 = time.time_ns()
             print('makeInferenceAndSendReply6 ended inference post processing: {} - {}'.format(
                 inferenceRequest.requestID,

@@ -1,0 +1,1131 @@
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_0
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_1
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_2
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_3
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_4
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_5
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_6
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_7
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_8
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_9
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_10
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_11
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_12
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_13
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_14
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_15
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_16
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_17
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_18
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_19
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_20
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_21
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_22
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_23
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_24
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_25
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_26
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_27
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_28
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_29
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_30
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_31
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_32
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_33
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_34
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_35
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_36
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_37
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_38
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_39
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_40
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_41
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_42
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_43
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_44
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_45
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_46
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_47
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_48
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_49
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_50
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_51
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_52
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_53
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_54
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_55
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_56
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_57
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_58
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_59
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_60
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_61
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_62
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_63
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_64
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_65
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_66
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_67
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_68
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_69
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_70
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_71
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_72
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_73
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_74
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_75
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_76
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_77
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_78
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_79
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_80
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_81
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_82
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_83
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_84
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_85
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_86
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_87
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_88
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_89
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_90
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_91
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_92
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_93
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_94
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_95
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_96
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_97
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_98
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_99
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_100
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_101
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_102
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_103
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_104
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_105
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_106
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_107
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_108
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_109
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_110
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_111
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_112
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_113
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_114
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_115
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_116
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_117
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_118
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_119
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_120
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_121
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_122
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_123
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_124
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_125
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_126
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_127
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_128
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_129
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+--------------------start--------------------
+sending request to requestInference
+write data to server : 100 - 1744889532545910782
+sending request to requestInference
+write data to server : 110 - 1744889532546153451
+sending request to requestInference
+write data to server : 0 - 1744889532546328025
+read data from server : 0 - 1744889532800258866
+requestID : test_0 - Priority : 0 - time : 253.964653 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 0}
+sending request to requestInference
+write data to server : 1 - 1744889534148371481
+read data from server : 1 - 1744889534332252147
+requestID : test_1 - Priority : 0 - time : 183.913579 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 1}
+sending request to requestInference
+write data to server : 2 - 1744889535749628340
+read data from server : 2 - 1744889535922824601
+requestID : test_2 - Priority : 0 - time : 173.230081 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 2}
+sending request to requestInference
+write data to server : 111 - 1744889537151465347
+sending request to requestInference
+write data to server : 3 - 1744889537351628518
+read data from server : 3 - 1744889537521334315
+requestID : test_3 - Priority : 0 - time : 169.73891 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 3}
+read data from server : 110 - 1744889537853313743
+requestID : test_110 - Priority : 5 - time : 5307.186025 - reply : {'msg': ' - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 110}
+sending request to requestInference
+write data to server : 4 - 1744889538953462694
+read data from server : 4 - 1744889539117446295
+requestID : test_4 - Priority : 0 - time : 164.015666 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 4}
+sending request to requestInference
+write data to server : 5 - 1744889540554564595
+read data from server : 5 - 1744889540723628936
+requestID : test_5 - Priority : 0 - time : 169.120543 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 5}
+sending request to requestInference
+write data to server : 112 - 1744889541756342338
+sending request to requestInference
+write data to server : 6 - 1744889542156403348
+read data from server : 6 - 1744889542324410127
+requestID : test_6 - Priority : 0 - time : 168.033569 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 6}
+read data from server : 111 - 1744889542908962763
+requestID : test_111 - Priority : 5 - time : 5757.533553 - reply : {'msg': '30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 111}
+sending request to requestInference
+write data to server : 101 - 1744889543557993552
+sending request to requestInference
+write data to server : 7 - 1744889543758187693
+read data from server : 7 - 1744889543927935175
+requestID : test_7 - Priority : 0 - time : 169.773096 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 7}
+sending request to requestInference
+write data to server : 8 - 1744889545360169889
+read data from server : 8 - 1744889545534783479
+requestID : test_8 - Priority : 0 - time : 174.653423 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 8}
+sending request to requestInference
+write data to server : 113 - 1744889546361333218
+sending request to requestInference
+write data to server : 9 - 1744889546962056609
+read data from server : 9 - 1744889547125394342
+requestID : test_9 - Priority : 0 - time : 163.369523 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 9}
+read data from server : 112 - 1744889548000124253
+requestID : test_112 - Priority : 5 - time : 6243.83565 - reply : {'msg': '\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 112}
+sending request to requestInference
+write data to server : 10 - 1744889548563902489
+read data from server : 10 - 1744889548729625530
+requestID : test_10 - Priority : 0 - time : 165.75516 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 10}
+sending request to requestInference
+write data to server : 11 - 1744889550165609352
+read data from server : 11 - 1744889550329612225
+requestID : test_11 - Priority : 0 - time : 164.033669 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 11}
+sending request to requestInference
+write data to server : 114 - 1744889550966253007
+sending request to requestInference
+write data to server : 12 - 1744889551767500219
+read data from server : 12 - 1744889551935880640
+requestID : test_12 - Priority : 0 - time : 168.426698 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 12}
+read data from server : 113 - 1744889553060672416
+requestID : test_113 - Priority : 5 - time : 6699.375332 - reply : {'msg': '23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 113}
+sending request to requestInference
+write data to server : 13 - 1744889553369428107
+read data from server : 13 - 1744889553533755837
+requestID : test_13 - Priority : 0 - time : 164.357792 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 13}
+sending request to requestInference
+write data to server : 102 - 1744889554569323337
+sending request to requestInference
+write data to server : 14 - 1744889554971218467
+read data from server : 14 - 1744889555133813120
+requestID : test_14 - Priority : 0 - time : 162.625895 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 14}
+sending request to requestInference
+write data to server : 115 - 1744889555570687965
+sending request to requestInference
+write data to server : 15 - 1744889556572676543
+read data from server : 15 - 1744889556740848926
+requestID : test_15 - Priority : 0 - time : 168.200413 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 15}
+read data from server : 114 - 1744889558128043346
+requestID : test_114 - Priority : 5 - time : 7161.820714 - reply : {'msg': '\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 114}
+sending request to requestInference
+write data to server : 16 - 1744889558174489589
+read data from server : 16 - 1744889558347524266
+requestID : test_16 - Priority : 0 - time : 173.065497 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 16}
+sending request to requestInference
+write data to server : 17 - 1744889559776464140
+read data from server : 17 - 1744889559947610552
+requestID : test_17 - Priority : 0 - time : 171.180928 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 17}
+sending request to requestInference
+write data to server : 116 - 1744889560175614611
+sending request to requestInference
+write data to server : 18 - 1744889561378331874
+read data from server : 18 - 1744889561547905707
+requestID : test_18 - Priority : 0 - time : 169.600052 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 18}
+sending request to requestInference
+write data to server : 19 - 1744889562980174479
+read data from server : 19 - 1744889563151858369
+requestID : test_19 - Priority : 0 - time : 171.708257 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 19}
+read data from server : 115 - 1744889563354897259
+requestID : test_115 - Priority : 5 - time : 7784.244337 - reply : {'msg': ' Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 115}
+sending request to requestInference
+write data to server : 20 - 1744889564581588459
+read data from server : 20 - 1744889564746753319
+requestID : test_20 - Priority : 0 - time : 165.190586 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 20}
+sending request to requestInference
+write data to server : 117 - 1744889564780534502
+sending request to requestInference
+write data to server : 103 - 1744889565571532966
+sending request to requestInference
+write data to server : 21 - 1744889566182680941
+read data from server : 21 - 1744889566363998881
+requestID : test_21 - Priority : 0 - time : 181.346476 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 21}
+sending request to requestInference
+write data to server : 22 - 1744889567784541213
+read data from server : 22 - 1744889567950632513
+requestID : test_22 - Priority : 0 - time : 166.117821 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 22}
+read data from server : 116 - 1744889568434116797
+requestID : test_116 - Priority : 5 - time : 8258.532351 - reply : {'msg': ' New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 116}
+sending request to requestInference
+write data to server : 118 - 1744889569385470311
+sending request to requestInference
+write data to server : 23 - 1744889569386362379
+read data from server : 23 - 1744889569557077056
+requestID : test_23 - Priority : 0 - time : 170.739347 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 23}
+sending request to requestInference
+write data to server : 24 - 1744889570988314641
+read data from server : 24 - 1744889571150924315
+requestID : test_24 - Priority : 0 - time : 162.635583 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 24}
+sending request to requestInference
+write data to server : 25 - 1744889572590169517
+read data from server : 25 - 1744889572763775575
+requestID : test_25 - Priority : 0 - time : 173.632409 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 25}
+read data from server : 117 - 1744889573483505927
+requestID : test_117 - Priority : 5 - time : 8702.997447 - reply : {'msg': '28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 117}
+sending request to requestInference
+write data to server : 119 - 1744889573989645082
+sending request to requestInference
+write data to server : 26 - 1744889574192007763
+read data from server : 26 - 1744889574365623153
+requestID : test_26 - Priority : 0 - time : 173.645994 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 26}
+sending request to requestInference
+write data to server : 27 - 1744889575793598260
+read data from server : 27 - 1744889575958714533
+requestID : test_27 - Priority : 0 - time : 165.148689 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 27}
+sending request to requestInference
+write data to server : 104 - 1744889576582833611
+sending request to requestInference
+write data to server : 28 - 1744889577394659748
+read data from server : 28 - 1744889577566621606
+requestID : test_28 - Priority : 0 - time : 172.00135 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 28}
+read data from server : 118 - 1744889578533711517
+requestID : test_118 - Priority : 5 - time : 9148.277395 - reply : {'msg': '\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 118}
+sending request to requestInference
+write data to server : 29 - 1744889578996533481
+read data from server : 29 - 1744889579169239368
+requestID : test_29 - Priority : 0 - time : 172.734969 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 29}
+sending request to requestInference
+write data to server : 30 - 1744889580598389770
+read data from server : 30 - 1744889580760794879
+requestID : test_30 - Priority : 0 - time : 162.438259 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 30}
+sending request to requestInference
+write data to server : 31 - 1744889582200171396
+read data from server : 31 - 1744889582371865969
+requestID : test_31 - Priority : 0 - time : 171.718024 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 31}
+read data from server : 119 - 1744889583572739179
+requestID : test_119 - Priority : 5 - time : 9583.141824 - reply : {'msg': ' Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne\n\nThese capitals are the official seats of government for each state and are typically located in the center of the state.', 'requestID': 119}
+sending request to requestInference
+write data to server : 32 - 1744889583801586630
+read data from server : 32 - 1744889583973234712
+requestID : test_32 - Priority : 0 - time : 171.674535 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 32}
+sending request to requestInference
+write data to server : 33 - 1744889585403433899
+read data from server : 33 - 1744889585574160752
+requestID : test_33 - Priority : 0 - time : 170.753792 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 33}
+sending request to requestInference
+write data to server : 34 - 1744889587005283105
+read data from server : 34 - 1744889587168510444
+requestID : test_34 - Priority : 0 - time : 163.252091 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 34}
+sending request to requestInference
+write data to server : 105 - 1744889587594161179
+sending request to requestInference
+write data to server : 35 - 1744889588607217573
+read data from server : 35 - 1744889588815819831
+requestID : test_35 - Priority : 0 - time : 208.633232 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 35}
+sending request to requestInference
+write data to server : 36 - 1744889590208599811
+read data from server : 36 - 1744889590381034144
+requestID : test_36 - Priority : 0 - time : 172.464187 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 36}
+sending request to requestInference
+write data to server : 37 - 1744889591810444542
+read data from server : 37 - 1744889591978697044
+requestID : test_37 - Priority : 0 - time : 168.285279 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 37}
+sending request to requestInference
+write data to server : 38 - 1744889593411591967
+read data from server : 38 - 1744889593606894073
+requestID : test_38 - Priority : 0 - time : 195.333796 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 38}
+sending request to requestInference
+write data to server : 39 - 1744889595012557074
+read data from server : 39 - 1744889595191993037
+requestID : test_39 - Priority : 0 - time : 179.468773 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 39}
+read data from server : 100 - 1744889596103960766
+requestID : test_100 - Priority : 10 - time : 63558.089156 - reply : {'msg': 'ions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 100}
+sending request to requestInference
+write data to server : 40 - 1744889596614398008
+read data from server : 40 - 1744889596789326711
+requestID : test_40 - Priority : 0 - time : 174.954482 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 40}
+sending request to requestInference
+write data to server : 41 - 1744889598216224379
+read data from server : 41 - 1744889598381102383
+requestID : test_41 - Priority : 0 - time : 164.905433 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 41}
+sending request to requestInference
+write data to server : 106 - 1744889598605479167
+sending request to requestInference
+write data to server : 42 - 1744889599818071450
+read data from server : 42 - 1744889599994223684
+requestID : test_42 - Priority : 0 - time : 176.177119 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 42}
+sending request to requestInference
+write data to server : 43 - 1744889601419921315
+read data from server : 43 - 1744889601582781776
+requestID : test_43 - Priority : 0 - time : 162.89268 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 43}
+sending request to requestInference
+write data to server : 44 - 1744889603021761587
+read data from server : 44 - 1744889603195806390
+requestID : test_44 - Priority : 0 - time : 174.070316 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 44}
+sending request to requestInference
+write data to server : 45 - 1744889604623589720
+read data from server : 45 - 1744889604790132352
+requestID : test_45 - Priority : 0 - time : 166.568572 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 45}
+sending request to requestInference
+write data to server : 46 - 1744889606224586261
+read data from server : 46 - 1744889606392902972
+requestID : test_46 - Priority : 0 - time : 168.346424 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 46}
+sending request to requestInference
+write data to server : 47 - 1744889607825575571
+read data from server : 47 - 1744889608033429210
+requestID : test_47 - Priority : 0 - time : 207.884886 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 47}
+read data from server : 101 - 1744889608605139153
+requestID : test_101 - Priority : 10 - time : 65047.174501 - reply : {'msg': ' a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 101}
+sending request to requestInference
+write data to server : 48 - 1744889609427415626
+read data from server : 48 - 1744889609598962860
+requestID : test_48 - Priority : 0 - time : 171.576299 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 48}
+sending request to requestInference
+write data to server : 107 - 1744889609616722258
+sending request to requestInference
+write data to server : 49 - 1744889611029349996
+read data from server : 49 - 1744889611192685623
+requestID : test_49 - Priority : 0 - time : 163.365956 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 49}
+sending request to requestInference
+write data to server : 50 - 1744889612630595986
+read data from server : 50 - 1744889612794513825
+requestID : test_50 - Priority : 0 - time : 163.947416 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 50}
+sending request to requestInference
+write data to server : 51 - 1744889614232459165
+read data from server : 51 - 1744889614399729574
+requestID : test_51 - Priority : 0 - time : 167.302586 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 51}
+sending request to requestInference
+write data to server : 52 - 1744889615833586585
+read data from server : 52 - 1744889616011001816
+requestID : test_52 - Priority : 0 - time : 177.447065 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 52}
+sending request to requestInference
+write data to server : 53 - 1744889617435439150
+read data from server : 53 - 1744889617612886691
+requestID : test_53 - Priority : 0 - time : 177.474261 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 53}
+sending request to requestInference
+write data to server : 54 - 1744889619036580670
+read data from server : 54 - 1744889619202865684
+requestID : test_54 - Priority : 0 - time : 166.315621 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 54}
+sending request to requestInference
+write data to server : 108 - 1744889620628023537
+sending request to requestInference
+write data to server : 55 - 1744889620638447472
+read data from server : 55 - 1744889620809630204
+requestID : test_55 - Priority : 0 - time : 171.212943 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 55}
+read data from server : 102 - 1744889621077212604
+requestID : test_102 - Priority : 10 - time : 66507.92747 - reply : {'msg': ' 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 102}
+sending request to requestInference
+write data to server : 56 - 1744889622240379152
+read data from server : 56 - 1744889622413668554
+requestID : test_56 - Priority : 0 - time : 173.320484 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 56}
+sending request to requestInference
+write data to server : 57 - 1744889623842283647
+read data from server : 57 - 1744889624011942997
+requestID : test_57 - Priority : 0 - time : 169.685888 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 57}
+sending request to requestInference
+write data to server : 58 - 1744889625444152272
+read data from server : 58 - 1744889625612773679
+requestID : test_58 - Priority : 0 - time : 168.646733 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 58}
+sending request to requestInference
+write data to server : 59 - 1744889627045579509
+read data from server : 59 - 1744889627216292566
+requestID : test_59 - Priority : 0 - time : 170.740982 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 59}
+sending request to requestInference
+write data to server : 60 - 1744889628647448731
+read data from server : 60 - 1744889628812727667
+requestID : test_60 - Priority : 0 - time : 165.303364 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 60}
+sending request to requestInference
+write data to server : 61 - 1744889630249312479
+read data from server : 61 - 1744889630416957516
+requestID : test_61 - Priority : 0 - time : 167.670901 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 61}
+sending request to requestInference
+write data to server : 109 - 1744889631639350899
+sending request to requestInference
+write data to server : 62 - 1744889631851174944
+read data from server : 62 - 1744889632023507757
+requestID : test_62 - Priority : 0 - time : 172.360862 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 62}
+read data from server : 103 - 1744889633438692236
+requestID : test_103 - Priority : 10 - time : 67867.194261 - reply : {'msg': '.\n* In 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 103}
+sending request to requestInference
+write data to server : 63 - 1744889633452565481
+read data from server : 63 - 1744889633620754643
+requestID : test_63 - Priority : 0 - time : 168.220278 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 63}
+sending request to requestInference
+write data to server : 64 - 1744889635054417102
+read data from server : 64 - 1744889635220467829
+requestID : test_64 - Priority : 0 - time : 166.077732 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 64}
+sending request to requestInference
+write data to server : 65 - 1744889636656342760
+read data from server : 65 - 1744889636827210179
+requestID : test_65 - Priority : 0 - time : 170.941835 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 65}
+sending request to requestInference
+write data to server : 66 - 1744889638257621095
+read data from server : 66 - 1744889638425596626
+requestID : test_66 - Priority : 0 - time : 168.005955 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 66}
+sending request to requestInference
+write data to server : 67 - 1744889639859466483
+read data from server : 67 - 1744889640031749672
+requestID : test_67 - Priority : 0 - time : 172.313205 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 67}
+sending request to requestInference
+write data to server : 68 - 1744889641461294619
+read data from server : 68 - 1744889641631014785
+requestID : test_68 - Priority : 0 - time : 169.745099 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 68}
+sending request to requestInference
+write data to server : 69 - 1744889643063129222
+read data from server : 69 - 1744889643245164438
+requestID : test_69 - Priority : 0 - time : 182.062172 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 69}
+sending request to requestInference
+write data to server : 70 - 1744889644664616415
+read data from server : 70 - 1744889644843165000
+requestID : test_70 - Priority : 0 - time : 178.573691 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 70}
+read data from server : 104 - 1744889645903433729
+requestID : test_104 - Priority : 10 - time : 69320.633642 - reply : {'msg': ' In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 104}
+sending request to requestInference
+write data to server : 71 - 1744889646265993104
+read data from server : 71 - 1744889646433746547
+requestID : test_71 - Priority : 0 - time : 167.784665 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 71}
+sending request to requestInference
+write data to server : 72 - 1744889647867868242
+read data from server : 72 - 1744889648037913002
+requestID : test_72 - Priority : 0 - time : 170.076596 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 72}
+sending request to requestInference
+write data to server : 73 - 1744889649469740727
+read data from server : 73 - 1744889649632650637
+requestID : test_73 - Priority : 0 - time : 162.9416 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 73}
+sending request to requestInference
+write data to server : 74 - 1744889651071587653
+read data from server : 74 - 1744889651246317557
+requestID : test_74 - Priority : 0 - time : 174.760156 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 74}
+sending request to requestInference
+write data to server : 75 - 1744889652673839993
+read data from server : 75 - 1744889652841640900
+requestID : test_75 - Priority : 0 - time : 167.831913 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 75}
+sending request to requestInference
+write data to server : 76 - 1744889654275630603
+read data from server : 76 - 1744889654441722041
+requestID : test_76 - Priority : 0 - time : 166.11698 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 76}
+sending request to requestInference
+write data to server : 77 - 1744889655877491691
+read data from server : 77 - 1744889656049169755
+requestID : test_77 - Priority : 0 - time : 171.707894 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 77}
+sending request to requestInference
+write data to server : 78 - 1744889657479331821
+read data from server : 78 - 1744889657648789246
+requestID : test_78 - Priority : 0 - time : 169.487878 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 78}
+read data from server : 105 - 1744889658397852069
+requestID : test_105 - Priority : 10 - time : 70803.725527 - reply : {'msg': '8.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 105}
+sending request to requestInference
+write data to server : 79 - 1744889659081181179
+read data from server : 79 - 1744889659254171275
+requestID : test_79 - Priority : 0 - time : 173.023038 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 79}
+sending request to requestInference
+write data to server : 80 - 1744889660683028117
+read data from server : 80 - 1744889660850334947
+requestID : test_80 - Priority : 0 - time : 167.3381 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 80}
+sending request to requestInference
+write data to server : 81 - 1744889662284873912
+read data from server : 81 - 1744889662450045440
+requestID : test_81 - Priority : 0 - time : 165.201441 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 81}
+sending request to requestInference
+write data to server : 82 - 1744889663886737120
+read data from server : 82 - 1744889664053258242
+requestID : test_82 - Priority : 0 - time : 166.552045 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 82}
+sending request to requestInference
+write data to server : 83 - 1744889665488540408
+read data from server : 83 - 1744889665660958343
+requestID : test_83 - Priority : 0 - time : 172.449178 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 83}
+sending request to requestInference
+write data to server : 84 - 1744889667090500080
+read data from server : 84 - 1744889667262024701
+requestID : test_84 - Priority : 0 - time : 171.553675 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 84}
+sending request to requestInference
+write data to server : 85 - 1744889668692339487
+read data from server : 85 - 1744889668862516041
+requestID : test_85 - Priority : 0 - time : 170.207401 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 85}
+sending request to requestInference
+write data to server : 86 - 1744889670294124850
+read data from server : 86 - 1744889670458349824
+requestID : test_86 - Priority : 0 - time : 164.251905 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 86}
+read data from server : 106 - 1744889670845164615
+requestID : test_106 - Priority : 10 - time : 72239.745059 - reply : {'msg': 'ments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 106}
+sending request to requestInference
+write data to server : 87 - 1744889671896001054
+read data from server : 87 - 1744889672060512756
+requestID : test_87 - Priority : 0 - time : 164.554727 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 87}
+sending request to requestInference
+write data to server : 88 - 1744889673497842317
+read data from server : 88 - 1744889673667174427
+requestID : test_88 - Priority : 0 - time : 169.356942 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 88}
+sending request to requestInference
+write data to server : 89 - 1744889675099676416
+read data from server : 89 - 1744889675263291436
+requestID : test_89 - Priority : 0 - time : 163.639816 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 89}
+sending request to requestInference
+write data to server : 90 - 1744889676701297452
+read data from server : 90 - 1744889676866354332
+requestID : test_90 - Priority : 0 - time : 165.083553 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 90}
+sending request to requestInference
+write data to server : 91 - 1744889678303145999
+read data from server : 91 - 1744889678477936635
+requestID : test_91 - Priority : 0 - time : 174.816955 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 91}
+sending request to requestInference
+write data to server : 92 - 1744889679904994248
+read data from server : 92 - 1744889680068502997
+requestID : test_92 - Priority : 0 - time : 163.536079 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 92}
+sending request to requestInference
+write data to server : 93 - 1744889681506583802
+read data from server : 93 - 1744889681670402617
+requestID : test_93 - Priority : 0 - time : 163.844635 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 93}
+sending request to requestInference
+write data to server : 94 - 1744889683107622680
+read data from server : 94 - 1744889683278059845
+requestID : test_94 - Priority : 0 - time : 170.478902 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 94}
+read data from server : 107 - 1744889683295651315
+requestID : test_107 - Priority : 10 - time : 73678.951546 - reply : {'msg': 'ification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 107}
+sending request to requestInference
+write data to server : 95 - 1744889684709425236
+read data from server : 95 - 1744889684874715295
+requestID : test_95 - Priority : 0 - time : 165.323385 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 95}
+sending request to requestInference
+write data to server : 96 - 1744889686311375709
+read data from server : 96 - 1744889686483177640
+requestID : test_96 - Priority : 0 - time : 171.848722 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 96}
+sending request to requestInference
+write data to server : 97 - 1744889687913221197
+read data from server : 97 - 1744889688085402536
+requestID : test_97 - Priority : 0 - time : 172.207843 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 97}
+sending request to requestInference
+write data to server : 98 - 1744889689515062060
+read data from server : 98 - 1744889689680435257
+requestID : test_98 - Priority : 0 - time : 165.411961 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 98}
+sending request to requestInference
+write data to server : 99 - 1744889691116920245
+read data from server : 99 - 1744889691290944976
+requestID : test_99 - Priority : 0 - time : 174.051794 - reply : {'msg': 'assistant\n\nThe capital of South Korea is Seoul.', 'requestID': 99}
+read data from server : 108 - 1744889695308871451
+requestID : test_108 - Priority : 10 - time : 74680.883021 - reply : {'msg': ' the Korean War.\n* The war was fought between the United Nations Command, led by the United States, and the North Korean and Chinese armies.\n* The war ended with the signing of the Armistice Agreement in 1953, which established a ceasefire and created the Korean Demilitarized Zone (DMZ) between North and South Korea.\n\n**Demilitarized Zone (1953-present)**\n\n* The DMZ has remained in place ever since the armistice agreement, and it is one of the most heavily militarized borders in the world.\n* The DMZ is a buffer zone between North and South Korea, and it is patrolled by both sides.\n* The DMZ has also become a popular tourist destination, with many people visiting to see the border and the surrounding countryside.\n\n**Modern Korea (1945-present)**\n\n* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 108}
+read data from server : 109 - 1744889706505268495
+requestID : test_109 - Priority : 10 - time : 74865.973567 - reply : {'msg': "assistant\n\nThe history of Korea is a long and complex one, spanning over 1,000 years. Here's a brief overview:\n\n**Ancient Korea (2333 BCE - 668 CE)**\n\n* The Korean Peninsula was first inhabited by the Jeulmun people, who were later replaced by the Buyeo and Goguryeo tribes.\n* In 108 BCE, the Goguryeo kingdom was established, which would eventually become one of the largest and most powerful kingdoms in Korea.\n* In 37 CE, the Silla kingdom was established, which would eventually become the dominant kingdom in Korea.\n* In 668 CE, the Silla kingdom unified the peninsula under a single ruler, King Silla.\n\n**Goryeo Dynasty (918-1392)**\n\n* In 918 CE, the Goryeo dynasty was established, which would last for over 500 years.\n* During this period, Buddhism became a major influence on Korean culture, and the Goryeo dynasty built many temples and monasteries.\n* The Goryeo dynasty was also known for its beautiful calligraphy and painting, and many of its artworks have survived to this day.\n\n**Joseon Dynasty (1392-1910)**\n\n* In 1392 CE, the Joseon dynasty was established, which would last for over 500 years.\n* During this period, the Joseon dynasty was known for its strict social hierarchy, with the king at the top and the peasants at the bottom.\n* The Joseon dynasty was also known for its beautiful architecture, including the Gyeongbokgung palace in Seoul.\n* The Joseon dynasty was also known for its strict laws and punishments, including the use of torture and execution.\n\n**Modern Korea (1910-1945)**\n\n* In 1910 CE, the Joseon dynasty was overthrown, and a new government was established.\n* In 1910, Korea was annexed by Japan, which ruled the country until the end of World War II.\n* During World War II, Korea was occupied by Japan, and many Koreans were forced to work in Japanese mines and factories.\n* After the war, Korea was occupied by the United States, and a new government was established.\n\n**Korean War (1950-1953)**\n\n* In 1950 CE, North Korea, backed by China and the Soviet Union, invaded South Korea, leading to the Korean War.\n* The war was fought between the United Nations Command, led by the United States, and the North Korean and Chinese armies.\n* The war ended with the signing of the Armistice Agreement in 1953, which established a ceasefire and created the Korean Demilitarized Zone (DMZ) between North and South Korea.\n\n**Demilitarized Zone (1953-present)**\n\n* The DMZ has remained in place ever since the armistice agreement, and it is one of the most heavily militarized borders in the world.\n* The DMZ is a buffer zone between North and South Korea, and it is patrolled by both sides.\n* The DMZ has also become a popular tourist destination, with many people visiting to see the border and the surrounding countryside.\n\n**Modern Korea (1945-present)**\n\n* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.", 'requestID': 109}

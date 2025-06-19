@@ -1,0 +1,3039 @@
+127.0.1.1
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_0_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083526619941
+reply 0 : 1745312083526937186
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_0', 'requestID': 0} : 1745312083527045946
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f671df00>
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_1_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083540462606
+reply 0 : 1745312083540536348
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_1', 'requestID': 1} : 1745312083540567628
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_2_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083550649783
+reply 0 : 1745312083550704127
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_2', 'requestID': 2} : 1745312083550730950
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_3_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083560814993
+reply 0 : 1745312083560874557
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_3', 'requestID': 3} : 1745312083560905942
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_4_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083571081201
+reply 0 : 1745312083571138716
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_4', 'requestID': 4} : 1745312083571179415
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_5_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083581269855
+reply 0 : 1745312083581324009
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_5', 'requestID': 5} : 1745312083581359656
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_6_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083591418889
+reply 0 : 1745312083591481429
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_6', 'requestID': 6} : 1745312083591522937
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_7_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083601615022
+reply 0 : 1745312083601672424
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_7', 'requestID': 7} : 1745312083601708668
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_8_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083613410719
+reply 0 : 1745312083613468184
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_8', 'requestID': 8} : 1745312083613507125
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_9_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083623603663
+reply 0 : 1745312083623673389
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_9', 'requestID': 9} : 1745312083623716578
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_10_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083633813213
+reply 0 : 1745312083633879927
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_10', 'requestID': 10} : 1745312083633912579
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_11_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083644119514
+reply 0 : 1745312083644185277
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_11', 'requestID': 11} : 1745312083644219148
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_12_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083654415762
+reply 0 : 1745312083654472550
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_12', 'requestID': 12} : 1745312083654500809
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_13_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083664679653
+reply 0 : 1745312083664730188
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_13', 'requestID': 13} : 1745312083664797880
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_14_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083674884617
+reply 0 : 1745312083674934162
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_14', 'requestID': 14} : 1745312083674962477
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_15_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083685070828
+reply 0 : 1745312083685138962
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_15', 'requestID': 15} : 1745312083685170042
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_16_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083695376868
+reply 0 : 1745312083695465361
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_16', 'requestID': 16} : 1745312083695503109
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_17_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083705714542
+reply 0 : 1745312083708450137
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_17', 'requestID': 17} : 1745312083708484114
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_18_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083718578988
+reply 0 : 1745312083718641083
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_18', 'requestID': 18} : 1745312083718667182
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_19_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083728758256
+reply 0 : 1745312083728821068
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_19', 'requestID': 19} : 1745312083728847333
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_20_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083739039077
+reply 0 : 1745312083739099542
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_20', 'requestID': 20} : 1745312083739124171
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_21_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083749295565
+reply 0 : 1745312083749339456
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_21', 'requestID': 21} : 1745312083749362965
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_22_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083759525572
+reply 0 : 1745312083759584456
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_23_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_22', 'requestID': 22} : 1745312083759764145
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083759778389
+reply 0 : 1745312083759821329
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_23', 'requestID': 23} : 1745312083760075166
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_24_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a30>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083770224526
+reply 0 : 1745312083770265222
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_24', 'requestID': 24} : 1745312083770294474
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_25_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b39d0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083780372974
+reply 0 : 1745312083780418132
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_25', 'requestID': 25} : 1745312083780444383
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_26_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083790586834
+reply 0 : 1745312083790628161
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_26', 'requestID': 26} : 1745312083790658057
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_27_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3b80>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083800805625
+reply 0 : 1745312083800851948
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_27', 'requestID': 27} : 1745312083800882241
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_28_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3910>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083814407136
+reply 0 : 1745312083814472016
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_28', 'requestID': 28} : 1745312083814501244
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_29_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083824586150
+reply 0 : 1745312083824641474
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_29', 'requestID': 29} : 1745312083824672308
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_30_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083834842291
+reply 0 : 1745312083834888744
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_30', 'requestID': 30} : 1745312083834917032
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_31_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083845046881
+reply 0 : 1745312083845102614
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_31', 'requestID': 31} : 1745312083845129330
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_32_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083855219566
+reply 0 : 1745312083855268358
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_32', 'requestID': 32} : 1745312083855295285
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_33_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083866409601
+reply 0 : 1745312083866493323
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_33', 'requestID': 33} : 1745312083866521433
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_34_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3940>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083876610330
+reply 0 : 1745312083876653040
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_34', 'requestID': 34} : 1745312083876681284
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_35_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083886767552
+reply 0 : 1745312083886823851
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_35', 'requestID': 35} : 1745312083886847050
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_36_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b38e0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083896929684
+reply 0 : 1745312083896971304
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_36', 'requestID': 36} : 1745312083896997788
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_37_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3790>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083907081458
+reply 0 : 1745312083907125236
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_37', 'requestID': 37} : 1745312083907156293
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_38_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b38b0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083917311114
+reply 0 : 1745312083917353687
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_38', 'requestID': 38} : 1745312083917386703
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_39_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083927550505
+reply 0 : 1745312083927593817
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_39', 'requestID': 39} : 1745312083927617090
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_40_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3760>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083937698777
+reply 0 : 1745312083937738905
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_40', 'requestID': 40} : 1745312083937765026
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_41_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b37c0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083947845797
+reply 0 : 1745312083947887639
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_41', 'requestID': 41} : 1745312083947982317
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_42_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083948020821
+reply 0 : 1745312083948066501
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_42', 'requestID': 42} : 1745312083948184428
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_43_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083949401907
+reply 0 : 1745312083949443136
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_43', 'requestID': 43} : 1745312083949469072
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_44_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083959551827
+reply 0 : 1745312083959592185
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_44', 'requestID': 44} : 1745312083959618503
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_45_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b35e0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083969711942
+reply 0 : 1745312083969765729
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_45', 'requestID': 45} : 1745312083969796422
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_46_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083979994261
+reply 0 : 1745312083980050893
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_47_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_46', 'requestID': 46} : 1745312083980183177
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083980200923
+reply 0 : 1745312083980229699
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_48_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_47', 'requestID': 47} : 1745312083980367090
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083980383639
+reply 0 : 1745312083980412172
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_48', 'requestID': 48} : 1745312083980432498
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_49_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083990556864
+reply 0 : 1745312083990603244
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_49', 'requestID': 49} : 1745312083990703113
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_50_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312083990733930
+reply 0 : 1745312083990765662
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_50', 'requestID': 50} : 1745312083990785786
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_51_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084000969654
+reply 0 : 1745312084001019200
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_51', 'requestID': 51} : 1745312084001045467
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_52_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084011138781
+reply 0 : 1745312084011193375
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_52', 'requestID': 52} : 1745312084011223448
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_53_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084021296554
+reply 0 : 1745312084021330811
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_53', 'requestID': 53} : 1745312084021355158
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_54_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3580>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084033418376
+reply 0 : 1745312084033501030
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_54', 'requestID': 54} : 1745312084033531209
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_55_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b35b0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084043616984
+reply 0 : 1745312084043662005
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_55', 'requestID': 55} : 1745312084043686623
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_56_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084053770856
+reply 0 : 1745312084053815421
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_56', 'requestID': 56} : 1745312084053840400
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_57_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b34f0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084063925200
+reply 0 : 1745312084063967212
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_57', 'requestID': 57} : 1745312084064074326
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_58_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084067403112
+reply 0 : 1745312084067447238
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_58', 'requestID': 58} : 1745312084067469791
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_59_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b36d0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084077554054
+reply 0 : 1745312084077598645
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_59', 'requestID': 59} : 1745312084077622981
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_60_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3430>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084087708520
+reply 0 : 1745312084087754082
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_60', 'requestID': 60} : 1745312084087782886
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_61_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084099415246
+reply 0 : 1745312084099467837
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_61', 'requestID': 61} : 1745312084099495208
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3700>
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_62_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084109680150
+reply 0 : 1745312084109719869
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_62', 'requestID': 62} : 1745312084109749189
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_63_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084109868618
+reply 0 : 1745312084109897124
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_63', 'requestID': 63} : 1745312084109922447
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_64_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3be0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084120066301
+reply 0 : 1745312084120106387
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_64', 'requestID': 64} : 1745312084120132877
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_65_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3610>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084132413890
+reply 0 : 1745312084132468433
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_65', 'requestID': 65} : 1745312084132496735
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_66_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084142588908
+reply 0 : 1745312084142639006
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_66', 'requestID': 66} : 1745312084142668108
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_67_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b33a0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084152848213
+reply 0 : 1745312084152899767
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_67', 'requestID': 67} : 1745312084152927836
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_68_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084163091782
+reply 0 : 1745312084163144698
+1
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_69_from_server
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_68', 'requestID': 68} : 1745312084163269210
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084163285338
+reply 0 : 1745312084163313866
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_69', 'requestID': 69} : 1745312084163338158
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_70_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084173528633
+reply 0 : 1745312084173572433
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_70', 'requestID': 70} : 1745312084173602676
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_71_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084183690662
+reply 0 : 1745312084183734123
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_71', 'requestID': 71} : 1745312084183762735
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_72_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3c40>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084196417811
+reply 0 : 1745312084196466160
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_72', 'requestID': 72} : 1745312084196492383
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_73_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084206579240
+reply 0 : 1745312084206625520
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_73', 'requestID': 73} : 1745312084206650458
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_74_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ca0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084216738570
+reply 0 : 1745312084216784461
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_74', 'requestID': 74} : 1745312084216809602
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_75_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b34c0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084226897253
+reply 0 : 1745312084226940624
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_75', 'requestID': 75} : 1745312084227039569
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_76_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084227071091
+reply 0 : 1745312084227098324
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_76', 'requestID': 76} : 1745312084227121694
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_77_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3400>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084238407791
+reply 0 : 1745312084238449214
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_77', 'requestID': 77} : 1745312084238482623
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_78_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084248631571
+reply 0 : 1745312084248673830
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_79_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_78', 'requestID': 78} : 1745312084248783184
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084248800248
+reply 0 : 1745312084248828215
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_79', 'requestID': 79} : 1745312084248905819
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_80_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084248931948
+reply 0 : 1745312084248953849
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_80', 'requestID': 80} : 1745312084249005394
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_81_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084249031643
+reply 0 : 1745312084249051728
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_81', 'requestID': 81} : 1745312084249102194
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_82_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3370>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084252414576
+reply 0 : 1745312084252457419
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_82', 'requestID': 82} : 1745312084252480577
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_83_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084262567394
+reply 0 : 1745312084262612959
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_83', 'requestID': 83} : 1745312084262638331
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_84_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3820>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084272739584
+reply 0 : 1745312084272786235
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_84', 'requestID': 84} : 1745312084272816000
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_85_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b36a0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084282973386
+reply 0 : 1745312084283017990
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_85', 'requestID': 85} : 1745312084283046806
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_86_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084295411346
+reply 0 : 1745312084295458887
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_86', 'requestID': 86} : 1745312084295485960
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_87_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3550>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084305577172
+reply 0 : 1745312084305633525
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_87', 'requestID': 87} : 1745312084305686236
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_88_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3dc0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084319502458
+reply 0 : 1745312084319556858
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_88', 'requestID': 88} : 1745312084319584661
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_89_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084329679463
+reply 0 : 1745312084329729937
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_90_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_89', 'requestID': 89} : 1745312084329850381
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084329867722
+reply 0 : 1745312084329894451
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_90', 'requestID': 90} : 1745312084329966076
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_91_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084329995764
+reply 0 : 1745312084330015948
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_91', 'requestID': 91} : 1745312084330068170
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_92_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330098051
+reply 0 : 1745312084330117601
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_92', 'requestID': 92} : 1745312084330169504
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_93_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330195564
+reply 0 : 1745312084330220139
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_93', 'requestID': 93} : 1745312084330268288
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_94_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330300237
+reply 0 : 1745312084330318536
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_94', 'requestID': 94} : 1745312084330369063
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_95_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330399561
+reply 0 : 1745312084330418151
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_96_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_95', 'requestID': 95} : 1745312084330640922
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330660648
+reply 0 : 1745312084330696415
+1
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_97_from_server
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_96', 'requestID': 96} : 1745312084330768365
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330782687
+reply 0 : 1745312084330805001
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_97', 'requestID': 97} : 1745312084330856540
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_98_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330884649
+reply 0 : 1745312084330910258
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_98', 'requestID': 98} : 1745312084330960742
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_99_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084330987534
+reply 0 : 1745312084331005749
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_99', 'requestID': 99} : 1745312084331054201
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_100_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084331080556
+reply 0 : 1745312084331097801
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_100', 'requestID': 100} : 1745312084331146972
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_101_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084331173376
+reply 0 : 1745312084331191459
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_101', 'requestID': 101} : 1745312084331237214
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_102_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084331262985
+reply 0 : 1745312084331280996
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_102', 'requestID': 102} : 1745312084331327076
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_103_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084331353838
+reply 0 : 1745312084331371209
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_103', 'requestID': 103} : 1745312084331420138
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_104_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084331443271
+reply 0 : 1745312084331461015
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_104', 'requestID': 104} : 1745312084331478687
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_105_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084351624915
+reply 0 : 1745312084351673958
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_105', 'requestID': 105} : 1745312084351702959
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_106_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084361785268
+reply 0 : 1745312084361818162
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_106', 'requestID': 106} : 1745312084361842935
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_107_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3640>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084372435297
+reply 0 : 1745312084372492568
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_107', 'requestID': 107} : 1745312084372524300
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_108_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084382624838
+reply 0 : 1745312084382673127
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_108', 'requestID': 108} : 1745312084382702587
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_109_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3850>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084392797592
+reply 0 : 1745312084392844507
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_109', 'requestID': 109} : 1745312084392873237
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_110_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b33d0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084402963825
+reply 0 : 1745312084403008163
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_110', 'requestID': 110} : 1745312084403107891
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_111_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084406404310
+reply 0 : 1745312084406452325
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_111', 'requestID': 111} : 1745312084406477483
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_112_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ee0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084416568558
+reply 0 : 1745312084416614810
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_112', 'requestID': 112} : 1745312084416639820
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_113_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084426729868
+reply 0 : 1745312084426777144
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_113', 'requestID': 113} : 1745312084426806993
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_114_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3970>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084436980534
+reply 0 : 1745312084437028234
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_114', 'requestID': 114} : 1745312084437146041
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_115_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084437176663
+reply 0 : 1745312084437212314
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_116_from_server
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_115', 'requestID': 115} : 1745312084439399164
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084439425308
+reply 0 : 1745312084439467302
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_116', 'requestID': 116} : 1745312084439490952
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_117_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b32e0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084449579145
+reply 0 : 1745312084449626794
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_117', 'requestID': 117} : 1745312084449732114
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_118_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084449830257
+reply 0 : 1745312084449869489
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_118', 'requestID': 118} : 1745312084450007149
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_119_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084450054602
+reply 0 : 1745312084450086378
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_119', 'requestID': 119} : 1745312084450113388
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_120_from_server
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b39a0>
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084460252196
+reply 0 : 1745312084460294558
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_120', 'requestID': 120} : 1745312084460327112
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_121_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084470533468
+reply 0 : 1745312084470574347
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_121', 'requestID': 121} : 1745312084470677716
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_122_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084470707153
+reply 0 : 1745312084470736458
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_122', 'requestID': 122} : 1745312084470798532
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_123_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084470824909
+reply 0 : 1745312084470847707
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_123', 'requestID': 123} : 1745312084470905738
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_124_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084470935205
+reply 0 : 1745312084470956556
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_124', 'requestID': 124} : 1745312084471023067
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_125_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084471048178
+reply 0 : 1745312084471068287
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_125', 'requestID': 125} : 1745312084471118273
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_126_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084471153564
+reply 0 : 1745312084471174103
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_126', 'requestID': 126} : 1745312084471228061
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_127_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084471256243
+reply 0 : 1745312084471275793
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_127', 'requestID': 127} : 1745312084471536721
+insertInferenceRequest queues inserted
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_128_from_server
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084471567398
+reply 0 : 1745312084471600826
+1
+opened named pipe /home/ywha/RT-LLM/named_pipes/pipe_129_from_server
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_128', 'requestID': 128} : 1745312084471675952
+insertInferenceRequest queues inserted
+1
+clientRequestHandler - data received {'mode': 0, 'msg': 'this is test', 'requestID': 0} : 1745312084471692338
+reply 0 : 1745312084471715134
+1
+clientRequestHandler - data received {'mode': 1, 'filename': 'test_129', 'requestID': 129} : 1745312084471737089
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3280>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a60>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3c70>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3790>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3df0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3b80>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b31c0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b37f0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b32b0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3190>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3220>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3310>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3340>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3160>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b30d0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b39d0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2fe0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3010>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3e50>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3100>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3910>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3e20>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3250>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3130>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3b50>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2fb0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3f10>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b30a0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3e80>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b37c0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3580>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b31f0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ef0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3070>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2f20>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2f80>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2e90>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ec0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3c10>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2f50>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b34f0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2e30>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2dd0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3cd0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b35b0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2e00>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2da0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3610>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3be0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3760>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3430>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3700>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3f70>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2d40>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2d70>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ce0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3d90>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2e60>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2c80>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2cb0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2c20>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2c50>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2bc0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2bf0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2b60>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2b90>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2a40>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b29b0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28c0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2a10>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ad0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b29e0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2950>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2aa0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2980>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2920>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2b30>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b36d0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b33a0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2800>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2b00>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b27a0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b27d0>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2740>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2830>
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2860>
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_0', 'input': 'Where is capital of Korea?', 'requestID': 0, 'priority': 0} : 1745312094481914398
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 0 - 1745312094482305262
+makeInferenceAndSendReply2 load history and kvCache: 0 - 0.401026
+makeInferenceAndSendReply3 prepare encoded_input: 0 - 0.513456
+start of inference : 1745312094483226786
+AnswerPremptionController wait
+end of inference : 1745312094757983289
+makeInferenceAndSendReply4 ask inference: 0 - 274.76707
+makeInferenceAndSendReply5 save kvCache: 0 - 0.185404
+putting reply to replyHandlerQueue 0 : 1745312094758450176
+makeInferenceAndSendReply6 ended inference post processing: 0 - 0.302425
+AnswerPremptionController notified
+reply 0 : 1745312094758541648
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_1', 'input': 'Where is capital of Korea?', 'requestID': 1, 'priority': 0} : 1745312094758775359
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2860>
+makeInferenceAndSendReply : 1 - 1745312094758872054
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 1 - 0.220258
+makeInferenceAndSendReply3 prepare encoded_input: 1 - 0.314357
+start of inference : 1745312094759412304
+end of inference : 1745312094913228248
+makeInferenceAndSendReply4 ask inference: 1 - 153.826194
+makeInferenceAndSendReply5 save kvCache: 1 - 0.204056
+putting reply to replyHandlerQueue 1 : 1745312094913638970
+makeInferenceAndSendReply6 ended inference post processing: 1 - 0.224638
+AnswerPremptionController notified
+reply 1 : 1745312094913723947
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_2', 'input': 'Where is capital of Korea?', 'requestID': 2, 'priority': 0} : 1745312094913969822
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 2 - 1745312094914085808
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 2 - 0.221867
+makeInferenceAndSendReply3 prepare encoded_input: 2 - 0.293624
+start of inference : 1745312094914605395
+end of inference : 1745312095068099035
+makeInferenceAndSendReply4 ask inference: 2 - 153.500754
+makeInferenceAndSendReply5 save kvCache: 2 - 0.185288
+putting reply to replyHandlerQueue 2 : 1745312095068508453
+makeInferenceAndSendReply6 ended inference post processing: 2 - 0.239522
+AnswerPremptionController notified
+reply 2 : 1745312095068605597
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_3', 'input': 'Where is capital of Korea?', 'requestID': 3, 'priority': 0} : 1745312095068828639
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2860>
+makeInferenceAndSendReply : 3 - 1745312095068920876
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 3 - 0.269426
+makeInferenceAndSendReply3 prepare encoded_input: 3 - 0.330641
+start of inference : 1745312095069524735
+end of inference : 1745312095223481014
+makeInferenceAndSendReply4 ask inference: 3 - 153.96309
+makeInferenceAndSendReply5 save kvCache: 3 - 0.182929
+putting reply to replyHandlerQueue 3 : 1745312095223856377
+makeInferenceAndSendReply6 ended inference post processing: 3 - 0.211518
+AnswerPremptionController notified
+reply 3 : 1745312095223946918
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_4', 'input': 'Where is capital of Korea?', 'requestID': 4, 'priority': 0} : 1745312095224101491
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 4 - 1745312095224180338
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 4 - 0.210717
+makeInferenceAndSendReply3 prepare encoded_input: 4 - 0.279219
+start of inference : 1745312095224674151
+end of inference : 1745312095378070192
+makeInferenceAndSendReply4 ask inference: 4 - 153.403441
+makeInferenceAndSendReply5 save kvCache: 4 - 0.18272
+putting reply to replyHandlerQueue 4 : 1745312095378466901
+makeInferenceAndSendReply6 ended inference post processing: 4 - 0.232307
+AnswerPremptionController notified
+reply 4 : 1745312095378556913
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_5', 'input': 'Where is capital of Korea?', 'requestID': 5, 'priority': 0} : 1745312095378777181
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2860>
+makeInferenceAndSendReply : 5 - 1745312095378903333
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 5 - 0.226374
+makeInferenceAndSendReply3 prepare encoded_input: 5 - 0.288232
+start of inference : 1745312095379421820
+end of inference : 1745312095532775616
+makeInferenceAndSendReply4 ask inference: 5 - 153.360887
+makeInferenceAndSendReply5 save kvCache: 5 - 0.180417
+putting reply to replyHandlerQueue 5 : 1745312095533143568
+makeInferenceAndSendReply6 ended inference post processing: 5 - 0.207995
+AnswerPremptionController notified
+reply 5 : 1745312095533232131
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_6', 'input': 'Where is capital of Korea?', 'requestID': 6, 'priority': 0} : 1745312095533392717
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 6 - 1745312095533469506
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 6 - 0.551595
+makeInferenceAndSendReply3 prepare encoded_input: 6 - 0.289618
+start of inference : 1745312095534314755
+end of inference : 1745312095687718712
+makeInferenceAndSendReply4 ask inference: 6 - 153.411649
+makeInferenceAndSendReply5 save kvCache: 6 - 0.202478
+putting reply to replyHandlerQueue 6 : 1745312095688123076
+makeInferenceAndSendReply6 ended inference post processing: 6 - 0.224711
+AnswerPremptionController notified
+reply 6 : 1745312095688217116
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_7', 'input': 'Where is capital of Korea?', 'requestID': 7, 'priority': 0} : 1745312095688373676
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2860>
+makeInferenceAndSendReply : 7 - 1745312095688474124
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 7 - 0.207185
+makeInferenceAndSendReply3 prepare encoded_input: 7 - 0.306808
+start of inference : 1745312095688992291
+end of inference : 1745312095842470338
+makeInferenceAndSendReply4 ask inference: 7 - 153.486302
+makeInferenceAndSendReply5 save kvCache: 7 - 0.195959
+putting reply to replyHandlerQueue 7 : 1745312095842873494
+makeInferenceAndSendReply6 ended inference post processing: 7 - 0.227109
+AnswerPremptionController notified
+reply 7 : 1745312095842962398
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_8', 'input': 'Where is capital of Korea?', 'requestID': 8, 'priority': 0} : 1745312095843116885
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 8 - 1745312095843226927
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 8 - 0.271808
+makeInferenceAndSendReply3 prepare encoded_input: 8 - 0.312463
+start of inference : 1745312095843815104
+end of inference : 1745312095997351474
+makeInferenceAndSendReply4 ask inference: 8 - 153.554779
+makeInferenceAndSendReply5 save kvCache: 8 - 0.194526
+putting reply to replyHandlerQueue 8 : 1745312095997759036
+makeInferenceAndSendReply6 ended inference post processing: 8 - 0.218504
+AnswerPremptionController notified
+reply 8 : 1745312095997889799
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_9', 'input': 'Where is capital of Korea?', 'requestID': 9, 'priority': 0} : 1745312095998042372
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ad0>
+makeInferenceAndSendReply : 9 - 1745312095998121528
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 9 - 0.219671
+makeInferenceAndSendReply3 prepare encoded_input: 9 - 0.306464
+start of inference : 1745312095998651667
+end of inference : 1745312096152199547
+makeInferenceAndSendReply4 ask inference: 9 - 153.554859
+makeInferenceAndSendReply5 save kvCache: 9 - 0.215748
+putting reply to replyHandlerQueue 9 : 1745312096152621372
+makeInferenceAndSendReply6 ended inference post processing: 9 - 0.225081
+AnswerPremptionController notified
+reply 9 : 1745312096152708459
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_10', 'input': 'Where is capital of Korea?', 'requestID': 10, 'priority': 0} : 1745312096152859973
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 10 - 1745312096152959887
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 10 - 0.207652
+makeInferenceAndSendReply3 prepare encoded_input: 10 - 0.287241
+start of inference : 1745312096153458744
+end of inference : 1745312096307107138
+makeInferenceAndSendReply4 ask inference: 10 - 153.655968
+makeInferenceAndSendReply5 save kvCache: 10 - 0.195606
+putting reply to replyHandlerQueue 10 : 1745312096307525609
+makeInferenceAndSendReply6 ended inference post processing: 10 - 0.241019
+AnswerPremptionController notified
+reply 10 : 1745312096307610762
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_11', 'input': 'Where is capital of Korea?', 'requestID': 11, 'priority': 0} : 1745312096307780062
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ad0>
+makeInferenceAndSendReply : 11 - 1745312096307872582
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 11 - 0.214916
+makeInferenceAndSendReply3 prepare encoded_input: 11 - 0.287618
+start of inference : 1745312096308379072
+end of inference : 1745312096462023680
+makeInferenceAndSendReply4 ask inference: 11 - 153.652297
+makeInferenceAndSendReply5 save kvCache: 11 - 0.19367
+putting reply to replyHandlerQueue 11 : 1745312096462444726
+makeInferenceAndSendReply6 ended inference post processing: 11 - 0.24441
+AnswerPremptionController notified
+reply 11 : 1745312096462549536
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_12', 'input': 'Where is capital of Korea?', 'requestID': 12, 'priority': 0} : 1745312096462762409
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 12 - 1745312096462850360
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 12 - 0.230676
+makeInferenceAndSendReply3 prepare encoded_input: 12 - 0.292143
+start of inference : 1745312096463377196
+end of inference : 1745312096616843617
+makeInferenceAndSendReply4 ask inference: 12 - 153.473798
+makeInferenceAndSendReply5 save kvCache: 12 - 0.190389
+putting reply to replyHandlerQueue 12 : 1745312096617236840
+makeInferenceAndSendReply6 ended inference post processing: 12 - 0.223196
+AnswerPremptionController notified
+reply 12 : 1745312096617329783
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_13', 'input': 'Where is capital of Korea?', 'requestID': 13, 'priority': 0} : 1745312096617475763
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b2ad0>
+makeInferenceAndSendReply : 13 - 1745312096617559269
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 13 - 0.204458
+makeInferenceAndSendReply3 prepare encoded_input: 13 - 0.284251
+start of inference : 1745312096618052591
+end of inference : 1745312096771290355
+makeInferenceAndSendReply4 ask inference: 13 - 153.245589
+makeInferenceAndSendReply5 save kvCache: 13 - 0.196316
+putting reply to replyHandlerQueue 13 : 1745312096771686798
+makeInferenceAndSendReply6 ended inference post processing: 13 - 0.220406
+AnswerPremptionController notified
+reply 13 : 1745312096771776766
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_14', 'input': 'Where is capital of Korea?', 'requestID': 14, 'priority': 0} : 1745312096771934033
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 14 - 1745312096772015390
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 14 - 0.232966
+makeInferenceAndSendReply3 prepare encoded_input: 14 - 0.31936
+start of inference : 1745312096772571680
+end of inference : 1745312096925779492
+makeInferenceAndSendReply4 ask inference: 14 - 153.214823
+makeInferenceAndSendReply5 save kvCache: 14 - 0.198419
+putting reply to replyHandlerQueue 14 : 1745312096926178036
+makeInferenceAndSendReply6 ended inference post processing: 14 - 0.222272
+AnswerPremptionController notified
+reply 14 : 1745312096926325597
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_15', 'input': 'Where is capital of Korea?', 'requestID': 15, 'priority': 0} : 1745312096926526749
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 15 - 1745312096926623248
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 15 - 0.310148
+makeInferenceAndSendReply3 prepare encoded_input: 15 - 0.307386
+start of inference : 1745312096927246335
+end of inference : 1745312097081146631
+makeInferenceAndSendReply4 ask inference: 15 - 153.909754
+makeInferenceAndSendReply5 save kvCache: 15 - 0.237976
+putting reply to replyHandlerQueue 15 : 1745312097081588444
+makeInferenceAndSendReply6 ended inference post processing: 15 - 0.222856
+AnswerPremptionController notified
+reply 15 : 1745312097081678593
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_16', 'input': 'Where is capital of Korea?', 'requestID': 16, 'priority': 0} : 1745312097081842404
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 16 - 1745312097081962891
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 16 - 0.211661
+makeInferenceAndSendReply3 prepare encoded_input: 16 - 0.281852
+start of inference : 1745312097082460882
+end of inference : 1745312097236105819
+makeInferenceAndSendReply4 ask inference: 16 - 153.652967
+makeInferenceAndSendReply5 save kvCache: 16 - 0.184736
+putting reply to replyHandlerQueue 16 : 1745312097236508244
+makeInferenceAndSendReply6 ended inference post processing: 16 - 0.23466
+AnswerPremptionController notified
+reply 16 : 1745312097236593460
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_17', 'input': 'Where is capital of Korea?', 'requestID': 17, 'priority': 0} : 1745312097236746797
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 17 - 1745312097236927486
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 17 - 0.237133
+makeInferenceAndSendReply3 prepare encoded_input: 17 - 0.276315
+start of inference : 1745312097237444674
+end of inference : 1745312097391076187
+makeInferenceAndSendReply4 ask inference: 17 - 153.638398
+makeInferenceAndSendReply5 save kvCache: 17 - 0.195157
+putting reply to replyHandlerQueue 17 : 1745312097391495452
+makeInferenceAndSendReply6 ended inference post processing: 17 - 0.241635
+AnswerPremptionController notified
+reply 17 : 1745312097391583062
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_18', 'input': 'Where is capital of Korea?', 'requestID': 18, 'priority': 0} : 1745312097391728268
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 18 - 1745312097391826831
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 18 - 0.232952
+makeInferenceAndSendReply3 prepare encoded_input: 18 - 0.286536
+start of inference : 1745312097392350539
+end of inference : 1745312097545920813
+makeInferenceAndSendReply4 ask inference: 18 - 153.578263
+makeInferenceAndSendReply5 save kvCache: 18 - 0.206427
+putting reply to replyHandlerQueue 18 : 1745312097546356733
+makeInferenceAndSendReply6 ended inference post processing: 18 - 0.251149
+AnswerPremptionController notified
+reply 18 : 1745312097546480019
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_19', 'input': 'Where is capital of Korea?', 'requestID': 19, 'priority': 0} : 1745312097546671694
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 19 - 1745312097546760663
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 19 - 0.217809
+makeInferenceAndSendReply3 prepare encoded_input: 19 - 0.272221
+start of inference : 1745312097547254532
+end of inference : 1745312097700641807
+makeInferenceAndSendReply4 ask inference: 19 - 153.39498
+makeInferenceAndSendReply5 save kvCache: 19 - 0.192733
+putting reply to replyHandlerQueue 19 : 1745312097701037278
+makeInferenceAndSendReply6 ended inference post processing: 19 - 0.224778
+AnswerPremptionController notified
+reply 19 : 1745312097701130277
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_20', 'input': 'Where is capital of Korea?', 'requestID': 20, 'priority': 0} : 1745312097701295684
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3a00>
+makeInferenceAndSendReply : 20 - 1745312097701385679
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 20 - 0.21875
+makeInferenceAndSendReply3 prepare encoded_input: 20 - 0.294171
+start of inference : 1745312097701902796
+end of inference : 1745312097855448632
+makeInferenceAndSendReply4 ask inference: 20 - 153.553283
+makeInferenceAndSendReply5 save kvCache: 20 - 0.190166
+putting reply to replyHandlerQueue 20 : 1745312097855834394
+makeInferenceAndSendReply6 ended inference post processing: 20 - 0.215492
+AnswerPremptionController notified
+reply 20 : 1745312097855931673
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_21', 'input': 'Where is capital of Korea?', 'requestID': 21, 'priority': 0} : 1745312097856066349
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 21 - 1745312097856170804
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 21 - 0.2077
+makeInferenceAndSendReply3 prepare encoded_input: 21 - 0.297129
+start of inference : 1745312097856679241
+end of inference : 1745312098010311940
+makeInferenceAndSendReply4 ask inference: 21 - 153.64153
+makeInferenceAndSendReply5 save kvCache: 21 - 0.191441
+putting reply to replyHandlerQueue 21 : 1745312098010711497
+makeInferenceAndSendReply6 ended inference post processing: 21 - 0.225889
+AnswerPremptionController notified
+reply 21 : 1745312098010858222
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_22', 'input': 'Where is capital of Korea?', 'requestID': 22, 'priority': 0} : 1745312098011021122
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 22 - 1745312098011104498
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 22 - 0.235525
+makeInferenceAndSendReply3 prepare encoded_input: 22 - 0.312787
+start of inference : 1745312098011657135
+end of inference : 1745312098165331782
+makeInferenceAndSendReply4 ask inference: 22 - 153.682476
+makeInferenceAndSendReply5 save kvCache: 22 - 0.245457
+putting reply to replyHandlerQueue 22 : 1745312098165776729
+makeInferenceAndSendReply6 ended inference post processing: 22 - 0.219023
+AnswerPremptionController notified
+reply 22 : 1745312098165867913
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_23', 'input': 'Where is capital of Korea?', 'requestID': 23, 'priority': 0} : 1745312098166054454
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 23 - 1745312098166152372
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 23 - 0.21499
+makeInferenceAndSendReply3 prepare encoded_input: 23 - 0.29607
+start of inference : 1745312098166667189
+end of inference : 1745312098320325197
+makeInferenceAndSendReply4 ask inference: 23 - 153.665277
+makeInferenceAndSendReply5 save kvCache: 23 - 0.219182
+putting reply to replyHandlerQueue 23 : 1745312098320746128
+makeInferenceAndSendReply6 ended inference post processing: 23 - 0.2195
+AnswerPremptionController notified
+reply 23 : 1745312098320832446
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_24', 'input': 'Where is capital of Korea?', 'requestID': 24, 'priority': 0} : 1745312098324025675
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 24 - 1745312098324120769
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 24 - 0.317335
+makeInferenceAndSendReply3 prepare encoded_input: 24 - 0.316066
+start of inference : 1745312098324758373
+end of inference : 1745312098478456303
+makeInferenceAndSendReply4 ask inference: 24 - 153.70537
+makeInferenceAndSendReply5 save kvCache: 24 - 0.194143
+putting reply to replyHandlerQueue 24 : 1745312098478855050
+makeInferenceAndSendReply6 ended inference post processing: 24 - 0.22453
+AnswerPremptionController notified
+reply 24 : 1745312098478945032
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_25', 'input': 'Where is capital of Korea?', 'requestID': 25, 'priority': 0} : 1745312098479108058
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 25 - 1745312098479213955
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 25 - 0.226701
+makeInferenceAndSendReply3 prepare encoded_input: 25 - 0.289753
+start of inference : 1745312098479735529
+end of inference : 1745312098633520006
+makeInferenceAndSendReply4 ask inference: 25 - 153.793195
+makeInferenceAndSendReply5 save kvCache: 25 - 0.192581
+putting reply to replyHandlerQueue 25 : 1745312098633920899
+makeInferenceAndSendReply6 ended inference post processing: 25 - 0.228855
+AnswerPremptionController notified
+reply 25 : 1745312098634011016
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_26', 'input': 'Where is capital of Korea?', 'requestID': 26, 'priority': 0} : 1745312098634124811
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 26 - 1745312098634323679
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 26 - 0.227884
+makeInferenceAndSendReply3 prepare encoded_input: 26 - 0.310957
+start of inference : 1745312098634866927
+end of inference : 1745312098788348528
+makeInferenceAndSendReply4 ask inference: 26 - 153.489711
+makeInferenceAndSendReply5 save kvCache: 26 - 0.213591
+putting reply to replyHandlerQueue 26 : 1745312098788764846
+makeInferenceAndSendReply6 ended inference post processing: 26 - 0.221494
+AnswerPremptionController notified
+reply 26 : 1745312098788856033
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_27', 'input': 'Where is capital of Korea?', 'requestID': 27, 'priority': 0} : 1745312098789003573
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 27 - 1745312098789098778
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 27 - 0.233356
+makeInferenceAndSendReply3 prepare encoded_input: 27 - 0.299475
+start of inference : 1745312098789635772
+end of inference : 1745312098943366841
+makeInferenceAndSendReply4 ask inference: 27 - 153.739565
+makeInferenceAndSendReply5 save kvCache: 27 - 0.21065
+putting reply to replyHandlerQueue 27 : 1745312098943781977
+makeInferenceAndSendReply6 ended inference post processing: 27 - 0.225771
+AnswerPremptionController notified
+reply 27 : 1745312098943969436
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_28', 'input': 'Where is capital of Korea?', 'requestID': 28, 'priority': 0} : 1745312098944132969
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b34f0>
+makeInferenceAndSendReply : 28 - 1745312098944235853
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 28 - 0.226401
+makeInferenceAndSendReply3 prepare encoded_input: 28 - 0.27845
+start of inference : 1745312098944744925
+end of inference : 1745312099098334481
+makeInferenceAndSendReply4 ask inference: 28 - 153.597216
+makeInferenceAndSendReply5 save kvCache: 28 - 0.216271
+putting reply to replyHandlerQueue 28 : 1745312099098738856
+makeInferenceAndSendReply6 ended inference post processing: 28 - 0.205242
+AnswerPremptionController notified
+reply 28 : 1745312099098823592
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_29', 'input': 'Where is capital of Korea?', 'requestID': 29, 'priority': 0} : 1745312099100577311
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 29 - 1745312099100667688
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 29 - 0.209025
+makeInferenceAndSendReply3 prepare encoded_input: 29 - 0.273184
+start of inference : 1745312099101153582
+end of inference : 1745312099254717455
+makeInferenceAndSendReply4 ask inference: 29 - 153.57105
+makeInferenceAndSendReply5 save kvCache: 29 - 0.18764
+putting reply to replyHandlerQueue 29 : 1745312099255096156
+makeInferenceAndSendReply6 ended inference post processing: 29 - 0.212351
+AnswerPremptionController notified
+reply 29 : 1745312099255205839
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_30', 'input': 'Where is capital of Korea?', 'requestID': 30, 'priority': 0} : 1745312099255357540
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b34f0>
+makeInferenceAndSendReply : 30 - 1745312099255446520
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 30 - 0.225392
+makeInferenceAndSendReply3 prepare encoded_input: 30 - 0.271474
+start of inference : 1745312099255947177
+end of inference : 1745312099409550216
+makeInferenceAndSendReply4 ask inference: 30 - 153.613101
+makeInferenceAndSendReply5 save kvCache: 30 - 0.204521
+putting reply to replyHandlerQueue 30 : 1745312099409954743
+makeInferenceAndSendReply6 ended inference post processing: 30 - 0.221834
+AnswerPremptionController notified
+reply 30 : 1745312099410066261
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_31', 'input': 'Where is capital of Korea?', 'requestID': 31, 'priority': 0} : 1745312099410238729
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 31 - 1745312099410325477
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 31 - 0.226063
+makeInferenceAndSendReply3 prepare encoded_input: 31 - 0.28189
+start of inference : 1745312099410837572
+end of inference : 1745312099564052826
+makeInferenceAndSendReply4 ask inference: 31 - 153.223412
+makeInferenceAndSendReply5 save kvCache: 31 - 0.195581
+putting reply to replyHandlerQueue 31 : 1745312099564501132
+makeInferenceAndSendReply6 ended inference post processing: 31 - 0.269967
+AnswerPremptionController notified
+reply 31 : 1745312099564655370
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_32', 'input': 'Where is capital of Korea?', 'requestID': 32, 'priority': 0} : 1745312099564758921
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 32 - 1745312099564852997
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 32 - 0.228935
+makeInferenceAndSendReply3 prepare encoded_input: 32 - 0.293175
+start of inference : 1745312099565378544
+end of inference : 1745312099718616253
+makeInferenceAndSendReply4 ask inference: 32 - 153.243661
+makeInferenceAndSendReply5 save kvCache: 32 - 0.187359
+putting reply to replyHandlerQueue 32 : 1745312099718995052
+makeInferenceAndSendReply6 ended inference post processing: 32 - 0.210643
+AnswerPremptionController notified
+reply 32 : 1745312099719128842
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_33', 'input': 'Where is capital of Korea?', 'requestID': 33, 'priority': 0} : 1745312099719279327
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 33 - 1745312099719356993
+makeInferenceAndSendReply2 load history and kvCache: 33 - 0.273072
+makeInferenceAndSendReply3 prepare encoded_input: 33 - 0.296386
+start of inference : 1745312099719930470
+AnswerPremptionController wait
+end of inference : 1745312099873570413
+makeInferenceAndSendReply4 ask inference: 33 - 153.647519
+makeInferenceAndSendReply5 save kvCache: 33 - 0.193979
+putting reply to replyHandlerQueue 33 : 1745312099873961413
+makeInferenceAndSendReply6 ended inference post processing: 33 - 0.214442
+AnswerPremptionController notified
+reply 33 : 1745312099874113223
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_34', 'input': 'Where is capital of Korea?', 'requestID': 34, 'priority': 0} : 1745312099874268320
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 34 - 1745312099874367543
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 34 - 0.255595
+makeInferenceAndSendReply3 prepare encoded_input: 34 - 0.261881
+start of inference : 1745312099874888955
+end of inference : 1745312100028274597
+makeInferenceAndSendReply4 ask inference: 34 - 153.393009
+makeInferenceAndSendReply5 save kvCache: 34 - 0.219699
+putting reply to replyHandlerQueue 34 : 1745312100028697752
+makeInferenceAndSendReply6 ended inference post processing: 34 - 0.222864
+AnswerPremptionController notified
+reply 34 : 1745312100028788374
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_35', 'input': 'Where is capital of Korea?', 'requestID': 35, 'priority': 0} : 1745312100028940574
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3730>
+makeInferenceAndSendReply : 35 - 1745312100029148746
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 35 - 0.234867
+makeInferenceAndSendReply3 prepare encoded_input: 35 - 0.32408
+start of inference : 1745312100029712209
+end of inference : 1745312100183150414
+makeInferenceAndSendReply4 ask inference: 35 - 153.44635
+makeInferenceAndSendReply5 save kvCache: 35 - 0.197679
+putting reply to replyHandlerQueue 35 : 1745312100183574871
+makeInferenceAndSendReply6 ended inference post processing: 35 - 0.245427
+AnswerPremptionController notified
+reply 35 : 1745312100183662978
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_36', 'input': 'Where is capital of Korea?', 'requestID': 36, 'priority': 0} : 1745312100183804862
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 36 - 1745312100183912090
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 36 - 0.235598
+makeInferenceAndSendReply3 prepare encoded_input: 36 - 0.307122
+start of inference : 1745312100184458699
+end of inference : 1745312100337945483
+makeInferenceAndSendReply4 ask inference: 36 - 153.493828
+makeInferenceAndSendReply5 save kvCache: 36 - 0.211394
+putting reply to replyHandlerQueue 36 : 1745312100338383936
+makeInferenceAndSendReply6 ended inference post processing: 36 - 0.24377
+AnswerPremptionController notified
+reply 36 : 1745312100338531522
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_37', 'input': 'Where is capital of Korea?', 'requestID': 37, 'priority': 0} : 1745312100338680710
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 37 - 1745312100338773782
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 37 - 0.23741
+makeInferenceAndSendReply3 prepare encoded_input: 37 - 0.292454
+start of inference : 1745312100339308216
+end of inference : 1745312100492887064
+makeInferenceAndSendReply4 ask inference: 37 - 153.586574
+makeInferenceAndSendReply5 save kvCache: 37 - 0.190217
+putting reply to replyHandlerQueue 37 : 1745312100493281137
+makeInferenceAndSendReply6 ended inference post processing: 37 - 0.224163
+AnswerPremptionController notified
+reply 37 : 1745312100493368308
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_38', 'input': 'Where is capital of Korea?', 'requestID': 38, 'priority': 0} : 1745312100493521505
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 38 - 1745312100493618181
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 38 - 0.240538
+makeInferenceAndSendReply3 prepare encoded_input: 38 - 0.294074
+start of inference : 1745312100494156740
+end of inference : 1745312100647761524
+makeInferenceAndSendReply4 ask inference: 38 - 153.612098
+makeInferenceAndSendReply5 save kvCache: 38 - 0.19674
+putting reply to replyHandlerQueue 38 : 1745312100648157524
+makeInferenceAndSendReply6 ended inference post processing: 38 - 0.221259
+AnswerPremptionController notified
+reply 38 : 1745312100648266773
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_39', 'input': 'Where is capital of Korea?', 'requestID': 39, 'priority': 0} : 1745312100648425391
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 39 - 1745312100648513978
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 39 - 0.222615
+makeInferenceAndSendReply3 prepare encoded_input: 39 - 0.287152
+start of inference : 1745312100649027800
+end of inference : 1745312100802675690
+makeInferenceAndSendReply4 ask inference: 39 - 153.656575
+makeInferenceAndSendReply5 save kvCache: 39 - 0.194756
+putting reply to replyHandlerQueue 39 : 1745312100803071339
+makeInferenceAndSendReply6 ended inference post processing: 39 - 0.220391
+AnswerPremptionController notified
+reply 39 : 1745312100803172383
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_40', 'input': 'Where is capital of Korea?', 'requestID': 40, 'priority': 0} : 1745312100803327835
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 40 - 1745312100803447811
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 40 - 0.232716
+makeInferenceAndSendReply3 prepare encoded_input: 40 - 0.288106
+start of inference : 1745312100803973191
+end of inference : 1745312100957720228
+makeInferenceAndSendReply4 ask inference: 40 - 153.754835
+makeInferenceAndSendReply5 save kvCache: 40 - 0.184581
+putting reply to replyHandlerQueue 40 : 1745312100958092604
+makeInferenceAndSendReply6 ended inference post processing: 40 - 0.208433
+AnswerPremptionController notified
+reply 40 : 1745312100958180648
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_41', 'input': 'Where is capital of Korea?', 'requestID': 41, 'priority': 0} : 1745312100958372447
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 41 - 1745312100958471405
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 41 - 0.22783
+makeInferenceAndSendReply3 prepare encoded_input: 41 - 0.283704
+start of inference : 1745312100958999782
+end of inference : 1745312101112692728
+makeInferenceAndSendReply4 ask inference: 41 - 153.713454
+makeInferenceAndSendReply5 save kvCache: 41 - 0.19304
+putting reply to replyHandlerQueue 41 : 1745312101113078178
+makeInferenceAndSendReply6 ended inference post processing: 41 - 0.211919
+AnswerPremptionController notified
+reply 41 : 1745312101113169750
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_42', 'input': 'Where is capital of Korea?', 'requestID': 42, 'priority': 0} : 1745312101113326958
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b28f0>
+makeInferenceAndSendReply : 42 - 1745312101113414260
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 42 - 0.301816
+makeInferenceAndSendReply3 prepare encoded_input: 42 - 0.304107
+start of inference : 1745312101114024193
+end of inference : 1745312101267566267
+makeInferenceAndSendReply4 ask inference: 42 - 153.549373
+makeInferenceAndSendReply5 save kvCache: 42 - 0.196078
+putting reply to replyHandlerQueue 42 : 1745312101267951716
+makeInferenceAndSendReply6 ended inference post processing: 42 - 0.210196
+AnswerPremptionController notified
+reply 42 : 1745312101268042914
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_43', 'input': 'Where is capital of Korea?', 'requestID': 43, 'priority': 0} : 1745312101268227860
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 43 - 1745312101268322010
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 43 - 0.220001
+makeInferenceAndSendReply3 prepare encoded_input: 43 - 0.277092
+start of inference : 1745312101268823267
+end of inference : 1745312101422137886
+makeInferenceAndSendReply4 ask inference: 43 - 153.322889
+makeInferenceAndSendReply5 save kvCache: 43 - 0.241472
+putting reply to replyHandlerQueue 43 : 1745312101422615423
+makeInferenceAndSendReply6 ended inference post processing: 43 - 0.259344
+AnswerPremptionController notified
+reply 43 : 1745312101422788195
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_44', 'input': 'Where is capital of Korea?', 'requestID': 44, 'priority': 0} : 1745312101422958512
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 44 - 1745312101423164577
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 44 - 0.25332
+makeInferenceAndSendReply3 prepare encoded_input: 44 - 0.31534
+start of inference : 1745312101423737912
+end of inference : 1745312101577406932
+makeInferenceAndSendReply4 ask inference: 44 - 153.676447
+makeInferenceAndSendReply5 save kvCache: 44 - 0.187871
+putting reply to replyHandlerQueue 44 : 1745312101577795143
+makeInferenceAndSendReply6 ended inference post processing: 44 - 0.220731
+AnswerPremptionController notified
+reply 44 : 1745312101577877476
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_45', 'input': 'Where is capital of Korea?', 'requestID': 45, 'priority': 0} : 1745312101580556204
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 45 - 1745312101580663564
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 45 - 0.252971
+makeInferenceAndSendReply3 prepare encoded_input: 45 - 0.304179
+start of inference : 1745312101581225648
+end of inference : 1745312101734790392
+makeInferenceAndSendReply4 ask inference: 45 - 153.573313
+makeInferenceAndSendReply5 save kvCache: 45 - 0.220113
+putting reply to replyHandlerQueue 45 : 1745312101735209548
+makeInferenceAndSendReply6 ended inference post processing: 45 - 0.2171
+AnswerPremptionController notified
+reply 45 : 1745312101735292129
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_46', 'input': 'Where is capital of Korea?', 'requestID': 46, 'priority': 0} : 1745312101735462632
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 46 - 1745312101735547282
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 46 - 0.254256
+makeInferenceAndSendReply3 prepare encoded_input: 46 - 0.278911
+start of inference : 1745312101736084575
+end of inference : 1745312101889608778
+makeInferenceAndSendReply4 ask inference: 46 - 153.531731
+makeInferenceAndSendReply5 save kvCache: 46 - 0.192027
+putting reply to replyHandlerQueue 46 : 1745312101890008044
+makeInferenceAndSendReply6 ended inference post processing: 46 - 0.229052
+AnswerPremptionController notified
+reply 46 : 1745312101890098136
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_47', 'input': 'Where is capital of Korea?', 'requestID': 47, 'priority': 0} : 1745312101890252125
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 47 - 1745312101890335965
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 47 - 0.241579
+makeInferenceAndSendReply3 prepare encoded_input: 47 - 0.29565
+start of inference : 1745312101890877527
+end of inference : 1745312102044392223
+makeInferenceAndSendReply4 ask inference: 47 - 153.522582
+makeInferenceAndSendReply5 save kvCache: 47 - 0.195952
+putting reply to replyHandlerQueue 47 : 1745312102044792372
+makeInferenceAndSendReply6 ended inference post processing: 47 - 0.224613
+AnswerPremptionController notified
+reply 47 : 1745312102044897644
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_48', 'input': 'Where is capital of Korea?', 'requestID': 48, 'priority': 0} : 1745312102045057389
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 48 - 1745312102045143733
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 48 - 0.208829
+makeInferenceAndSendReply3 prepare encoded_input: 48 - 0.294253
+start of inference : 1745312102045651096
+end of inference : 1745312102199076771
+makeInferenceAndSendReply4 ask inference: 48 - 153.434838
+makeInferenceAndSendReply5 save kvCache: 48 - 0.19499
+putting reply to replyHandlerQueue 48 : 1745312102199509390
+makeInferenceAndSendReply6 ended inference post processing: 48 - 0.253411
+AnswerPremptionController notified
+reply 48 : 1745312102199605643
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_49', 'input': 'Where is capital of Korea?', 'requestID': 49, 'priority': 0} : 1745312102199769528
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 49 - 1745312102199857407
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 49 - 0.242941
+makeInferenceAndSendReply3 prepare encoded_input: 49 - 0.294288
+start of inference : 1745312102200398986
+end of inference : 1745312102354026247
+makeInferenceAndSendReply4 ask inference: 49 - 153.634938
+makeInferenceAndSendReply5 save kvCache: 49 - 0.197953
+putting reply to replyHandlerQueue 49 : 1745312102354487291
+makeInferenceAndSendReply6 ended inference post processing: 49 - 0.282023
+AnswerPremptionController notified
+reply 49 : 1745312102354578158
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_50', 'input': 'Where is capital of Korea?', 'requestID': 50, 'priority': 0} : 1745312102354742837
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 50 - 1745312102354836127
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 50 - 0.230354
+makeInferenceAndSendReply3 prepare encoded_input: 50 - 0.286385
+start of inference : 1745312102355356245
+end of inference : 1745312102508941142
+makeInferenceAndSendReply4 ask inference: 50 - 153.591454
+makeInferenceAndSendReply5 save kvCache: 50 - 0.194372
+putting reply to replyHandlerQueue 50 : 1745312102509340046
+makeInferenceAndSendReply6 ended inference post processing: 50 - 0.234071
+reply 50 : 1745312102509443060
+AnswerPremptionController notified
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_51', 'input': 'Where is capital of Korea?', 'requestID': 51, 'priority': 0} : 1745312102509588889
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 51 - 1745312102509683496
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 51 - 0.300852
+makeInferenceAndSendReply3 prepare encoded_input: 51 - 0.329559
+start of inference : 1745312102510318078
+end of inference : 1745312102663971827
+makeInferenceAndSendReply4 ask inference: 51 - 153.661618
+makeInferenceAndSendReply5 save kvCache: 51 - 0.218852
+putting reply to replyHandlerQueue 51 : 1745312102664425012
+makeInferenceAndSendReply6 ended inference post processing: 51 - 0.258423
+reply 51 : 1745312102664517283
+AnswerPremptionController notified
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_52', 'input': 'Where is capital of Korea?', 'requestID': 52, 'priority': 0} : 1745312102664697618
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 52 - 1745312102664835786
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 52 - 0.217591
+makeInferenceAndSendReply3 prepare encoded_input: 52 - 0.286704
+start of inference : 1745312102665344498
+end of inference : 1745312102818917871
+makeInferenceAndSendReply4 ask inference: 52 - 153.581001
+makeInferenceAndSendReply5 save kvCache: 52 - 0.184974
+putting reply to replyHandlerQueue 52 : 1745312102819290727
+makeInferenceAndSendReply6 ended inference post processing: 52 - 0.209721
+reply 52 : 1745312102819383253
+AnswerPremptionController notified
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_53', 'input': 'Where is capital of Korea?', 'requestID': 53, 'priority': 0} : 1745312102819519876
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 53 - 1745312102819695912
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 53 - 0.236589
+makeInferenceAndSendReply3 prepare encoded_input: 53 - 0.273243
+start of inference : 1745312102820210203
+end of inference : 1745312102973899947
+makeInferenceAndSendReply4 ask inference: 53 - 153.697193
+makeInferenceAndSendReply5 save kvCache: 53 - 0.194483
+putting reply to replyHandlerQueue 53 : 1745312102974285987
+makeInferenceAndSendReply6 ended inference post processing: 53 - 0.215239
+AnswerPremptionController notified
+reply 53 : 1745312102974403808
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_54', 'input': 'Where is capital of Korea?', 'requestID': 54, 'priority': 0} : 1745312102974565960
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 54 - 1745312102974663150
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 54 - 0.24509
+makeInferenceAndSendReply3 prepare encoded_input: 54 - 0.277076
+start of inference : 1745312102975189043
+end of inference : 1745312103128785866
+makeInferenceAndSendReply4 ask inference: 54 - 153.604138
+makeInferenceAndSendReply5 save kvCache: 54 - 0.210428
+putting reply to replyHandlerQueue 54 : 1745312103129192637
+makeInferenceAndSendReply6 ended inference post processing: 54 - 0.220139
+AnswerPremptionController notified
+reply 54 : 1745312103129290588
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_55', 'input': 'Where is capital of Korea?', 'requestID': 55, 'priority': 0} : 1745312103129456985
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 55 - 1745312103129557302
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 55 - 0.224921
+makeInferenceAndSendReply3 prepare encoded_input: 55 - 0.281674
+start of inference : 1745312103130068939
+end of inference : 1745312103283340363
+makeInferenceAndSendReply4 ask inference: 55 - 153.27984
+makeInferenceAndSendReply5 save kvCache: 55 - 0.20363
+putting reply to replyHandlerQueue 55 : 1745312103283751913
+makeInferenceAndSendReply6 ended inference post processing: 55 - 0.230921
+AnswerPremptionController notified
+reply 55 : 1745312103283844853
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_56', 'input': 'Where is capital of Korea?', 'requestID': 56, 'priority': 0} : 1745312103284038412
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3040>
+makeInferenceAndSendReply : 56 - 1745312103284125349
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 56 - 0.226594
+makeInferenceAndSendReply3 prepare encoded_input: 56 - 0.306851
+start of inference : 1745312103284662627
+end of inference : 1745312103437989893
+makeInferenceAndSendReply4 ask inference: 56 - 153.334191
+makeInferenceAndSendReply5 save kvCache: 56 - 0.188133
+putting reply to replyHandlerQueue 56 : 1745312103438398779
+makeInferenceAndSendReply6 ended inference post processing: 56 - 0.237785
+AnswerPremptionController notified
+reply 56 : 1745312103438494415
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_57', 'input': 'Where is capital of Korea?', 'requestID': 57, 'priority': 0} : 1745312103438653597
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 57 - 1745312103438729132
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 57 - 0.216358
+makeInferenceAndSendReply3 prepare encoded_input: 57 - 0.276382
+start of inference : 1745312103439226167
+end of inference : 1745312103593077464
+makeInferenceAndSendReply4 ask inference: 57 - 153.860021
+makeInferenceAndSendReply5 save kvCache: 57 - 0.197641
+putting reply to replyHandlerQueue 57 : 1745312103593502912
+makeInferenceAndSendReply6 ended inference post processing: 57 - 0.245776
+AnswerPremptionController notified
+reply 57 : 1745312103593657967
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_58', 'input': 'Where is capital of Korea?', 'requestID': 58, 'priority': 0} : 1745312103593803506
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 58 - 1745312103593882720
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 58 - 0.21403
+makeInferenceAndSendReply3 prepare encoded_input: 58 - 0.278478
+start of inference : 1745312103594384248
+end of inference : 1745312103747658399
+makeInferenceAndSendReply4 ask inference: 58 - 153.286418
+makeInferenceAndSendReply5 save kvCache: 58 - 0.192321
+putting reply to replyHandlerQueue 58 : 1745312103748053960
+makeInferenceAndSendReply6 ended inference post processing: 58 - 0.223279
+AnswerPremptionController notified
+reply 58 : 1745312103748139362
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_59', 'input': 'Where is capital of Korea?', 'requestID': 59, 'priority': 0} : 1745312103748310217
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 59 - 1745312103748402350
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 59 - 0.225411
+makeInferenceAndSendReply3 prepare encoded_input: 59 - 0.289628
+start of inference : 1745312103748921007
+end of inference : 1745312103902394893
+makeInferenceAndSendReply4 ask inference: 59 - 153.480583
+makeInferenceAndSendReply5 save kvCache: 59 - 0.197262
+putting reply to replyHandlerQueue 59 : 1745312103902791798
+makeInferenceAndSendReply6 ended inference post processing: 59 - 0.221376
+AnswerPremptionController notified
+reply 59 : 1745312103902881494
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_60', 'input': 'Where is capital of Korea?', 'requestID': 60, 'priority': 0} : 1745312103903040416
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 60 - 1745312103903123369
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 60 - 0.298011
+makeInferenceAndSendReply3 prepare encoded_input: 60 - 0.306508
+start of inference : 1745312103903731958
+end of inference : 1745312104057230562
+makeInferenceAndSendReply4 ask inference: 60 - 153.506517
+makeInferenceAndSendReply5 save kvCache: 60 - 0.221225
+putting reply to replyHandlerQueue 60 : 1745312104057655534
+makeInferenceAndSendReply6 ended inference post processing: 60 - 0.22176
+AnswerPremptionController notified
+reply 60 : 1745312104057742859
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_61', 'input': 'Where is capital of Korea?', 'requestID': 61, 'priority': 0} : 1745312104057902844
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 61 - 1745312104058007631
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 61 - 0.228319
+makeInferenceAndSendReply3 prepare encoded_input: 61 - 0.298761
+start of inference : 1745312104058538777
+end of inference : 1745312104212240174
+makeInferenceAndSendReply4 ask inference: 61 - 153.708631
+makeInferenceAndSendReply5 save kvCache: 61 - 0.221801
+putting reply to replyHandlerQueue 61 : 1745312104212664899
+makeInferenceAndSendReply6 ended inference post processing: 61 - 0.222101
+AnswerPremptionController notified
+reply 61 : 1745312104212751981
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_62', 'input': 'Where is capital of Korea?', 'requestID': 62, 'priority': 0} : 1745312104212902472
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 62 - 1745312104213085061
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 62 - 0.222676
+makeInferenceAndSendReply3 prepare encoded_input: 62 - 0.293346
+start of inference : 1745312104213604957
+end of inference : 1745312104367010064
+makeInferenceAndSendReply4 ask inference: 62 - 153.412303
+makeInferenceAndSendReply5 save kvCache: 62 - 0.204762
+putting reply to replyHandlerQueue 62 : 1745312104367462723
+makeInferenceAndSendReply6 ended inference post processing: 62 - 0.265106
+reply 62 : 1745312104367536966
+AnswerPremptionController notified
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_63', 'input': 'Where is capital of Korea?', 'requestID': 63, 'priority': 0} : 1745312104367710986
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 63 - 1745312104367806427
+makeInferenceAndSendReply2 load history and kvCache: 63 - 0.226317
+makeInferenceAndSendReply3 prepare encoded_input: 63 - 0.295193
+start of inference : 1745312104368331726
+AnswerPremptionController wait
+end of inference : 1745312104521948185
+makeInferenceAndSendReply4 ask inference: 63 - 153.624313
+makeInferenceAndSendReply5 save kvCache: 63 - 0.211331
+putting reply to replyHandlerQueue 63 : 1745312104522360001
+makeInferenceAndSendReply6 ended inference post processing: 63 - 0.232632
+AnswerPremptionController notified
+reply 63 : 1745312104522475940
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_64', 'input': 'Where is capital of Korea?', 'requestID': 64, 'priority': 0} : 1745312104522636440
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 64 - 1745312104522730980
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 64 - 0.229168
+makeInferenceAndSendReply3 prepare encoded_input: 64 - 0.292488
+start of inference : 1745312104523256988
+end of inference : 1745312104676814988
+makeInferenceAndSendReply4 ask inference: 64 - 153.56562
+makeInferenceAndSendReply5 save kvCache: 64 - 0.196248
+putting reply to replyHandlerQueue 64 : 1745312104677198975
+makeInferenceAndSendReply6 ended inference post processing: 64 - 0.208933
+AnswerPremptionController notified
+reply 64 : 1745312104677292010
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_65', 'input': 'Where is capital of Korea?', 'requestID': 65, 'priority': 0} : 1745312104677453899
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 65 - 1745312104677544820
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 65 - 0.214566
+makeInferenceAndSendReply3 prepare encoded_input: 65 - 0.275804
+start of inference : 1745312104678039400
+end of inference : 1745312104831874364
+makeInferenceAndSendReply4 ask inference: 65 - 153.842718
+makeInferenceAndSendReply5 save kvCache: 65 - 0.196017
+putting reply to replyHandlerQueue 65 : 1745312104832261068
+makeInferenceAndSendReply6 ended inference post processing: 65 - 0.212722
+AnswerPremptionController notified
+reply 65 : 1745312104832382663
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_66', 'input': 'Where is capital of Korea?', 'requestID': 66, 'priority': 0} : 1745312104832559674
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 66 - 1745312104832660882
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 66 - 0.218106
+makeInferenceAndSendReply3 prepare encoded_input: 66 - 0.279331
+start of inference : 1745312104833162575
+end of inference : 1745312104986627200
+makeInferenceAndSendReply4 ask inference: 66 - 153.474271
+makeInferenceAndSendReply5 save kvCache: 66 - 0.205062
+putting reply to replyHandlerQueue 66 : 1745312104987028761
+makeInferenceAndSendReply6 ended inference post processing: 66 - 0.216897
+AnswerPremptionController notified
+reply 66 : 1745312104987144340
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_67', 'input': 'Where is capital of Korea?', 'requestID': 67, 'priority': 0} : 1745312104987293650
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 67 - 1745312104987385211
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 67 - 0.22623
+makeInferenceAndSendReply3 prepare encoded_input: 67 - 0.2777
+start of inference : 1745312104987893760
+end of inference : 1745312105140984022
+makeInferenceAndSendReply4 ask inference: 67 - 153.09874
+makeInferenceAndSendReply5 save kvCache: 67 - 0.208728
+putting reply to replyHandlerQueue 67 : 1745312105141434222
+makeInferenceAndSendReply6 ended inference post processing: 67 - 0.260364
+AnswerPremptionController notified
+reply 67 : 1745312105141530678
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_68', 'input': 'Where is capital of Korea?', 'requestID': 68, 'priority': 0} : 1745312105141685070
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 68 - 1745312105141777574
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 68 - 0.230923
+makeInferenceAndSendReply3 prepare encoded_input: 68 - 0.285283
+start of inference : 1745312105142297876
+end of inference : 1745312105295549864
+makeInferenceAndSendReply4 ask inference: 68 - 153.258882
+makeInferenceAndSendReply5 save kvCache: 68 - 0.188978
+putting reply to replyHandlerQueue 68 : 1745312105295928630
+makeInferenceAndSendReply6 ended inference post processing: 68 - 0.208886
+AnswerPremptionController notified
+reply 68 : 1745312105296014879
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_69', 'input': 'Where is capital of Korea?', 'requestID': 69, 'priority': 0} : 1745312105296160941
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b3ac0>
+makeInferenceAndSendReply : 69 - 1745312105296241607
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 69 - 0.288924
+makeInferenceAndSendReply3 prepare encoded_input: 69 - 0.297854
+start of inference : 1745312105296832862
+end of inference : 1745312105450364090
+makeInferenceAndSendReply4 ask inference: 69 - 153.539108
+makeInferenceAndSendReply5 save kvCache: 69 - 0.19942
+putting reply to replyHandlerQueue 69 : 1745312105450765760
+makeInferenceAndSendReply6 ended inference post processing: 69 - 0.222102
+AnswerPremptionController notified
+reply 69 : 1745312105450854518
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_70', 'input': 'Where is capital of Korea?', 'requestID': 70, 'priority': 0} : 1745312105451001539
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 70 - 1745312105451096982
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 70 - 0.221535
+makeInferenceAndSendReply3 prepare encoded_input: 70 - 0.302262
+start of inference : 1745312105451624637
+end of inference : 1745312105604997709
+makeInferenceAndSendReply4 ask inference: 70 - 153.380847
+makeInferenceAndSendReply5 save kvCache: 70 - 0.19724
+putting reply to replyHandlerQueue 70 : 1745312105605416906
+makeInferenceAndSendReply6 ended inference post processing: 70 - 0.239819
+AnswerPremptionController notified
+reply 70 : 1745312105605566168
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_71', 'input': 'Where is capital of Korea?', 'requestID': 71, 'priority': 0} : 1745312105605727146
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 71 - 1745312105605904637
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 71 - 0.248806
+makeInferenceAndSendReply3 prepare encoded_input: 71 - 0.299784
+start of inference : 1745312105606457327
+end of inference : 1745312105760004735
+makeInferenceAndSendReply4 ask inference: 71 - 153.555388
+makeInferenceAndSendReply5 save kvCache: 71 - 0.198034
+putting reply to replyHandlerQueue 71 : 1745312105760427553
+makeInferenceAndSendReply6 ended inference post processing: 71 - 0.243277
+AnswerPremptionController notified
+reply 71 : 1745312105760513123
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_72', 'input': 'Where is capital of Korea?', 'requestID': 72, 'priority': 0} : 1745312105760682835
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 72 - 1745312105760798090
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 72 - 0.234057
+makeInferenceAndSendReply3 prepare encoded_input: 72 - 0.298388
+start of inference : 1745312105761334224
+end of inference : 1745312105914806144
+makeInferenceAndSendReply4 ask inference: 72 - 153.479386
+makeInferenceAndSendReply5 save kvCache: 72 - 0.196389
+putting reply to replyHandlerQueue 72 : 1745312105915213447
+makeInferenceAndSendReply6 ended inference post processing: 72 - 0.232227
+AnswerPremptionController notified
+reply 72 : 1745312105915305509
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_73', 'input': 'Where is capital of Korea?', 'requestID': 73, 'priority': 0} : 1745312105915451709
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 73 - 1745312105915543746
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 73 - 0.227725
+makeInferenceAndSendReply3 prepare encoded_input: 73 - 0.291755
+start of inference : 1745312105916067597
+end of inference : 1745312106069583503
+makeInferenceAndSendReply4 ask inference: 73 - 153.523848
+makeInferenceAndSendReply5 save kvCache: 73 - 0.188898
+putting reply to replyHandlerQueue 73 : 1745312106069974439
+makeInferenceAndSendReply6 ended inference post processing: 73 - 0.221195
+AnswerPremptionController notified
+reply 73 : 1745312106070061850
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_74', 'input': 'Where is capital of Korea?', 'requestID': 74, 'priority': 0} : 1745312106070218875
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 74 - 1745312106070310305
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 74 - 0.222925
+makeInferenceAndSendReply3 prepare encoded_input: 74 - 0.292305
+start of inference : 1745312106070829929
+end of inference : 1745312106224195225
+makeInferenceAndSendReply4 ask inference: 74 - 153.372929
+makeInferenceAndSendReply5 save kvCache: 74 - 0.222872
+putting reply to replyHandlerQueue 74 : 1745312106224622966
+makeInferenceAndSendReply6 ended inference post processing: 74 - 0.224059
+AnswerPremptionController notified
+reply 74 : 1745312106224730429
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_75', 'input': 'Where is capital of Korea?', 'requestID': 75, 'priority': 0} : 1745312106224871569
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 75 - 1745312106224949863
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 75 - 0.218431
+makeInferenceAndSendReply3 prepare encoded_input: 75 - 0.303268
+start of inference : 1745312106225476090
+end of inference : 1745312106378834804
+makeInferenceAndSendReply4 ask inference: 75 - 153.368977
+makeInferenceAndSendReply5 save kvCache: 75 - 0.198046
+putting reply to replyHandlerQueue 75 : 1745312106379238112
+makeInferenceAndSendReply6 ended inference post processing: 75 - 0.22516
+AnswerPremptionController notified
+reply 75 : 1745312106379365341
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_76', 'input': 'Where is capital of Korea?', 'requestID': 76, 'priority': 0} : 1745312106379568238
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 76 - 1745312106379653939
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 76 - 0.232494
+makeInferenceAndSendReply3 prepare encoded_input: 76 - 0.292437
+start of inference : 1745312106380182788
+end of inference : 1745312106533669478
+makeInferenceAndSendReply4 ask inference: 76 - 153.494331
+makeInferenceAndSendReply5 save kvCache: 76 - 0.193023
+putting reply to replyHandlerQueue 76 : 1745312106534052859
+makeInferenceAndSendReply6 ended inference post processing: 76 - 0.212381
+AnswerPremptionController notified
+reply 76 : 1745312106534147908
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_77', 'input': 'Where is capital of Korea?', 'requestID': 77, 'priority': 0} : 1745312106534326669
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 77 - 1745312106534421857
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 77 - 0.222096
+makeInferenceAndSendReply3 prepare encoded_input: 77 - 0.272502
+start of inference : 1745312106534920944
+end of inference : 1745312106688438527
+makeInferenceAndSendReply4 ask inference: 77 - 153.525442
+makeInferenceAndSendReply5 save kvCache: 77 - 0.190533
+putting reply to replyHandlerQueue 77 : 1745312106688816232
+makeInferenceAndSendReply6 ended inference post processing: 77 - 0.209441
+AnswerPremptionController notified
+reply 77 : 1745312106688908024
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_78', 'input': 'Where is capital of Korea?', 'requestID': 78, 'priority': 0} : 1745312106689080398
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 78 - 1745312106689165795
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 78 - 0.311076
+makeInferenceAndSendReply3 prepare encoded_input: 78 - 0.307642
+start of inference : 1745312106689788967
+end of inference : 1745312106843303208
+makeInferenceAndSendReply4 ask inference: 78 - 153.522542
+makeInferenceAndSendReply5 save kvCache: 78 - 0.224087
+putting reply to replyHandlerQueue 78 : 1745312106843725109
+makeInferenceAndSendReply6 ended inference post processing: 78 - 0.217444
+AnswerPremptionController notified
+reply 78 : 1745312106843815444
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_79', 'input': 'Where is capital of Korea?', 'requestID': 79, 'priority': 0} : 1745312106843982908
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 79 - 1745312106844089248
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 79 - 0.225074
+makeInferenceAndSendReply3 prepare encoded_input: 79 - 0.28387
+start of inference : 1745312106844602999
+end of inference : 1745312107006482451
+makeInferenceAndSendReply4 ask inference: 79 - 161.887861
+makeInferenceAndSendReply5 save kvCache: 79 - 0.200607
+putting reply to replyHandlerQueue 79 : 1745312107006875344
+makeInferenceAndSendReply6 ended inference post processing: 79 - 0.215184
+AnswerPremptionController notified
+reply 79 : 1745312107006968770
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_80', 'input': 'Where is capital of Korea?', 'requestID': 80, 'priority': 0} : 1745312107007245972
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 80 - 1745312107007477499
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 80 - 0.293873
+makeInferenceAndSendReply3 prepare encoded_input: 80 - 0.279802
+start of inference : 1745312107008055536
+end of inference : 1745312107161333943
+makeInferenceAndSendReply4 ask inference: 80 - 153.286231
+makeInferenceAndSendReply5 save kvCache: 80 - 0.192358
+putting reply to replyHandlerQueue 80 : 1745312107161730698
+makeInferenceAndSendReply6 ended inference post processing: 80 - 0.226846
+AnswerPremptionController notified
+reply 80 : 1745312107161821763
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_81', 'input': 'Where is capital of Korea?', 'requestID': 81, 'priority': 0} : 1745312107161979242
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 81 - 1745312107162076459
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 81 - 0.240723
+makeInferenceAndSendReply3 prepare encoded_input: 81 - 0.315395
+start of inference : 1745312107162637156
+end of inference : 1745312107315817245
+makeInferenceAndSendReply4 ask inference: 81 - 153.18796
+makeInferenceAndSendReply5 save kvCache: 81 - 0.196464
+putting reply to replyHandlerQueue 81 : 1745312107316236581
+makeInferenceAndSendReply6 ended inference post processing: 81 - 0.243044
+AnswerPremptionController notified
+reply 81 : 1745312107316328370
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_82', 'input': 'Where is capital of Korea?', 'requestID': 82, 'priority': 0} : 1745312107316482809
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b26b0>
+makeInferenceAndSendReply : 82 - 1745312107316600899
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 82 - 0.238487
+makeInferenceAndSendReply3 prepare encoded_input: 82 - 0.279716
+start of inference : 1745312107317123838
+end of inference : 1745312107470820381
+makeInferenceAndSendReply4 ask inference: 82 - 153.704486
+makeInferenceAndSendReply5 save kvCache: 82 - 0.192981
+putting reply to replyHandlerQueue 82 : 1745312107471217316
+makeInferenceAndSendReply6 ended inference post processing: 82 - 0.225063
+AnswerPremptionController notified
+reply 82 : 1745312107471304595
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_83', 'input': 'Where is capital of Korea?', 'requestID': 83, 'priority': 0} : 1745312107471451462
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b20b0>
+makeInferenceAndSendReply : 83 - 1745312107471526543
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 83 - 0.224086
+makeInferenceAndSendReply3 prepare encoded_input: 83 - 0.318087
+start of inference : 1745312107472073078
+end of inference : 1745312107625268689
+makeInferenceAndSendReply4 ask inference: 83 - 153.203281
+makeInferenceAndSendReply5 save kvCache: 83 - 0.19208
+putting reply to replyHandlerQueue 83 : 1745312107625662176
+makeInferenceAndSendReply6 ended inference post processing: 83 - 0.222262
+AnswerPremptionController notified
+reply 83 : 1745312107625816856
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_84', 'input': 'Where is capital of Korea?', 'requestID': 84, 'priority': 0} : 1745312107625980817
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 84 - 1745312107626065711
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 84 - 0.220224
+makeInferenceAndSendReply3 prepare encoded_input: 84 - 0.29757
+start of inference : 1745312107626587873
+end of inference : 1745312107779788101
+makeInferenceAndSendReply4 ask inference: 84 - 153.209336
+makeInferenceAndSendReply5 save kvCache: 84 - 0.188807
+putting reply to replyHandlerQueue 84 : 1745312107780179965
+makeInferenceAndSendReply6 ended inference post processing: 84 - 0.221736
+AnswerPremptionController notified
+reply 84 : 1745312107780336767
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_85', 'input': 'Where is capital of Korea?', 'requestID': 85, 'priority': 0} : 1745312107780518193
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 85 - 1745312107780601096
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 85 - 0.223564
+makeInferenceAndSendReply3 prepare encoded_input: 85 - 0.290364
+start of inference : 1745312107781118709
+end of inference : 1745312107934487607
+makeInferenceAndSendReply4 ask inference: 85 - 153.375824
+makeInferenceAndSendReply5 save kvCache: 85 - 0.195016
+putting reply to replyHandlerQueue 85 : 1745312107934884566
+makeInferenceAndSendReply6 ended inference post processing: 85 - 0.222927
+AnswerPremptionController notified
+reply 85 : 1745312107934977127
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_86', 'input': 'Where is capital of Korea?', 'requestID': 86, 'priority': 0} : 1745312107935143104
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 86 - 1745312107935239687
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 86 - 0.225409
+makeInferenceAndSendReply3 prepare encoded_input: 86 - 0.28024
+start of inference : 1745312107935749175
+end of inference : 1745312108088981724
+makeInferenceAndSendReply4 ask inference: 86 - 153.239638
+makeInferenceAndSendReply5 save kvCache: 86 - 0.196986
+putting reply to replyHandlerQueue 86 : 1745312108089398388
+makeInferenceAndSendReply6 ended inference post processing: 86 - 0.238118
+AnswerPremptionController notified
+reply 86 : 1745312108089488274
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_87', 'input': 'Where is capital of Korea?', 'requestID': 87, 'priority': 0} : 1745312108089661577
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 87 - 1745312108089763756
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 87 - 0.303698
+makeInferenceAndSendReply3 prepare encoded_input: 87 - 0.326977
+start of inference : 1745312108090398844
+end of inference : 1745312108243964948
+makeInferenceAndSendReply4 ask inference: 87 - 153.574119
+makeInferenceAndSendReply5 save kvCache: 87 - 0.203017
+putting reply to replyHandlerQueue 87 : 1745312108244406348
+makeInferenceAndSendReply6 ended inference post processing: 87 - 0.258735
+AnswerPremptionController notified
+reply 87 : 1745312108244504532
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_88', 'input': 'Where is capital of Korea?', 'requestID': 88, 'priority': 0} : 1745312108244667780
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 88 - 1745312108244767350
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 88 - 0.22339
+makeInferenceAndSendReply3 prepare encoded_input: 88 - 0.302003
+start of inference : 1745312108245296404
+end of inference : 1745312108398847864
+makeInferenceAndSendReply4 ask inference: 88 - 153.558395
+makeInferenceAndSendReply5 save kvCache: 88 - 0.198718
+putting reply to replyHandlerQueue 88 : 1745312108399241023
+makeInferenceAndSendReply6 ended inference post processing: 88 - 0.215444
+AnswerPremptionController notified
+reply 88 : 1745312108399330763
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_89', 'input': 'Where is capital of Korea?', 'requestID': 89, 'priority': 0} : 1745312108399499760
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 89 - 1745312108399673491
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 89 - 0.241338
+makeInferenceAndSendReply3 prepare encoded_input: 89 - 0.32659
+start of inference : 1745312108400244838
+end of inference : 1745312108554009953
+makeInferenceAndSendReply4 ask inference: 89 - 153.771873
+makeInferenceAndSendReply5 save kvCache: 89 - 0.188556
+putting reply to replyHandlerQueue 89 : 1745312108554404913
+makeInferenceAndSendReply6 ended inference post processing: 89 - 0.253112
+AnswerPremptionController notified
+reply 89 : 1745312108554585899
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_90', 'input': 'Where is capital of Korea?', 'requestID': 90, 'priority': 0} : 1745312108561563352
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1870>
+makeInferenceAndSendReply : 90 - 1745312108561704030
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 90 - 0.280085
+makeInferenceAndSendReply3 prepare encoded_input: 90 - 0.320218
+start of inference : 1745312108562309504
+end of inference : 1745312108715953536
+makeInferenceAndSendReply4 ask inference: 90 - 153.652682
+makeInferenceAndSendReply5 save kvCache: 90 - 0.197801
+putting reply to replyHandlerQueue 90 : 1745312108716338881
+makeInferenceAndSendReply6 ended inference post processing: 90 - 0.219455
+AnswerPremptionController notified
+reply 90 : 1745312108716452283
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_91', 'input': 'Where is capital of Korea?', 'requestID': 91, 'priority': 0} : 1745312108716607589
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 91 - 1745312108716709274
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 91 - 0.222064
+makeInferenceAndSendReply3 prepare encoded_input: 91 - 0.273354
+start of inference : 1745312108717209202
+end of inference : 1745312108870711912
+makeInferenceAndSendReply4 ask inference: 91 - 153.510768
+makeInferenceAndSendReply5 save kvCache: 91 - 0.195088
+putting reply to replyHandlerQueue 91 : 1745312108871095107
+makeInferenceAndSendReply6 ended inference post processing: 91 - 0.209791
+AnswerPremptionController notified
+reply 91 : 1745312108871189376
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_92', 'input': 'Where is capital of Korea?', 'requestID': 92, 'priority': 0} : 1745312108871479434
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1870>
+makeInferenceAndSendReply : 92 - 1745312108871562018
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 92 - 0.215661
+makeInferenceAndSendReply3 prepare encoded_input: 92 - 0.281146
+start of inference : 1745312108872062756
+end of inference : 1745312109025542186
+makeInferenceAndSendReply4 ask inference: 92 - 153.486734
+makeInferenceAndSendReply5 save kvCache: 92 - 0.1964
+putting reply to replyHandlerQueue 92 : 1745312109025926883
+makeInferenceAndSendReply6 ended inference post processing: 92 - 0.211932
+AnswerPremptionController notified
+reply 92 : 1745312109026025697
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_93', 'input': 'Where is capital of Korea?', 'requestID': 93, 'priority': 0} : 1745312109026176823
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 93 - 1745312109026261167
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 93 - 0.21952
+makeInferenceAndSendReply3 prepare encoded_input: 93 - 0.279515
+start of inference : 1745312109026764107
+end of inference : 1745312109180007264
+makeInferenceAndSendReply4 ask inference: 93 - 153.252528
+makeInferenceAndSendReply5 save kvCache: 93 - 0.214745
+putting reply to replyHandlerQueue 93 : 1745312109180456670
+makeInferenceAndSendReply6 ended inference post processing: 93 - 0.259914
+AnswerPremptionController notified
+reply 93 : 1745312109180583036
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_94', 'input': 'Where is capital of Korea?', 'requestID': 94, 'priority': 0} : 1745312109180740278
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1870>
+makeInferenceAndSendReply : 94 - 1745312109180831689
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 94 - 0.234811
+makeInferenceAndSendReply3 prepare encoded_input: 94 - 0.298836
+start of inference : 1745312109181369164
+end of inference : 1745312109360745989
+makeInferenceAndSendReply4 ask inference: 94 - 179.383927
+makeInferenceAndSendReply5 save kvCache: 94 - 0.200614
+putting reply to replyHandlerQueue 94 : 1745312109361136658
+makeInferenceAndSendReply6 ended inference post processing: 94 - 0.211303
+AnswerPremptionController notified
+reply 94 : 1745312109361230764
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_95', 'input': 'Where is capital of Korea?', 'requestID': 95, 'priority': 0} : 1745312109361412186
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 95 - 1745312109361504621
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 95 - 0.226761
+makeInferenceAndSendReply3 prepare encoded_input: 95 - 0.27963
+start of inference : 1745312109362014725
+end of inference : 1745312109515318099
+makeInferenceAndSendReply4 ask inference: 95 - 153.311078
+makeInferenceAndSendReply5 save kvCache: 95 - 0.207639
+putting reply to replyHandlerQueue 95 : 1745312109515733482
+makeInferenceAndSendReply6 ended inference post processing: 95 - 0.231845
+AnswerPremptionController notified
+reply 95 : 1745312109515833194
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_96', 'input': 'Where is capital of Korea?', 'requestID': 96, 'priority': 0} : 1745312109515994949
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1870>
+makeInferenceAndSendReply : 96 - 1745312109516095824
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 96 - 0.311625
+makeInferenceAndSendReply3 prepare encoded_input: 96 - 0.321143
+start of inference : 1745312109516732489
+end of inference : 1745312109682684139
+makeInferenceAndSendReply4 ask inference: 96 - 165.959533
+makeInferenceAndSendReply5 save kvCache: 96 - 0.215509
+putting reply to replyHandlerQueue 96 : 1745312109683108709
+makeInferenceAndSendReply6 ended inference post processing: 96 - 0.233429
+AnswerPremptionController notified
+reply 96 : 1745312109683207626
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_97', 'input': 'Where is capital of Korea?', 'requestID': 97, 'priority': 0} : 1745312109683361314
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 97 - 1745312109683472807
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 97 - 0.233053
+makeInferenceAndSendReply3 prepare encoded_input: 97 - 0.291169
+start of inference : 1745312109684000951
+end of inference : 1745312109837191585
+makeInferenceAndSendReply4 ask inference: 97 - 153.197624
+makeInferenceAndSendReply5 save kvCache: 97 - 0.192048
+putting reply to replyHandlerQueue 97 : 1745312109837574469
+makeInferenceAndSendReply6 ended inference post processing: 97 - 0.208372
+AnswerPremptionController notified
+reply 97 : 1745312109837654888
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_98', 'input': 'Where is capital of Korea?', 'requestID': 98, 'priority': 0} : 1745312109837809159
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1870>
+makeInferenceAndSendReply : 98 - 1745312109837957154
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 98 - 0.224109
+makeInferenceAndSendReply3 prepare encoded_input: 98 - 0.283622
+start of inference : 1745312109838472559
+end of inference : 1745312109992221646
+makeInferenceAndSendReply4 ask inference: 98 - 153.760701
+makeInferenceAndSendReply5 save kvCache: 98 - 0.199642
+putting reply to replyHandlerQueue 98 : 1745312109992619844
+makeInferenceAndSendReply6 ended inference post processing: 98 - 0.217303
+AnswerPremptionController notified
+reply 98 : 1745312109992706262
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_99', 'input': 'Where is capital of Korea?', 'requestID': 99, 'priority': 0} : 1745312109992889033
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1d50>
+makeInferenceAndSendReply : 99 - 1745312109992979527
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 99 - 0.225988
+makeInferenceAndSendReply3 prepare encoded_input: 99 - 0.308742
+start of inference : 1745312109993518176
+end of inference : 1745312110147226461
+makeInferenceAndSendReply4 ask inference: 99 - 153.715341
+makeInferenceAndSendReply5 save kvCache: 99 - 0.225541
+putting reply to replyHandlerQueue 99 : 1745312110147650725
+makeInferenceAndSendReply6 ended inference post processing: 99 - 0.218676
+AnswerPremptionController notified
+reply 99 : 1745312110147806623
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_100', 'input': 'Explain History of Korea', 'requestID': 100, 'priority': 10} : 1745312110147972520
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 100 - 1745312110148070849
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 100 - 0.237455
+makeInferenceAndSendReply3 prepare encoded_input: 100 - 0.315639
+start of inference : 1745312110148628471
+end of inference : 1745312120420818067
+makeInferenceAndSendReply4 ask inference: 100 - 10272.198289
+makeInferenceAndSendReply5 save kvCache: 100 - 0.656988
+putting reply to replyHandlerQueue 100 : 1745312120430327231
+makeInferenceAndSendReply6 ended inference post processing: 100 - 8.877815
+AnswerPremptionController notified
+reply 100 : 1745312120430524066
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_101', 'input': 'Explain History of Korea', 'requestID': 101, 'priority': 10} : 1745312120430675615
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 101 - 1745312120430758683
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 101 - 0.276321
+makeInferenceAndSendReply3 prepare encoded_input: 101 - 0.303878
+start of inference : 1745312120431342743
+end of inference : 1745312130705186383
+makeInferenceAndSendReply4 ask inference: 101 - 10273.852009
+makeInferenceAndSendReply5 save kvCache: 101 - 0.660875
+putting reply to replyHandlerQueue 101 : 1745312130714894204
+makeInferenceAndSendReply6 ended inference post processing: 101 - 9.070465
+AnswerPremptionController notified
+reply 101 : 1745312130714996281
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_102', 'input': 'Explain History of Korea', 'requestID': 102, 'priority': 10} : 1745312130715171226
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 102 - 1745312130715258076
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 102 - 0.230258
+makeInferenceAndSendReply3 prepare encoded_input: 102 - 0.288118
+start of inference : 1745312130715780674
+end of inference : 1745312140980195899
+makeInferenceAndSendReply4 ask inference: 102 - 10264.424634
+makeInferenceAndSendReply5 save kvCache: 102 - 0.602278
+putting reply to replyHandlerQueue 102 : 1745312140990009293
+makeInferenceAndSendReply6 ended inference post processing: 102 - 9.233513
+AnswerPremptionController notified
+reply 102 : 1745312140990141400
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_103', 'input': 'Explain History of Korea', 'requestID': 103, 'priority': 10} : 1745312140990307963
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 103 - 1745312140990394682
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 103 - 0.253322
+makeInferenceAndSendReply3 prepare encoded_input: 103 - 0.292391
+start of inference : 1745312140990944111
+end of inference : 1745312151254091258
+makeInferenceAndSendReply4 ask inference: 103 - 10263.155549
+makeInferenceAndSendReply5 save kvCache: 103 - 0.630292
+putting reply to replyHandlerQueue 103 : 1745312151263633322
+makeInferenceAndSendReply6 ended inference post processing: 103 - 8.934606
+AnswerPremptionController notified
+reply 103 : 1745312151263736930
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_104', 'input': 'Explain History of Korea', 'requestID': 104, 'priority': 10} : 1745312151263947647
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 104 - 1745312151264037222
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 104 - 0.295659
+makeInferenceAndSendReply3 prepare encoded_input: 104 - 0.331072
+start of inference : 1745312151264667882
+end of inference : 1745312161542869514
+makeInferenceAndSendReply4 ask inference: 104 - 10278.210193
+makeInferenceAndSendReply5 save kvCache: 104 - 40.278949
+putting reply to replyHandlerQueue 104 : 1745312161592289614
+makeInferenceAndSendReply6 ended inference post processing: 104 - 9.163909
+AnswerPremptionController notified
+reply 104 : 1745312161592460957
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_105', 'input': 'Explain History of Korea', 'requestID': 105, 'priority': 10} : 1745312161592680615
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 105 - 1745312161592759774
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 105 - 0.380325
+makeInferenceAndSendReply3 prepare encoded_input: 105 - 0.343234
+start of inference : 1745312161593487536
+end of inference : 1745312171859066033
+makeInferenceAndSendReply4 ask inference: 105 - 10265.586936
+makeInferenceAndSendReply5 save kvCache: 105 - 0.680218
+putting reply to replyHandlerQueue 105 : 1745312171869058901
+makeInferenceAndSendReply6 ended inference post processing: 105 - 9.342382
+AnswerPremptionController notified
+reply 105 : 1745312171869179620
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_106', 'input': 'Explain History of Korea', 'requestID': 106, 'priority': 10} : 1745312171869371047
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 106 - 1745312171869480963
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 106 - 0.25597
+makeInferenceAndSendReply3 prepare encoded_input: 106 - 0.31278
+start of inference : 1745312171870054299
+end of inference : 1745312182133498902
+makeInferenceAndSendReply4 ask inference: 106 - 10263.452811
+makeInferenceAndSendReply5 save kvCache: 106 - 0.595025
+putting reply to replyHandlerQueue 106 : 1745312182143032805
+makeInferenceAndSendReply6 ended inference post processing: 106 - 8.963281
+AnswerPremptionController notified
+reply 106 : 1745312182143135384
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_107', 'input': 'Explain History of Korea', 'requestID': 107, 'priority': 10} : 1745312182143316727
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 107 - 1745312182143454735
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 107 - 0.315109
+makeInferenceAndSendReply3 prepare encoded_input: 107 - 0.298156
+start of inference : 1745312182144072331
+end of inference : 1745312192410697083
+makeInferenceAndSendReply4 ask inference: 107 - 10266.633524
+makeInferenceAndSendReply5 save kvCache: 107 - 13.207403
+putting reply to replyHandlerQueue 107 : 1745312192433025612
+makeInferenceAndSendReply6 ended inference post processing: 107 - 9.141295
+AnswerPremptionController notified
+reply 107 : 1745312192433121125
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_108', 'input': 'Explain History of Korea', 'requestID': 108, 'priority': 10} : 1745312192433303702
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+makeInferenceAndSendReply : 108 - 1745312192433388546
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 108 - 0.257911
+makeInferenceAndSendReply3 prepare encoded_input: 108 - 0.296168
+start of inference : 1745312192433946674
+end of inference : 1745312202701294332
+makeInferenceAndSendReply4 ask inference: 108 - 10267.35606
+makeInferenceAndSendReply5 save kvCache: 108 - 0.717873
+putting reply to replyHandlerQueue 108 : 1745312202711455886
+makeInferenceAndSendReply6 ended inference post processing: 108 - 9.471202
+AnswerPremptionController notified
+reply 108 : 1745312202711662579
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_109', 'input': 'Explain History of Korea', 'requestID': 109, 'priority': 10} : 1745312202711781213
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1210>
+makeInferenceAndSendReply : 109 - 1745312202711921037
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 109 - 0.266186
+makeInferenceAndSendReply3 prepare encoded_input: 109 - 0.343546
+start of inference : 1745312202712535772
+end of inference : 1745312212979034704
+makeInferenceAndSendReply4 ask inference: 109 - 10266.507587
+makeInferenceAndSendReply5 save kvCache: 109 - 0.670767
+putting reply to replyHandlerQueue 109 : 1745312212988523137
+makeInferenceAndSendReply6 ended inference post processing: 109 - 8.84193
+AnswerPremptionController notified
+reply 109 : 1745312212988625291
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_110', 'input': 'Explain capitals of United States', 'requestID': 110, 'priority': 5} : 1745312212988817721
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1990>
+preemption 109 -> 110
+makeInferenceAndSendReply : 110 - 1745312212988931443
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 110 - 0.265158
+makeInferenceAndSendReply3 prepare encoded_input: 110 - 0.332155
+start of inference : 1745312212989532463
+end of inference : 1745312217710607064
+makeInferenceAndSendReply4 ask inference: 110 - 4721.081966
+makeInferenceAndSendReply5 save kvCache: 110 - 0.200663
+putting reply to replyHandlerQueue 110 : 1745312217714949387
+makeInferenceAndSendReply6 ended inference post processing: 110 - 4.164825
+AnswerPremptionController notified
+reply 110 : 1745312217715052074
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_111', 'input': 'Explain capitals of United States', 'requestID': 111, 'priority': 5} : 1745312217715229622
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1210>
+makeInferenceAndSendReply : 111 - 1745312217715313232
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 111 - 0.267566
+makeInferenceAndSendReply3 prepare encoded_input: 111 - 0.337158
+start of inference : 1745312217715921782
+end of inference : 1745312222436882685
+makeInferenceAndSendReply4 ask inference: 111 - 4720.969042
+makeInferenceAndSendReply5 save kvCache: 111 - 0.437183
+putting reply to replyHandlerQueue 111 : 1745312222441522431
+makeInferenceAndSendReply6 ended inference post processing: 111 - 4.228141
+AnswerPremptionController notified
+reply 111 : 1745312222441742109
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_112', 'input': 'Explain capitals of United States', 'requestID': 112, 'priority': 5} : 1745312222441899065
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0d60>
+makeInferenceAndSendReply : 112 - 1745312222441984873
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 112 - 0.274448
+makeInferenceAndSendReply3 prepare encoded_input: 112 - 0.346208
+start of inference : 1745312222442609720
+end of inference : 1745312227163347286
+makeInferenceAndSendReply4 ask inference: 112 - 4720.745369
+makeInferenceAndSendReply5 save kvCache: 112 - 5.717665
+putting reply to replyHandlerQueue 112 : 1745312227173312526
+makeInferenceAndSendReply6 ended inference post processing: 112 - 4.270499
+AnswerPremptionController notified
+reply 112 : 1745312227173419295
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_113', 'input': 'Explain capitals of United States', 'requestID': 113, 'priority': 5} : 1745312227173618895
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1210>
+makeInferenceAndSendReply : 113 - 1745312227173706676
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 113 - 0.311353
+makeInferenceAndSendReply3 prepare encoded_input: 113 - 0.323578
+start of inference : 1745312227174345461
+end of inference : 1745312231894113836
+makeInferenceAndSendReply4 ask inference: 113 - 4719.776217
+makeInferenceAndSendReply5 save kvCache: 113 - 0.408904
+putting reply to replyHandlerQueue 113 : 1745312231898721972
+makeInferenceAndSendReply6 ended inference post processing: 113 - 4.223515
+AnswerPremptionController notified
+reply 113 : 1745312231898930637
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_114', 'input': 'Explain capitals of United States', 'requestID': 114, 'priority': 5} : 1745312231899104091
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 114 - 1745312231899192647
+makeInferenceAndSendReply2 load history and kvCache: 114 - 0.394725
+makeInferenceAndSendReply3 prepare encoded_input: 114 - 0.323558
+start of inference : 1745312231899915364
+AnswerPremptionController wait
+end of inference : 1745312236631945386
+makeInferenceAndSendReply4 ask inference: 114 - 4732.038052
+makeInferenceAndSendReply5 save kvCache: 114 - 6.509607
+putting reply to replyHandlerQueue 114 : 1745312236642876913
+makeInferenceAndSendReply6 ended inference post processing: 114 - 4.442508
+AnswerPremptionController notified
+reply 114 : 1745312236643054016
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_115', 'input': 'Explain capitals of United States', 'requestID': 115, 'priority': 5} : 1745312236643230666
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0af0>
+makeInferenceAndSendReply : 115 - 1745312236643353404
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 115 - 0.263174
+makeInferenceAndSendReply3 prepare encoded_input: 115 - 0.30211
+start of inference : 1745312236643923005
+end of inference : 1745312241408937367
+makeInferenceAndSendReply4 ask inference: 115 - 4765.021784
+makeInferenceAndSendReply5 save kvCache: 115 - 0.359458
+putting reply to replyHandlerQueue 115 : 1745312241413415524
+makeInferenceAndSendReply6 ended inference post processing: 115 - 4.14288
+AnswerPremptionController notified
+reply 115 : 1745312241413519451
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_116', 'input': 'Explain capitals of United States', 'requestID': 116, 'priority': 5} : 1745312241413685740
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b18d0>
+makeInferenceAndSendReply : 116 - 1745312241413831757
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 116 - 0.288092
+makeInferenceAndSendReply3 prepare encoded_input: 116 - 0.328774
+start of inference : 1745312241414452128
+end of inference : 1745312246146347642
+makeInferenceAndSendReply4 ask inference: 116 - 4731.902853
+makeInferenceAndSendReply5 save kvCache: 116 - 0.46893
+putting reply to replyHandlerQueue 116 : 1745312246151037082
+makeInferenceAndSendReply6 ended inference post processing: 116 - 4.241288
+AnswerPremptionController notified
+reply 116 : 1745312246151206978
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_117', 'input': 'Explain capitals of United States', 'requestID': 117, 'priority': 5} : 1745312246151377076
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1300>
+makeInferenceAndSendReply : 117 - 1745312246151470976
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 117 - 0.289944
+makeInferenceAndSendReply3 prepare encoded_input: 117 - 0.346427
+start of inference : 1745312246152111039
+end of inference : 1745312250905040596
+makeInferenceAndSendReply4 ask inference: 117 - 4752.937241
+makeInferenceAndSendReply5 save kvCache: 117 - 0.451498
+putting reply to replyHandlerQueue 117 : 1745312250909772048
+makeInferenceAndSendReply6 ended inference post processing: 117 - 4.303789
+AnswerPremptionController notified
+reply 117 : 1745312250909958365
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_118', 'input': 'Explain capitals of United States', 'requestID': 118, 'priority': 5} : 1745312250910114307
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0ac0>
+makeInferenceAndSendReply : 118 - 1745312250910200757
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 118 - 0.272586
+makeInferenceAndSendReply3 prepare encoded_input: 118 - 0.35016
+start of inference : 1745312250910827905
+end of inference : 1745312255634007496
+makeInferenceAndSendReply4 ask inference: 118 - 4723.187251
+makeInferenceAndSendReply5 save kvCache: 118 - 0.476653
+putting reply to replyHandlerQueue 118 : 1745312255638712331
+makeInferenceAndSendReply6 ended inference post processing: 118 - 4.253935
+AnswerPremptionController notified
+reply 118 : 1745312255638814817
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_119', 'input': 'Explain capitals of United States', 'requestID': 119, 'priority': 5} : 1745312255638986670
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1300>
+makeInferenceAndSendReply : 119 - 1745312255639070307
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 119 - 0.274814
+makeInferenceAndSendReply3 prepare encoded_input: 119 - 0.342397
+start of inference : 1745312255639691392
+end of inference : 1745312260372404501
+makeInferenceAndSendReply4 ask inference: 119 - 4732.720508
+makeInferenceAndSendReply5 save kvCache: 119 - 12.016695
+putting reply to replyHandlerQueue 119 : 1745312260388618365
+makeInferenceAndSendReply6 ended inference post processing: 119 - 4.220557
+AnswerPremptionController notified
+reply 119 : 1745312260388716905
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_120', 'input': 'Explain capitals of United States', 'requestID': 120, 'priority': 5} : 1745312260388870469
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0ac0>
+makeInferenceAndSendReply : 120 - 1745312260388953794
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 120 - 0.227349
+makeInferenceAndSendReply3 prepare encoded_input: 120 - 0.326523
+start of inference : 1745312260389511747
+end of inference : 1745312265113153626
+makeInferenceAndSendReply4 ask inference: 120 - 4723.650199
+makeInferenceAndSendReply5 save kvCache: 120 - 0.483484
+putting reply to replyHandlerQueue 120 : 1745312265117896055
+makeInferenceAndSendReply6 ended inference post processing: 120 - 4.283328
+AnswerPremptionController notified
+reply 120 : 1745312265118037769
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_121', 'input': 'Explain capitals of United States', 'requestID': 121, 'priority': 5} : 1745312265118222796
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1300>
+makeInferenceAndSendReply : 121 - 1745312265118309399
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 121 - 0.318825
+makeInferenceAndSendReply3 prepare encoded_input: 121 - 0.33376
+start of inference : 1745312265118965861
+end of inference : 1745312269884677096
+makeInferenceAndSendReply4 ask inference: 121 - 4765.71854
+makeInferenceAndSendReply5 save kvCache: 121 - 0.379469
+putting reply to replyHandlerQueue 121 : 1745312269889228302
+makeInferenceAndSendReply6 ended inference post processing: 121 - 4.197631
+AnswerPremptionController notified
+reply 121 : 1745312269889337181
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_122', 'input': 'Explain capitals of United States', 'requestID': 122, 'priority': 5} : 1745312269889625234
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0ac0>
+makeInferenceAndSendReply : 122 - 1745312269889757246
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 122 - 0.318042
+makeInferenceAndSendReply3 prepare encoded_input: 122 - 0.321592
+start of inference : 1745312269890400740
+end of inference : 1745312274616005798
+makeInferenceAndSendReply4 ask inference: 122 - 4725.612054
+makeInferenceAndSendReply5 save kvCache: 122 - 0.493152
+putting reply to replyHandlerQueue 122 : 1745312274620715489
+makeInferenceAndSendReply6 ended inference post processing: 122 - 4.241224
+AnswerPremptionController notified
+reply 122 : 1745312274620859861
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_123', 'input': 'Explain capitals of United States', 'requestID': 123, 'priority': 5} : 1745312274621037438
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b1300>
+makeInferenceAndSendReply : 123 - 1745312274621134260
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 123 - 0.42476
+makeInferenceAndSendReply3 prepare encoded_input: 123 - 0.341398
+start of inference : 1745312274621904302
+end of inference : 1745312279390283166
+makeInferenceAndSendReply4 ask inference: 123 - 4768.385869
+makeInferenceAndSendReply5 save kvCache: 123 - 0.400364
+putting reply to replyHandlerQueue 123 : 1745312279394989874
+makeInferenceAndSendReply6 ended inference post processing: 123 - 4.332011
+AnswerPremptionController notified
+reply 123 : 1745312279395097006
+1
+clientRequestHandler - data received {'mode': 3, 'historyFilename': 'test_124', 'input': 'Explain capitals of United States', 'requestID': 124, 'priority': 5} : 1745312279395266909
+insertInferenceRequest queues inserted
+request :  <StructClass.InferenceRequest.InferenceRequest object at 0x7411f67b0ac0>
+makeInferenceAndSendReply : 124 - 1745312279395383849
+AnswerPremptionController wait
+makeInferenceAndSendReply2 load history and kvCache: 124 - 0.28687
+makeInferenceAndSendReply3 prepare encoded_input: 124 - 0.326327
+start of inference : 1745312279396000810
+end of inference : 1745312284120020174
+makeInferenceAndSendReply4 ask inference: 124 - 4724.027108
+makeInferenceAndSendReply5 save kvCache: 124 - 0.448134
+putting reply to replyHandlerQueue 124 : 1745312284124585576

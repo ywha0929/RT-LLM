@@ -1,0 +1,1131 @@
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_0
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_1
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_2
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_3
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_4
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_5
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_6
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_7
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_8
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_9
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_10
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_11
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_12
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_13
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_14
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_15
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_16
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_17
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_18
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_19
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_20
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_21
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_22
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_23
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_24
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_25
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_26
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_27
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_28
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_29
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_30
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_31
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_32
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_33
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_34
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_35
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_36
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_37
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_38
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_39
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_40
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_41
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_42
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_43
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_44
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_45
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_46
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_47
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_48
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_49
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_50
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_51
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_52
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_53
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_54
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_55
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_56
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_57
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_58
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_59
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_60
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_61
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_62
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_63
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_64
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_65
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_66
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_67
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_68
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_69
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_70
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_71
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_72
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_73
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_74
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_75
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_76
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_77
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_78
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_79
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_80
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_81
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_82
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_83
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_84
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_85
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_86
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_87
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_88
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_89
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_90
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_91
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_92
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_93
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_94
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_95
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_96
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_97
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_98
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_99
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_100
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_101
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_102
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_103
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_104
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_105
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_106
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_107
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_108
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_109
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_110
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_111
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_112
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_113
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_114
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_115
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_116
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_117
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_118
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_119
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_120
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_121
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_122
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_123
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_124
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_125
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_126
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_127
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_128
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_129
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+--------------------start--------------------
+sending request to requestInference
+write data to server : 100 - 1745318524086228742
+sending request to requestInference
+write data to server : 110 - 1745318524086312376
+sending request to requestInference
+write data to server : 0 - 1745318524086427845
+read data from server : 0 - 1745318524264218282
+requestID : test_0 - Priority : 0 - time : 177.81698 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 0}
+read data from server : 110 - 1745318525362751133
+requestID : test_110 - Priority : 5 - time : 1276.46276 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 110}
+sending request to requestInference
+write data to server : 1 - 1745318525688178202
+read data from server : 1 - 1745318525787838172
+requestID : test_1 - Priority : 0 - time : 99.680255 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 1}
+sending request to requestInference
+write data to server : 2 - 1745318527289932394
+read data from server : 2 - 1745318527387917194
+requestID : test_2 - Priority : 0 - time : 98.002883 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 2}
+sending request to requestInference
+write data to server : 111 - 1745318528691062400
+sending request to requestInference
+write data to server : 3 - 1745318528891673682
+read data from server : 3 - 1745318528992383282
+requestID : test_3 - Priority : 0 - time : 100.725464 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 3}
+read data from server : 111 - 1745318529889805172
+requestID : test_111 - Priority : 5 - time : 1198.763261 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 111}
+sending request to requestInference
+write data to server : 4 - 1745318530493442786
+read data from server : 4 - 1745318530585380026
+requestID : test_4 - Priority : 0 - time : 91.959362 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 4}
+sending request to requestInference
+write data to server : 5 - 1745318532095200361
+read data from server : 5 - 1745318532190714922
+requestID : test_5 - Priority : 0 - time : 95.546425 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 5}
+sending request to requestInference
+write data to server : 112 - 1745318533295825662
+sending request to requestInference
+write data to server : 6 - 1745318533696930160
+read data from server : 6 - 1745318533791619999
+requestID : test_6 - Priority : 0 - time : 94.704263 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 6}
+read data from server : 112 - 1745318534491984964
+requestID : test_112 - Priority : 5 - time : 1196.182074 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 112}
+sending request to requestInference
+write data to server : 101 - 1745318535097428559
+sending request to requestInference
+write data to server : 7 - 1745318535298656187
+read data from server : 7 - 1745318535393618229
+requestID : test_7 - Priority : 0 - time : 94.976092 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 7}
+sending request to requestInference
+write data to server : 8 - 1745318536900431803
+read data from server : 8 - 1745318536998343912
+requestID : test_8 - Priority : 0 - time : 97.932745 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 8}
+sending request to requestInference
+write data to server : 113 - 1745318537900580847
+sending request to requestInference
+write data to server : 9 - 1745318538502219762
+read data from server : 9 - 1745318538598924216
+requestID : test_9 - Priority : 0 - time : 96.720652 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 9}
+read data from server : 113 - 1745318539101430428
+requestID : test_113 - Priority : 5 - time : 1200.871127 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 113}
+read data from server : 100 - 1745318539689976266
+requestID : test_100 - Priority : 10 - time : 15603.764761 - reply : {'msg': '1, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 100}
+sending request to requestInference
+write data to server : 10 - 1745318540103960380
+read data from server : 10 - 1745318540206681882
+requestID : test_10 - Priority : 0 - time : 102.736102 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 10}
+sending request to requestInference
+write data to server : 11 - 1745318541705709222
+read data from server : 11 - 1745318541812714395
+requestID : test_11 - Priority : 0 - time : 107.028081 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 11}
+sending request to requestInference
+write data to server : 114 - 1745318542504636900
+sending request to requestInference
+write data to server : 12 - 1745318543307472738
+read data from server : 12 - 1745318543400915406
+requestID : test_12 - Priority : 0 - time : 93.461041 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 12}
+read data from server : 114 - 1745318543694175084
+requestID : test_114 - Priority : 5 - time : 1189.579686 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 114}
+sending request to requestInference
+write data to server : 13 - 1745318544909217396
+read data from server : 13 - 1745318545008599693
+requestID : test_13 - Priority : 0 - time : 99.399583 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 13}
+sending request to requestInference
+write data to server : 102 - 1745318546108627815
+sending request to requestInference
+write data to server : 14 - 1745318546510968061
+read data from server : 14 - 1745318546610591603
+requestID : test_14 - Priority : 0 - time : 99.641574 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 14}
+sending request to requestInference
+write data to server : 115 - 1745318547109373518
+sending request to requestInference
+write data to server : 15 - 1745318548112728241
+read data from server : 15 - 1745318548205535308
+requestID : test_15 - Priority : 0 - time : 92.825282 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 15}
+read data from server : 115 - 1745318548300826817
+requestID : test_115 - Priority : 5 - time : 1191.470341 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 115}
+sending request to requestInference
+write data to server : 16 - 1745318549714465552
+read data from server : 16 - 1745318549815673805
+requestID : test_16 - Priority : 0 - time : 101.223271 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 16}
+sending request to requestInference
+write data to server : 17 - 1745318551316244371
+read data from server : 17 - 1745318551409316574
+requestID : test_17 - Priority : 0 - time : 93.09373 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 17}
+sending request to requestInference
+write data to server : 116 - 1745318551714129589
+read data from server : 116 - 1745318552829416318
+requestID : test_116 - Priority : 5 - time : 1115.312324 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 116}
+sending request to requestInference
+write data to server : 18 - 1745318552917997861
+read data from server : 18 - 1745318553010623152
+requestID : test_18 - Priority : 0 - time : 92.664455 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 18}
+read data from server : 101 - 1745318554005319452
+requestID : test_101 - Priority : 10 - time : 18907.91222 - reply : {'msg': ', the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 101}
+sending request to requestInference
+write data to server : 19 - 1745318554519744093
+read data from server : 19 - 1745318554614809072
+requestID : test_19 - Priority : 0 - time : 95.081282 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 19}
+sending request to requestInference
+write data to server : 20 - 1745318556121493601
+read data from server : 20 - 1745318556215772585
+requestID : test_20 - Priority : 0 - time : 94.300535 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 20}
+sending request to requestInference
+write data to server : 117 - 1745318556318880925
+sending request to requestInference
+write data to server : 103 - 1745318557119791935
+read data from server : 117 - 1745318557430208541
+requestID : test_117 - Priority : 5 - time : 1111.345632 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 117}
+sending request to requestInference
+write data to server : 21 - 1745318557723227373
+read data from server : 21 - 1745318557819786803
+requestID : test_21 - Priority : 0 - time : 96.572231 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 21}
+sending request to requestInference
+write data to server : 22 - 1745318559324970243
+read data from server : 22 - 1745318559426086428
+requestID : test_22 - Priority : 0 - time : 101.139004 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 22}
+sending request to requestInference
+write data to server : 118 - 1745318560923634451
+sending request to requestInference
+write data to server : 23 - 1745318560926659887
+read data from server : 23 - 1745318561031308356
+requestID : test_23 - Priority : 0 - time : 104.664778 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 23}
+read data from server : 118 - 1745318562114135839
+requestID : test_118 - Priority : 5 - time : 1190.527803 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 118}
+sending request to requestInference
+write data to server : 24 - 1745318562528403600
+read data from server : 24 - 1745318562623920643
+requestID : test_24 - Priority : 0 - time : 95.531513 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 24}
+sending request to requestInference
+write data to server : 25 - 1745318564130150295
+read data from server : 25 - 1745318564233550511
+requestID : test_25 - Priority : 0 - time : 103.422047 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 25}
+sending request to requestInference
+write data to server : 119 - 1745318565528363744
+sending request to requestInference
+write data to server : 26 - 1745318565731911332
+read data from server : 26 - 1745318565825880071
+requestID : test_26 - Priority : 0 - time : 93.98556 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 26}
+read data from server : 119 - 1745318566722464778
+requestID : test_119 - Priority : 5 - time : 1194.120941 - reply : {'msg': 'assistant\n\nThe 50 states of the United States are divided into 10 regions. The 50 capitals are located in the following regions:\n\n* Northeast: Boston, Massachusetts; New York City, New York; Boston, Massachusetts\n* South: Atlanta, Georgia; Montgomery, Alabama; Atlanta, Georgia\n* Midwest: Madison, Wisconsin; Des Moines, Iowa; Madison, Wisconsin\n* West: Denver, Colorado; Olympia, Washington; Denver, Colorado', 'requestID': 119}
+sending request to requestInference
+write data to server : 27 - 1745318567333671269
+read data from server : 27 - 1745318567429009683
+requestID : test_27 - Priority : 0 - time : 95.35644 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 27}
+sending request to requestInference
+write data to server : 104 - 1745318568130932733
+read data from server : 102 - 1745318568316270662
+requestID : test_102 - Priority : 10 - time : 22207.66064 - reply : {'msg': '1, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 102}
+sending request to requestInference
+write data to server : 28 - 1745318568935423366
+read data from server : 28 - 1745318569030202452
+requestID : test_28 - Priority : 0 - time : 94.794124 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 28}
+sending request to requestInference
+write data to server : 29 - 1745318570537208500
+read data from server : 29 - 1745318570631791370
+requestID : test_29 - Priority : 0 - time : 94.607174 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 29}
+sending request to requestInference
+write data to server : 30 - 1745318572138989578
+read data from server : 30 - 1745318572238292423
+requestID : test_30 - Priority : 0 - time : 99.328629 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 30}
+sending request to requestInference
+write data to server : 31 - 1745318573740746018
+read data from server : 31 - 1745318573838003582
+requestID : test_31 - Priority : 0 - time : 97.273694 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 31}
+sending request to requestInference
+write data to server : 32 - 1745318575342493727
+read data from server : 32 - 1745318575444557893
+requestID : test_32 - Priority : 0 - time : 102.086301 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 32}
+sending request to requestInference
+write data to server : 33 - 1745318576944251421
+read data from server : 33 - 1745318577045076255
+requestID : test_33 - Priority : 0 - time : 100.842268 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 33}
+sending request to requestInference
+write data to server : 34 - 1745318578546005289
+read data from server : 34 - 1745318578645277893
+requestID : test_34 - Priority : 0 - time : 99.290855 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 34}
+sending request to requestInference
+write data to server : 105 - 1745318579142070957
+read data from server : 103 - 1745318579162521451
+requestID : test_103 - Priority : 10 - time : 22042.745762 - reply : {'msg': ' Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 103}
+sending request to requestInference
+write data to server : 35 - 1745318580147772840
+read data from server : 35 - 1745318580248944419
+requestID : test_35 - Priority : 0 - time : 101.18861 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 35}
+sending request to requestInference
+write data to server : 36 - 1745318581749533875
+read data from server : 36 - 1745318581841382955
+requestID : test_36 - Priority : 0 - time : 91.866355 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 36}
+sending request to requestInference
+write data to server : 37 - 1745318583351287820
+read data from server : 37 - 1745318583448983269
+requestID : test_37 - Priority : 0 - time : 97.712244 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 37}
+sending request to requestInference
+write data to server : 38 - 1745318584953045807
+read data from server : 38 - 1745318585050605257
+requestID : test_38 - Priority : 0 - time : 97.577826 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 38}
+sending request to requestInference
+write data to server : 39 - 1745318586554805896
+read data from server : 39 - 1745318586647243188
+requestID : test_39 - Priority : 0 - time : 92.455054 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 39}
+sending request to requestInference
+write data to server : 40 - 1745318588156559374
+read data from server : 40 - 1745318588249031796
+requestID : test_40 - Priority : 0 - time : 92.489699 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 40}
+sending request to requestInference
+write data to server : 41 - 1745318589758310596
+read data from server : 41 - 1745318589851752995
+requestID : test_41 - Priority : 0 - time : 93.460768 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 41}
+read data from server : 104 - 1745318590010339882
+requestID : test_104 - Priority : 10 - time : 21879.42649 - reply : {'msg': ' which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 104}
+sending request to requestInference
+write data to server : 106 - 1745318590153220652
+sending request to requestInference
+write data to server : 42 - 1745318591360083874
+read data from server : 42 - 1745318591458668377
+requestID : test_42 - Priority : 0 - time : 98.607687 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 42}
+sending request to requestInference
+write data to server : 43 - 1745318592961842248
+read data from server : 43 - 1745318593066668562
+requestID : test_43 - Priority : 0 - time : 104.844023 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 43}
+sending request to requestInference
+write data to server : 44 - 1745318594563606165
+read data from server : 44 - 1745318594659862667
+requestID : test_44 - Priority : 0 - time : 96.274331 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 44}
+sending request to requestInference
+write data to server : 45 - 1745318596165355397
+read data from server : 45 - 1745318596264027864
+requestID : test_45 - Priority : 0 - time : 98.690582 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 45}
+sending request to requestInference
+write data to server : 46 - 1745318597767107820
+read data from server : 46 - 1745318597861713122
+requestID : test_46 - Priority : 0 - time : 94.624768 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 46}
+sending request to requestInference
+write data to server : 47 - 1745318599368859636
+read data from server : 47 - 1745318599466902720
+requestID : test_47 - Priority : 0 - time : 98.059229 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 47}
+read data from server : 105 - 1745318600773741023
+requestID : test_105 - Priority : 10 - time : 21631.693937 - reply : {'msg': ' become a popular tourist destination, with many visitors traveling to the area to see the border and the surrounding countryside.\n\n**Modern Korea (1945-present)**\n\n* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 105}
+sending request to requestInference
+write data to server : 48 - 1745318600970621090
+read data from server : 48 - 1745318601070349357
+requestID : test_48 - Priority : 0 - time : 99.745302 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 48}
+sending request to requestInference
+write data to server : 107 - 1745318601164361269
+sending request to requestInference
+write data to server : 49 - 1745318602572355368
+read data from server : 49 - 1745318602669081073
+requestID : test_49 - Priority : 0 - time : 96.740897 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 49}
+sending request to requestInference
+write data to server : 50 - 1745318604174115553
+read data from server : 50 - 1745318604275232617
+requestID : test_50 - Priority : 0 - time : 101.136081 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 50}
+sending request to requestInference
+write data to server : 51 - 1745318605775884360
+read data from server : 51 - 1745318605874242032
+requestID : test_51 - Priority : 0 - time : 98.375195 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 51}
+sending request to requestInference
+write data to server : 52 - 1745318607377645571
+read data from server : 52 - 1745318607479506777
+requestID : test_52 - Priority : 0 - time : 101.878965 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 52}
+sending request to requestInference
+write data to server : 53 - 1745318608979384629
+read data from server : 53 - 1745318609079363631
+requestID : test_53 - Priority : 0 - time : 99.99523 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 53}
+sending request to requestInference
+write data to server : 54 - 1745318610581155667
+read data from server : 54 - 1745318610677165023
+requestID : test_54 - Priority : 0 - time : 96.028641 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 54}
+read data from server : 106 - 1745318611625804008
+requestID : test_106 - Priority : 10 - time : 21472.60258 - reply : {'msg': '* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 106}
+sending request to requestInference
+write data to server : 108 - 1745318612175504374
+sending request to requestInference
+write data to server : 55 - 1745318612182890415
+read data from server : 55 - 1745318612282570050
+requestID : test_55 - Priority : 0 - time : 99.695144 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 55}
+sending request to requestInference
+write data to server : 56 - 1745318613784632370
+read data from server : 56 - 1745318613885265032
+requestID : test_56 - Priority : 0 - time : 100.649029 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 56}
+sending request to requestInference
+write data to server : 57 - 1745318615386388267
+read data from server : 57 - 1745318615480956597
+requestID : test_57 - Priority : 0 - time : 94.586642 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 57}
+sending request to requestInference
+write data to server : 58 - 1745318616988152807
+read data from server : 58 - 1745318617085669989
+requestID : test_58 - Priority : 0 - time : 97.538068 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 58}
+sending request to requestInference
+write data to server : 59 - 1745318618589894566
+read data from server : 59 - 1745318618689609724
+requestID : test_59 - Priority : 0 - time : 99.73115 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 59}
+sending request to requestInference
+write data to server : 60 - 1745318620191633382
+read data from server : 60 - 1745318620291244976
+requestID : test_60 - Priority : 0 - time : 99.627896 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 60}
+sending request to requestInference
+write data to server : 61 - 1745318621793395211
+read data from server : 61 - 1745318621892349069
+requestID : test_61 - Priority : 0 - time : 98.974126 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 61}
+read data from server : 107 - 1745318622481924314
+requestID : test_107 - Priority : 10 - time : 21317.578395 - reply : {'msg': ' In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 107}
+sending request to requestInference
+write data to server : 109 - 1745318623186660655
+sending request to requestInference
+write data to server : 62 - 1745318623395133459
+read data from server : 62 - 1745318623486862383
+requestID : test_62 - Priority : 0 - time : 91.743654 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 62}
+sending request to requestInference
+write data to server : 63 - 1745318624996894264
+read data from server : 63 - 1745318625092278855
+requestID : test_63 - Priority : 0 - time : 95.404489 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 63}
+sending request to requestInference
+write data to server : 64 - 1745318626598659590
+read data from server : 64 - 1745318626701410984
+requestID : test_64 - Priority : 0 - time : 102.768667 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 64}
+sending request to requestInference
+write data to server : 65 - 1745318628200408926
+read data from server : 65 - 1745318628303625552
+requestID : test_65 - Priority : 0 - time : 103.232149 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 65}
+sending request to requestInference
+write data to server : 66 - 1745318629802156846
+read data from server : 66 - 1745318629901026986
+requestID : test_66 - Priority : 0 - time : 98.889542 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 66}
+sending request to requestInference
+write data to server : 67 - 1745318631403919148
+read data from server : 67 - 1745318631504112742
+requestID : test_67 - Priority : 0 - time : 100.211017 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 67}
+sending request to requestInference
+write data to server : 68 - 1745318633005666088
+read data from server : 68 - 1745318633107766993
+requestID : test_68 - Priority : 0 - time : 102.11878 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 68}
+read data from server : 108 - 1745318633337929372
+requestID : test_108 - Priority : 10 - time : 21162.442219 - reply : {'msg': 'istice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 108}
+sending request to requestInference
+write data to server : 69 - 1745318634607404858
+read data from server : 69 - 1745318634705282901
+requestID : test_69 - Priority : 0 - time : 97.897668 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 69}
+sending request to requestInference
+write data to server : 70 - 1745318636209151798
+read data from server : 70 - 1745318636310910039
+requestID : test_70 - Priority : 0 - time : 101.775611 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 70}
+sending request to requestInference
+write data to server : 71 - 1745318637810891967
+read data from server : 71 - 1745318637908394593
+requestID : test_71 - Priority : 0 - time : 97.520332 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 71}
+sending request to requestInference
+write data to server : 72 - 1745318639412637792
+read data from server : 72 - 1745318639512243425
+requestID : test_72 - Priority : 0 - time : 99.622117 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 72}
+sending request to requestInference
+write data to server : 73 - 1745318641014402716
+read data from server : 73 - 1745318641111643975
+requestID : test_73 - Priority : 0 - time : 97.258465 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 73}
+sending request to requestInference
+write data to server : 74 - 1745318642616140422
+read data from server : 74 - 1745318642717886978
+requestID : test_74 - Priority : 0 - time : 101.766297 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 74}
+read data from server : 109 - 1745318644108970019
+requestID : test_109 - Priority : 10 - time : 20922.333493 - reply : {'msg': '.\n* The DMZ has also become a popular tourist destination, with many visitors traveling to the area to see the border and the surrounding countryside.\n\n**Modern Korea (1945-present)**\n\n* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, which established a ceasefire and created the DMZ.\n* In 1991, North and South Korea held their first inter-Korean summit, which led to the signing of the Joint Declaration of the 38th Parallel.\n* In 2000, the two countries signed the Inter-Korean Basic Agreement, which established a framework for cooperation and reconciliation.\n* In 2018, North and South Korea held their third inter-Korean summit, which led to the signing of the Panmunjom Declaration, which outlined a framework for peace and reconciliation.\n\nThis is just a brief overview of the history of Korea, but I hope it gives you a sense of the major events and periods in Korean history.', 'requestID': 109}
+sending request to requestInference
+write data to server : 75 - 1745318644218029607
+read data from server : 75 - 1745318644303158480
+requestID : test_75 - Priority : 0 - time : 85.146117 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 75}
+sending request to requestInference
+write data to server : 76 - 1745318645819926178
+read data from server : 76 - 1745318645905425056
+requestID : test_76 - Priority : 0 - time : 85.516522 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 76}
+sending request to requestInference
+write data to server : 77 - 1745318647421909582
+read data from server : 77 - 1745318647507694891
+requestID : test_77 - Priority : 0 - time : 85.805462 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 77}
+sending request to requestInference
+write data to server : 78 - 1745318649023863851
+read data from server : 78 - 1745318649109584386
+requestID : test_78 - Priority : 0 - time : 85.740231 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 78}
+sending request to requestInference
+write data to server : 79 - 1745318650625670521
+read data from server : 79 - 1745318650712856480
+requestID : test_79 - Priority : 0 - time : 87.203499 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 79}
+sending request to requestInference
+write data to server : 80 - 1745318652227588314
+read data from server : 80 - 1745318652314630256
+requestID : test_80 - Priority : 0 - time : 87.059964 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 80}
+sending request to requestInference
+write data to server : 81 - 1745318653829414333
+read data from server : 81 - 1745318653916492297
+requestID : test_81 - Priority : 0 - time : 87.095531 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 81}
+sending request to requestInference
+write data to server : 82 - 1745318655431423058
+read data from server : 82 - 1745318655518640481
+requestID : test_82 - Priority : 0 - time : 87.236865 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 82}
+sending request to requestInference
+write data to server : 83 - 1745318657033383328
+read data from server : 83 - 1745318657120434255
+requestID : test_83 - Priority : 0 - time : 87.072059 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 83}
+sending request to requestInference
+write data to server : 84 - 1745318658635432574
+read data from server : 84 - 1745318658722710075
+requestID : test_84 - Priority : 0 - time : 87.295783 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 84}
+sending request to requestInference
+write data to server : 85 - 1745318660237366856
+read data from server : 85 - 1745318660323014748
+requestID : test_85 - Priority : 0 - time : 85.667886 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 85}
+sending request to requestInference
+write data to server : 86 - 1745318661839287643
+read data from server : 86 - 1745318661925039855
+requestID : test_86 - Priority : 0 - time : 85.769345 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 86}
+sending request to requestInference
+write data to server : 87 - 1745318663441223632
+read data from server : 87 - 1745318663526973728
+requestID : test_87 - Priority : 0 - time : 85.767371 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 87}
+sending request to requestInference
+write data to server : 88 - 1745318665043216389
+read data from server : 88 - 1745318665128974280
+requestID : test_88 - Priority : 0 - time : 85.779345 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 88}
+sending request to requestInference
+write data to server : 89 - 1745318666645171434
+read data from server : 89 - 1745318666731073898
+requestID : test_89 - Priority : 0 - time : 85.920101 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 89}
+sending request to requestInference
+write data to server : 90 - 1745318668247110570
+read data from server : 90 - 1745318668332903902
+requestID : test_90 - Priority : 0 - time : 85.813754 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 90}
+sending request to requestInference
+write data to server : 91 - 1745318669849029597
+read data from server : 91 - 1745318669934822291
+requestID : test_91 - Priority : 0 - time : 85.812683 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 91}
+sending request to requestInference
+write data to server : 92 - 1745318671450995114
+read data from server : 92 - 1745318671536779307
+requestID : test_92 - Priority : 0 - time : 85.802646 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 92}
+sending request to requestInference
+write data to server : 93 - 1745318673052794206
+read data from server : 93 - 1745318673138550341
+requestID : test_93 - Priority : 0 - time : 85.773777 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 93}
+sending request to requestInference
+write data to server : 94 - 1745318674654781545
+read data from server : 94 - 1745318674740558700
+requestID : test_94 - Priority : 0 - time : 85.803325 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 94}
+sending request to requestInference
+write data to server : 95 - 1745318676256579748
+read data from server : 95 - 1745318676342334103
+requestID : test_95 - Priority : 0 - time : 85.771242 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 95}
+sending request to requestInference
+write data to server : 96 - 1745318677858563551
+read data from server : 96 - 1745318677944258366
+requestID : test_96 - Priority : 0 - time : 85.714105 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 96}
+sending request to requestInference
+write data to server : 97 - 1745318679460528424
+read data from server : 97 - 1745318679546227396
+requestID : test_97 - Priority : 0 - time : 85.720533 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 97}
+sending request to requestInference
+write data to server : 98 - 1745318681062459685
+read data from server : 98 - 1745318681148168974
+requestID : test_98 - Priority : 0 - time : 85.728318 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 98}
+sending request to requestInference
+write data to server : 99 - 1745318682664380031
+read data from server : 99 - 1745318682750129468
+requestID : test_99 - Priority : 0 - time : 85.766894 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 99}

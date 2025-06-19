@@ -1,0 +1,1131 @@
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_0
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_1
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_2
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_3
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_4
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_5
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_6
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_7
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_8
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_9
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_10
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_11
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_12
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_13
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_14
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_15
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_16
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_17
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_18
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_19
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_20
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_21
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_22
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_23
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_24
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_25
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_26
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_27
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_28
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_29
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_30
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_31
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_32
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_33
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_34
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_35
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_36
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_37
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_38
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_39
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_40
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_41
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_42
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_43
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_44
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_45
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_46
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_47
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_48
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_49
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_50
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_51
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_52
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_53
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_54
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_55
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_56
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_57
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_58
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_59
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_60
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_61
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_62
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_63
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_64
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_65
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_66
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_67
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_68
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_69
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_70
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_71
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_72
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_73
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_74
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_75
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_76
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_77
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_78
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_79
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_80
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_81
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_82
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_83
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_84
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_85
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_86
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_87
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_88
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_89
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_90
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_91
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_92
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_93
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_94
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_95
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_96
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_97
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_98
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_99
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_100
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_101
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_102
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_103
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_104
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_105
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_106
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_107
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_108
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_109
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_110
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_111
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_112
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_113
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_114
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_115
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_116
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_117
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_118
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_119
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_120
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_121
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_122
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_123
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_124
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_125
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_126
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_127
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_128
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+received pipe name :  /home/ywha/RT-LLM/named_pipes/pipe_129
+ready
+sending test data
+data received :  {"msg": "check", "requestID": 0}
+sending request to createHistoryFile
+--------------------start--------------------
+sending request to requestInference
+write data to server : 100 - 1744890050912152631
+sending request to requestInference
+write data to server : 110 - 1744890050912279499
+sending request to requestInference
+write data to server : 0 - 1744890050912757039
+read data from server : 0 - 1744890051094223542
+requestID : test_0 - Priority : 0 - time : 181.501837 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 0}
+sending request to requestInference
+write data to server : 1 - 1744890052514680067
+read data from server : 1 - 1744890052611075630
+requestID : test_1 - Priority : 0 - time : 96.426777 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 1}
+sending request to requestInference
+write data to server : 2 - 1744890054116573284
+read data from server : 2 - 1744890054213075239
+requestID : test_2 - Priority : 0 - time : 96.529738 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 2}
+read data from server : 110 - 1744890055506610077
+requestID : test_110 - Priority : 5 - time : 4594.367874 - reply : {'msg': ' Topeka\n17. Kentucky - Frankfort\n18. Louisiana - Baton Rouge\n19. Maine - Augusta\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 110}
+sending request to requestInference
+write data to server : 111 - 1744890055517175223
+sending request to requestInference
+write data to server : 3 - 1744890055718461557
+read data from server : 3 - 1744890055818920328
+requestID : test_3 - Priority : 0 - time : 100.488148 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 3}
+sending request to requestInference
+write data to server : 4 - 1744890057320328603
+read data from server : 4 - 1744890057420347845
+requestID : test_4 - Priority : 0 - time : 100.050555 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 4}
+sending request to requestInference
+write data to server : 5 - 1744890058922237277
+read data from server : 5 - 1744890059025791993
+requestID : test_5 - Priority : 0 - time : 103.586795 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 5}
+read data from server : 111 - 1744890060052556477
+requestID : test_111 - Priority : 5 - time : 4535.416127 - reply : {'msg': '\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 111}
+sending request to requestInference
+write data to server : 112 - 1744890060122063283
+sending request to requestInference
+write data to server : 6 - 1744890060524160694
+read data from server : 6 - 1744890060618949792
+requestID : test_6 - Priority : 0 - time : 94.81746 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 6}
+sending request to requestInference
+write data to server : 101 - 1744890061923672444
+sending request to requestInference
+write data to server : 7 - 1744890062126086240
+read data from server : 7 - 1744890062221439628
+requestID : test_7 - Priority : 0 - time : 95.388765 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 7}
+sending request to requestInference
+write data to server : 8 - 1744890063728014315
+read data from server : 8 - 1744890063828448445
+requestID : test_8 - Priority : 0 - time : 100.466233 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 8}
+read data from server : 112 - 1744890064641785456
+requestID : test_112 - Priority : 5 - time : 4519.758589 - reply : {'msg': ' Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 112}
+sending request to requestInference
+write data to server : 113 - 1744890064727056822
+sending request to requestInference
+write data to server : 9 - 1744890065329915546
+read data from server : 9 - 1744890065427962433
+requestID : test_9 - Priority : 0 - time : 98.075251 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 9}
+sending request to requestInference
+write data to server : 10 - 1744890066931887960
+read data from server : 10 - 1744890067031190376
+requestID : test_10 - Priority : 0 - time : 99.334217 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 10}
+sending request to requestInference
+write data to server : 11 - 1744890068533823970
+read data from server : 11 - 1744890068627375509
+requestID : test_11 - Priority : 0 - time : 93.592543 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 11}
+read data from server : 113 - 1744890069241123196
+requestID : test_113 - Priority : 5 - time : 4514.101616 - reply : {'msg': '25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 113}
+sending request to requestInference
+write data to server : 114 - 1744890069331653769
+sending request to requestInference
+write data to server : 12 - 1744890070135744417
+read data from server : 12 - 1744890070242116860
+requestID : test_12 - Priority : 0 - time : 106.402977 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 12}
+sending request to requestInference
+write data to server : 13 - 1744890071737674121
+read data from server : 13 - 1744890071851215502
+requestID : test_13 - Priority : 0 - time : 113.574396 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 13}
+sending request to requestInference
+write data to server : 102 - 1744890072935076554
+sending request to requestInference
+write data to server : 14 - 1744890073339680984
+read data from server : 14 - 1744890073436337500
+requestID : test_14 - Priority : 0 - time : 96.689615 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 14}
+read data from server : 114 - 1744890073884705537
+requestID : test_114 - Priority : 5 - time : 4553.086893 - reply : {'msg': ' - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 114}
+sending request to requestInference
+write data to server : 115 - 1744890073936593681
+sending request to requestInference
+write data to server : 15 - 1744890074941697014
+read data from server : 15 - 1744890075047836978
+requestID : test_15 - Priority : 0 - time : 106.173345 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 15}
+sending request to requestInference
+write data to server : 16 - 1744890076543727480
+read data from server : 16 - 1744890076651097722
+requestID : test_16 - Priority : 0 - time : 107.402958 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 16}
+sending request to requestInference
+write data to server : 17 - 1744890078145671082
+read data from server : 17 - 1744890078265237300
+requestID : test_17 - Priority : 0 - time : 119.595267 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 17}
+read data from server : 115 - 1744890078521286613
+requestID : test_115 - Priority : 5 - time : 4584.733047 - reply : {'msg': '. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 115}
+sending request to requestInference
+write data to server : 116 - 1744890078540650664
+sending request to requestInference
+write data to server : 18 - 1744890079747599942
+read data from server : 18 - 1744890079844408330
+requestID : test_18 - Priority : 0 - time : 96.841422 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 18}
+sending request to requestInference
+write data to server : 19 - 1744890081349605286
+read data from server : 19 - 1744890081449143139
+requestID : test_19 - Priority : 0 - time : 99.570004 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 19}
+sending request to requestInference
+write data to server : 20 - 1744890082951497723
+read data from server : 20 - 1744890083061212488
+requestID : test_20 - Priority : 0 - time : 109.744896 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 20}
+read data from server : 116 - 1744890083075798501
+requestID : test_116 - Priority : 5 - time : 4535.178019 - reply : {'msg': ' New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 116}
+sending request to requestInference
+write data to server : 117 - 1744890083145567447
+sending request to requestInference
+write data to server : 103 - 1744890083946392598
+sending request to requestInference
+write data to server : 21 - 1744890084553385827
+read data from server : 21 - 1744890084656920562
+requestID : test_21 - Priority : 0 - time : 103.575623 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 21}
+sending request to requestInference
+write data to server : 22 - 1744890086155354079
+read data from server : 22 - 1744890086251668641
+requestID : test_22 - Priority : 0 - time : 96.345847 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 22}
+read data from server : 117 - 1744890087591398544
+requestID : test_117 - Priority : 5 - time : 4445.883864 - reply : {'msg': '. Kansas - Topeka\n17. Kentucky - Frankfort\n18. Louisiana - Baton Rouge\n19. Maine - Augusta\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 117}
+sending request to requestInference
+write data to server : 118 - 1744890087750559971
+sending request to requestInference
+write data to server : 23 - 1744890087757273312
+read data from server : 23 - 1744890087870282976
+requestID : test_23 - Priority : 0 - time : 113.039286 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 23}
+sending request to requestInference
+write data to server : 24 - 1744890089359208340
+read data from server : 24 - 1744890089457335595
+requestID : test_24 - Priority : 0 - time : 98.161397 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 24}
+sending request to requestInference
+write data to server : 25 - 1744890090961133140
+read data from server : 25 - 1744890091065047936
+requestID : test_25 - Priority : 0 - time : 103.947169 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 25}
+read data from server : 118 - 1744890092276235970
+requestID : test_118 - Priority : 5 - time : 4525.715659 - reply : {'msg': ' Kentucky - Frankfort\n18. Louisiana - Baton Rouge\n19. Maine - Augusta\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 118}
+sending request to requestInference
+write data to server : 119 - 1744890092354656233
+sending request to requestInference
+write data to server : 26 - 1744890092563032991
+read data from server : 26 - 1744890092660167975
+requestID : test_26 - Priority : 0 - time : 97.164388 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 26}
+sending request to requestInference
+write data to server : 27 - 1744890094164920579
+read data from server : 27 - 1744890094261320145
+requestID : test_27 - Priority : 0 - time : 96.424953 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 27}
+sending request to requestInference
+write data to server : 104 - 1744890094957777725
+sending request to requestInference
+write data to server : 28 - 1744890095766800975
+read data from server : 28 - 1744890095869019378
+requestID : test_28 - Priority : 0 - time : 102.251647 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 28}
+read data from server : 119 - 1744890096932101523
+requestID : test_119 - Priority : 5 - time : 4577.498875 - reply : {'msg': '\n20. Maryland - Annapolis\n21. Massachusetts - Boston\n22. Michigan - Lansing\n23. Minnesota - St. Paul\n24. Mississippi - Jackson\n25. Missouri - Jefferson City\n26. Montana - Helena\n27. Nebraska - Lincoln\n28. Nevada - Carson City\n29. New Hampshire - Concord\n30. New Jersey - Trenton\n31. New Mexico - Santa Fe\n32. New York - Albany\n33. North Carolina - Raleigh\n34. North Dakota - Bismarck\n35. Ohio - Columbus\n36. Oklahoma - Oklahoma City\n37. Oregon - Salem\n38. Pennsylvania - Harrisburg\n39. Rhode Island - Providence\n40. South Carolina - Columbia\n41. South Dakota - Pierre\n42. Tennessee - Nashville\n43. Texas - Austin\n44. Utah - Salt Lake City\n45. Vermont - Montpelier\n46. Virginia - Richmond\n47. Washington - Olympia\n48. West Virginia - Charleston\n49. Wisconsin - Madison\n50. Wyoming - Cheyenne', 'requestID': 119}
+sending request to requestInference
+write data to server : 29 - 1744890097368652561
+read data from server : 29 - 1744890097475086645
+requestID : test_29 - Priority : 0 - time : 106.465795 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 29}
+sending request to requestInference
+write data to server : 30 - 1744890098970669319
+read data from server : 30 - 1744890099070051649
+requestID : test_30 - Priority : 0 - time : 99.420258 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 30}
+sending request to requestInference
+write data to server : 31 - 1744890100572665863
+read data from server : 31 - 1744890100676221180
+requestID : test_31 - Priority : 0 - time : 103.585652 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 31}
+sending request to requestInference
+write data to server : 32 - 1744890102174530656
+read data from server : 32 - 1744890102279501003
+requestID : test_32 - Priority : 0 - time : 104.996173 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 32}
+sending request to requestInference
+write data to server : 33 - 1744890103776435900
+read data from server : 33 - 1744890103871067263
+requestID : test_33 - Priority : 0 - time : 94.659471 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 33}
+sending request to requestInference
+write data to server : 34 - 1744890105378326433
+read data from server : 34 - 1744890105493880189
+requestID : test_34 - Priority : 0 - time : 115.578197 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 34}
+sending request to requestInference
+write data to server : 105 - 1744890105969045398
+sending request to requestInference
+write data to server : 35 - 1744890106980234617
+read data from server : 35 - 1744890107074402718
+requestID : test_35 - Priority : 0 - time : 94.200223 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 35}
+read data from server : 100 - 1744890108108135805
+requestID : test_100 - Priority : 10 - time : 57196.019063 - reply : {'msg': '1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 100}
+sending request to requestInference
+write data to server : 36 - 1744890108582147205
+read data from server : 36 - 1744890108677181590
+requestID : test_36 - Priority : 0 - time : 95.060674 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 36}
+sending request to requestInference
+write data to server : 37 - 1744890110184068506
+read data from server : 37 - 1744890110288067525
+requestID : test_37 - Priority : 0 - time : 104.030439 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 37}
+sending request to requestInference
+write data to server : 38 - 1744890111785939697
+read data from server : 38 - 1744890111888057590
+requestID : test_38 - Priority : 0 - time : 102.148204 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 38}
+sending request to requestInference
+write data to server : 39 - 1744890113387843364
+read data from server : 39 - 1744890113489117886
+requestID : test_39 - Priority : 0 - time : 101.308097 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 39}
+sending request to requestInference
+write data to server : 40 - 1744890114989855433
+read data from server : 40 - 1744890115085775926
+requestID : test_40 - Priority : 0 - time : 95.949416 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 40}
+sending request to requestInference
+write data to server : 41 - 1744890116591859006
+read data from server : 41 - 1744890116687166786
+requestID : test_41 - Priority : 0 - time : 95.339205 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 41}
+sending request to requestInference
+write data to server : 106 - 1744890116980333462
+sending request to requestInference
+write data to server : 42 - 1744890118193794066
+read data from server : 42 - 1744890118293205259
+requestID : test_42 - Priority : 0 - time : 99.441383 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 42}
+sending request to requestInference
+write data to server : 43 - 1744890119795825888
+read data from server : 43 - 1744890119889219636
+requestID : test_43 - Priority : 0 - time : 93.423492 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 43}
+read data from server : 101 - 1744890119987991574
+requestID : test_101 - Priority : 10 - time : 58064.352256 - reply : {'msg': ' to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 101}
+sending request to requestInference
+write data to server : 44 - 1744890121397744855
+read data from server : 44 - 1744890121494976391
+requestID : test_44 - Priority : 0 - time : 97.28229 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 44}
+sending request to requestInference
+write data to server : 45 - 1744890122999669140
+read data from server : 45 - 1744890123102099289
+requestID : test_45 - Priority : 0 - time : 102.461451 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 45}
+sending request to requestInference
+write data to server : 46 - 1744890124601611530
+read data from server : 46 - 1744890124700070948
+requestID : test_46 - Priority : 0 - time : 98.487449 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 46}
+sending request to requestInference
+write data to server : 47 - 1744890126203534648
+read data from server : 47 - 1744890126304285006
+requestID : test_47 - Priority : 0 - time : 100.777377 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 47}
+sending request to requestInference
+write data to server : 48 - 1744890127805438706
+read data from server : 48 - 1744890127910939199
+requestID : test_48 - Priority : 0 - time : 105.524442 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 48}
+sending request to requestInference
+write data to server : 107 - 1744890127991666801
+sending request to requestInference
+write data to server : 49 - 1744890129407396044
+read data from server : 49 - 1744890129505148647
+requestID : test_49 - Priority : 0 - time : 97.800545 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 49}
+sending request to requestInference
+write data to server : 50 - 1744890131009305390
+read data from server : 50 - 1744890131107925560
+requestID : test_50 - Priority : 0 - time : 98.647978 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 50}
+read data from server : 102 - 1744890131782632538
+requestID : test_102 - Priority : 10 - time : 58847.591381 - reply : {'msg': '1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 102}
+sending request to requestInference
+write data to server : 51 - 1744890132611208865
+read data from server : 51 - 1744890132717299347
+requestID : test_51 - Priority : 0 - time : 106.122313 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 51}
+sending request to requestInference
+write data to server : 52 - 1744890134213135004
+read data from server : 52 - 1744890134312891513
+requestID : test_52 - Priority : 0 - time : 99.78814 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 52}
+sending request to requestInference
+write data to server : 53 - 1744890135815054489
+read data from server : 53 - 1744890135918264478
+requestID : test_53 - Priority : 0 - time : 103.249653 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 53}
+sending request to requestInference
+write data to server : 54 - 1744890137416999469
+read data from server : 54 - 1744890137520154304
+requestID : test_54 - Priority : 0 - time : 103.18461 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 54}
+sending request to requestInference
+write data to server : 108 - 1744890139002980412
+sending request to requestInference
+write data to server : 55 - 1744890139018915829
+read data from server : 55 - 1744890139116734045
+requestID : test_55 - Priority : 0 - time : 97.845259 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 55}
+sending request to requestInference
+write data to server : 56 - 1744890140620828560
+read data from server : 56 - 1744890140728046418
+requestID : test_56 - Priority : 0 - time : 107.247834 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 56}
+sending request to requestInference
+write data to server : 57 - 1744890142222666596
+read data from server : 57 - 1744890142321775144
+requestID : test_57 - Priority : 0 - time : 99.139448 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 57}
+read data from server : 103 - 1744890143618911797
+requestID : test_103 - Priority : 10 - time : 59672.56294 - reply : {'msg': ' 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 103}
+sending request to requestInference
+write data to server : 58 - 1744890143823677864
+read data from server : 58 - 1744890143917656243
+requestID : test_58 - Priority : 0 - time : 94.012331 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 58}
+sending request to requestInference
+write data to server : 59 - 1744890145425670000
+read data from server : 59 - 1744890145528254465
+requestID : test_59 - Priority : 0 - time : 102.615421 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 59}
+sending request to requestInference
+write data to server : 60 - 1744890147027575106
+read data from server : 60 - 1744890147123304467
+requestID : test_60 - Priority : 0 - time : 95.764305 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 60}
+sending request to requestInference
+write data to server : 61 - 1744890148629448732
+read data from server : 61 - 1744890148723102488
+requestID : test_61 - Priority : 0 - time : 93.681988 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 61}
+sending request to requestInference
+write data to server : 109 - 1744890150009678047
+sending request to requestInference
+write data to server : 62 - 1744890150231435446
+read data from server : 62 - 1744890150330241775
+requestID : test_62 - Priority : 0 - time : 98.839305 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 62}
+sending request to requestInference
+write data to server : 63 - 1744890151833334797
+read data from server : 63 - 1744890151929985973
+requestID : test_63 - Priority : 0 - time : 96.700158 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 63}
+sending request to requestInference
+write data to server : 64 - 1744890153435326634
+read data from server : 64 - 1744890153539199658
+requestID : test_64 - Priority : 0 - time : 103.902769 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 64}
+sending request to requestInference
+write data to server : 65 - 1744890155037261152
+read data from server : 65 - 1744890155134714297
+requestID : test_65 - Priority : 0 - time : 97.486491 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 65}
+read data from server : 104 - 1744890155496539972
+requestID : test_104 - Priority : 10 - time : 60538.792325 - reply : {'msg': '**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 104}
+sending request to requestInference
+write data to server : 66 - 1744890156638646077
+read data from server : 66 - 1744890156736290342
+requestID : test_66 - Priority : 0 - time : 97.676201 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 66}
+sending request to requestInference
+write data to server : 67 - 1744890158240586226
+read data from server : 67 - 1744890158339927042
+requestID : test_67 - Priority : 0 - time : 99.369982 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 67}
+sending request to requestInference
+write data to server : 68 - 1744890159842519337
+read data from server : 68 - 1744890159938194344
+requestID : test_68 - Priority : 0 - time : 95.709477 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 68}
+sending request to requestInference
+write data to server : 69 - 1744890161444481514
+read data from server : 69 - 1744890161541829006
+requestID : test_69 - Priority : 0 - time : 97.377854 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 69}
+sending request to requestInference
+write data to server : 70 - 1744890163046473929
+read data from server : 70 - 1744890163141825423
+requestID : test_70 - Priority : 0 - time : 95.382644 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 70}
+sending request to requestInference
+write data to server : 71 - 1744890164648476687
+read data from server : 71 - 1744890164753194594
+requestID : test_71 - Priority : 0 - time : 104.75556 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 71}
+sending request to requestInference
+write data to server : 72 - 1744890166250406770
+read data from server : 72 - 1744890166376150488
+requestID : test_72 - Priority : 0 - time : 125.784896 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 72}
+read data from server : 105 - 1744890167326360300
+requestID : test_105 - Priority : 10 - time : 61357.36263 - reply : {'msg': '1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 105}
+sending request to requestInference
+write data to server : 73 - 1744890167852342075
+read data from server : 73 - 1744890167952442392
+requestID : test_73 - Priority : 0 - time : 100.132805 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 73}
+sending request to requestInference
+write data to server : 74 - 1744890169454257772
+read data from server : 74 - 1744890169554057164
+requestID : test_74 - Priority : 0 - time : 99.832252 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 74}
+sending request to requestInference
+write data to server : 75 - 1744890171056151735
+read data from server : 75 - 1744890171149929942
+requestID : test_75 - Priority : 0 - time : 93.807533 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 75}
+sending request to requestInference
+write data to server : 76 - 1744890172658055603
+read data from server : 76 - 1744890172762237912
+requestID : test_76 - Priority : 0 - time : 104.209963 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 76}
+sending request to requestInference
+write data to server : 77 - 1744890174259963098
+read data from server : 77 - 1744890174365124810
+requestID : test_77 - Priority : 0 - time : 105.195212 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 77}
+sending request to requestInference
+write data to server : 78 - 1744890175861868862
+read data from server : 78 - 1744890175965566232
+requestID : test_78 - Priority : 0 - time : 103.727709 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 78}
+sending request to requestInference
+write data to server : 79 - 1744890177463791136
+read data from server : 79 - 1744890177560324088
+requestID : test_79 - Priority : 0 - time : 96.574564 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 79}
+sending request to requestInference
+write data to server : 80 - 1744890179065693078
+read data from server : 80 - 1744890179196359783
+requestID : test_80 - Priority : 0 - time : 130.704685 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 80}
+read data from server : 106 - 1744890179271202123
+requestID : test_106 - Priority : 10 - time : 62290.895987 - reply : {'msg': ' new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 106}
+sending request to requestInference
+write data to server : 81 - 1744890180667672873
+read data from server : 81 - 1744890180766252844
+requestID : test_81 - Priority : 0 - time : 98.609231 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 81}
+sending request to requestInference
+write data to server : 82 - 1744890182268046865
+read data from server : 82 - 1744890182372258911
+requestID : test_82 - Priority : 0 - time : 104.239051 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 82}
+sending request to requestInference
+write data to server : 83 - 1744890183869973149
+read data from server : 83 - 1744890183970981537
+requestID : test_83 - Priority : 0 - time : 101.03452 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 83}
+sending request to requestInference
+write data to server : 84 - 1744890185471858214
+read data from server : 84 - 1744890185575716091
+requestID : test_84 - Priority : 0 - time : 103.893552 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 84}
+sending request to requestInference
+write data to server : 85 - 1744890187073662906
+read data from server : 85 - 1744890187177128909
+requestID : test_85 - Priority : 0 - time : 103.498008 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 85}
+sending request to requestInference
+write data to server : 86 - 1744890188675684916
+read data from server : 86 - 1744890188771177752
+requestID : test_86 - Priority : 0 - time : 95.522141 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 86}
+sending request to requestInference
+write data to server : 87 - 1744890190277586913
+read data from server : 87 - 1744890190375965252
+requestID : test_87 - Priority : 0 - time : 98.405326 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 87}
+read data from server : 107 - 1744890191085577295
+requestID : test_107 - Priority : 10 - time : 63093.938469 - reply : {'msg': ' 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 107}
+sending request to requestInference
+write data to server : 88 - 1744890191879487929
+read data from server : 88 - 1744890191975181629
+requestID : test_88 - Priority : 0 - time : 95.736102 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 88}
+sending request to requestInference
+write data to server : 89 - 1744890193481359772
+read data from server : 89 - 1744890193579399563
+requestID : test_89 - Priority : 0 - time : 98.066784 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 89}
+sending request to requestInference
+write data to server : 90 - 1744890195083125521
+read data from server : 90 - 1744890195187064582
+requestID : test_90 - Priority : 0 - time : 103.970762 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 90}
+sending request to requestInference
+write data to server : 91 - 1744890196685050651
+read data from server : 91 - 1744890196789568058
+requestID : test_91 - Priority : 0 - time : 104.54693 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 91}
+sending request to requestInference
+write data to server : 92 - 1744890198286973519
+read data from server : 92 - 1744890198390944529
+requestID : test_92 - Priority : 0 - time : 103.998182 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 92}
+sending request to requestInference
+write data to server : 93 - 1744890199888889295
+read data from server : 93 - 1744890199993943991
+requestID : test_93 - Priority : 0 - time : 105.09943 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 93}
+sending request to requestInference
+write data to server : 94 - 1744890201490757633
+read data from server : 94 - 1744890201585017791
+requestID : test_94 - Priority : 0 - time : 94.283996 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 94}
+read data from server : 108 - 1744890202897182683
+requestID : test_108 - Priority : 10 - time : 63894.237225 - reply : {'msg': '* In 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 108}
+sending request to requestInference
+write data to server : 95 - 1744890203092628972
+read data from server : 95 - 1744890203195240051
+requestID : test_95 - Priority : 0 - time : 102.637194 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 95}
+sending request to requestInference
+write data to server : 96 - 1744890204694545611
+read data from server : 96 - 1744890204797383547
+requestID : test_96 - Priority : 0 - time : 102.864197 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 96}
+sending request to requestInference
+write data to server : 97 - 1744890206296426818
+read data from server : 97 - 1744890206394312961
+requestID : test_97 - Priority : 0 - time : 97.911196 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 97}
+sending request to requestInference
+write data to server : 98 - 1744890207898353988
+read data from server : 98 - 1744890207995300354
+requestID : test_98 - Priority : 0 - time : 96.979574 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 98}
+sending request to requestInference
+write data to server : 99 - 1744890209500361102
+read data from server : 99 - 1744890209601314911
+requestID : test_99 - Priority : 0 - time : 100.983556 - reply : {'msg': 'assistant\n\nSeoul', 'requestID': 99}
+read data from server : 109 - 1744890214514988244
+requestID : test_109 - Priority : 10 - time : 64505.351328 - reply : {'msg': ' World War II.\n* During World War II, Korea was occupied by Japan, and many Koreans were forced to work in Japanese mines and factories.\n* After the war, Korea was occupied by the United States, and a new government was established.\n\n**Korean War (1950-1953)**\n\n* In 1950 CE, North Korea, backed by China and the Soviet Union, invaded South Korea, leading to the Korean War.\n* The war was fought between the United Nations Command, led by the United States, and the North Korean and Chinese armies.\n* The war ended with the signing of the Armistice Agreement in 1953, which established a ceasefire and created the Korean Demilitarized Zone (DMZ) between North and South Korea.\n\n**Demilitarized Zone (1953-present)**\n\n* The DMZ has remained in place ever since the armistice agreement, and it is one of the most heavily militarized borders in the world.\n* The DMZ is a buffer zone between North and South Korea, and it is patrolled by both sides.\n* The DMZ has also become a popular tourist destination, with many people visiting to see the border and the surrounding countryside.\n\n**Modern Korea (1945-present)**\n\n* In 1945, Korea was divided into two separate countries, with the Soviet Union controlling the north and the United States controlling the south.\n* In 1948, the Korean War ended, and the two countries were reunified under a single government.\n* In 1953, the Armistice Agreement was signed, and a formal peace treaty was signed in 1953.\n* In 1991, North and South Korea agreed to hold reunions between their citizens, which have been held annually since 1998.\n* In 2000, the two countries agreed to a new peace treaty, which was signed in 2005.\n\n**Recent Developments (2000-present)**\n\n* In 2000, North and South Korea agreed to a new peace treaty, which established a framework for reunification.\n* In 2009, the two countries agreed to a new joint declaration, which included a commitment to reunification.\n* In 2018, North and South Korea agreed to a new joint declaration, which included a commitment to denuclearization and economic cooperation.\n* In 2020, North and South Korea agreed to a new joint declaration, which included a commitment to reunification and economic cooperation.\n\nThis is a very brief overview of the history of Korea. There is much more to the story, and there are many different perspectives and interpretations of the events that have shaped the country.', 'requestID': 109}
