@@ -1,3 +1,7 @@
+# this file was edited to support preemption in RT-LLM
+# ywha edit
+
+
 # coding=utf-8
 # Copyright 2022 EleutherAI and the HuggingFace Inc. team. All rights reserved.
 #
@@ -273,11 +277,12 @@ class LlamaAttention(nn.Module):
     ) -> Tuple[torch.Tensor, Optional[torch.Tensor], Optional[Tuple[torch.Tensor]]]:
         input_shape = hidden_states.shape[:-1]
         hidden_shape = (*input_shape, -1, self.head_dim)
-
+        # print('input_shape : {}'.format(input_shape))
         query_states = self.q_proj(hidden_states).view(hidden_shape).transpose(1, 2)
         key_states = self.k_proj(hidden_states).view(hidden_shape).transpose(1, 2)
         value_states = self.v_proj(hidden_states).view(hidden_shape).transpose(1, 2)
-
+        # print('query : ',query_states.shape)
+        # print('key : ',key_states.shape)
         cos, sin = position_embeddings
         query_states, key_states = apply_rotary_pos_emb(query_states, key_states, cos, sin)
 
@@ -306,8 +311,9 @@ class LlamaAttention(nn.Module):
             scaling=self.scaling,
             **kwargs,
         )
-
+        # print('before : ',attn_output.shape)
         attn_output = attn_output.reshape(*input_shape, -1).contiguous()
+        # print('after : ',attn_output.shape)
         attn_output = self.o_proj(attn_output)
         return attn_output, attn_weights
 
@@ -580,7 +586,7 @@ class LlamaModel(LlamaPreTrainedModel):
         # decoder layers
         all_hidden_states = () if output_hidden_states else None
         all_self_attns = () if output_attentions else None
-
+    
         for decoder_layer in self.layers[: self.config.num_hidden_layers]:
             if output_hidden_states:
                 all_hidden_states += (hidden_states,)
@@ -609,8 +615,10 @@ class LlamaModel(LlamaPreTrainedModel):
                     position_embeddings=position_embeddings,
                     **flash_attn_kwargs,
                 )
-
+            
             hidden_states = layer_outputs[0]
+            if decoder_layer == self.layers[self.config.num_hidden_layers -1] :# last decoder layer
+                last_decoder_output = layer_outputs
 
             if output_attentions:
                 all_self_attns += (layer_outputs[1],)
@@ -624,7 +632,7 @@ class LlamaModel(LlamaPreTrainedModel):
         output = BaseModelOutputWithPast(
             last_hidden_state=hidden_states,
             past_key_values=past_key_values if use_cache else None,
-            hidden_states=all_hidden_states,
+            hidden_states=last_decoder_output, # after experiment replace last_decoder_output to all_hidden_states
             attentions=all_self_attns,
         )
         return output if return_dict else output.to_tuple()
@@ -869,8 +877,9 @@ class LlamaForCausalLM(LlamaPreTrainedModel, GenerationMixin):
             cache_position=cache_position,
             **kwargs,
         )
-
+        # print('LlamaForCausalLM before : ',outputs)
         hidden_states = outputs[0]
+        # print('LlamaForCausalLM after : ',hidden_states)
         # Only compute necessary logits, and do not upcast them to float if we are not computing the loss
         slice_indices = slice(-logits_to_keep, None) if isinstance(logits_to_keep, int) else logits_to_keep
         logits = self.lm_head(hidden_states[:, slice_indices, :])
@@ -889,6 +898,7 @@ class LlamaForCausalLM(LlamaPreTrainedModel, GenerationMixin):
             past_key_values=outputs.past_key_values,
             hidden_states=outputs.hidden_states,
             attentions=outputs.attentions,
+
         )
 
 

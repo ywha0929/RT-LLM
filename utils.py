@@ -1,3 +1,7 @@
+# This file was modified for RT-LLM
+# ywha edited
+
+
 # coding=utf-8
 # Copyright 2020 The Google AI Language Team Authors, Facebook AI Research authors and The HuggingFace Inc. team.
 # Copyright (c) 2020, NVIDIA CORPORATION.  All rights reserved.
@@ -4277,10 +4281,10 @@ class GenerationMixin:
             model_inputs.update({"output_hidden_states": output_hidden_states} if output_hidden_states else {})
 
             if is_prefill:
-                outputs = self(**model_inputs, return_dict=True)
+                outputs = self(**model_inputs, return_dict=True,target_len=max_length,cur_len=cur_len)
                 is_prefill = False
             else:
-                outputs = model_forward(**model_inputs, return_dict=True)
+                outputs = model_forward(**model_inputs, return_dict=True,target_len=max_length,cur_len=cur_len)
 
             # synced_gpus: don't waste resources running the code we don't need; kwargs must be updated before skipping
             model_kwargs = self._update_model_kwargs_for_generation(
@@ -4298,13 +4302,14 @@ class GenerationMixin:
 
             # pre-process distribution
             next_token_scores = logits_processor(input_ids, next_token_logits)
-
             # Store scores, attentions and hidden_states when required
             if return_dict_in_generate:
+
                 if output_scores:
                     scores += (next_token_scores,)
                 if output_logits:
                     raw_logits += (next_token_logits,)
+                    
                 if output_attentions:
                     decoder_attentions += (
                         (outputs.decoder_attentions,) if self.config.is_encoder_decoder else (outputs.attentions,)
